@@ -1,8 +1,8 @@
 {
-    "name": "UpdateThis Website Name",
+    "name": "GoutPal Gout Help",
     "url": "https://updatethis.com",
-    "blog": "UpdateThis Blog",
-    "subject": "UpdateThis Site Subject",
+    "blog": "Gout and Uric Acid Blog",
+    "subject": "Friendly Help For Gout",
     "author": {
         "name": "Keith Taylor",
         "handle": "@keithtaylor"
@@ -14,7 +14,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/kct2020/updatethis-repo/",
+        "github": "https://github.com/kct2020/goutpal-com-skeleventy/",
         "twitter": "https://twitter.com/keithtaylor"
     }
 }
