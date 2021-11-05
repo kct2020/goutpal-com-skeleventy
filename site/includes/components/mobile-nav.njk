@@ -1,0 +1,32 @@
+<nav id="mobile-nav" class="mobile-nav width-full height-screen box-flex bg-primary pl-700 pr-700 pt-800 z-20 mobileXL:box-hidden" aria-label="Mobile">
+
+    {% set navigation = collections.all | eleventyNavigation %}
+
+    <ul class="width-full">
+
+        {%- for item in navigation %}
+
+        <li class="item">
+
+            <a href="{{ item.url | url }}" class="link box-block color-white text-600 {{ 'active' if item.url === page.url }}" {{ 'aria-current=page' if item.url === page.url }}>{{ item.title }}</a>
+
+        </li>
+
+        {%- endfor %}
+
+    </ul>
+
+</nav>
+
+<button id="mobile-nav-toggle" class="mobile-nav-toggle box-flex width-full bg-secondary z-20 mobileXL:box-hidden" aria-label="Mobile Navigation Toggle" aria-expanded="false" aria-controls="mobile-nav">
+
+    <span class="mobile-nav-label text-400">Menu</span>
+
+    <span class="mobile-nav-icon box-flex ml-300" aria-hidden="true">
+        <span class="icon-line box-block bg-primary"></span>
+        <span class="icon-line box-block bg-primary"></span>
+        <span class="icon-line box-block bg-primary"></span>
+    </span>
+
+</button>
+

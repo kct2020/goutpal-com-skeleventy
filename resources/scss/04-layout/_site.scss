@@ -1,0 +1,18 @@
+
+//========== Site ==========//
+
+// wrapper
+.wrapper {
+    min-height: 100vh;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-color: white;
+}
+
+@include media-query('mobileXL') {
+
+    .wrapper {
+        padding-bottom: 0;
+    }
+}
+

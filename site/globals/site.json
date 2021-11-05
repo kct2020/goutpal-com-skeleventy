@@ -1,0 +1,20 @@
+{
+    "name": "UpdateThis Website Name",
+    "url": "https://updatethis.com",
+    "blog": "UpdateThis Blog",
+    "subject": "UpdateThis Site Subject",
+    "author": {
+        "name": "Keith Taylor",
+        "handle": "@keithtaylor"
+    },
+    "images": {
+        "favicon": "/favicon.png",
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
+        "twitter": "/images/meta/twitter.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "github": "https://github.com/kct2020/updatethis-repo/",
+        "twitter": "https://twitter.com/keithtaylor"
+    }
+}
