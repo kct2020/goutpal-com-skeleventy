@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fix &#8211; GoutPal Gout Help</title>
+	<atom:link href="/topic/fix/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Friendly Science of Gout</description>
+	<lastBuildDate>Tue, 19 Jan 2021 11:04:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-GoutPal-512-1-60x60.png</url>
+	<title>fix &#8211; GoutPal Gout Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Doctor, do I have gout?</title>
+		<link>/7663/doctor-do-i-have-gout/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2014 11:06:25 +0000</pubDate>
+				<category><![CDATA[1 Gout Symptoms Causes & Diagnosis]]></category>
+		<category><![CDATA[GoutPal Facts For Arthritis Sufferers]]></category>
+		<category><![CDATA[1 Gout Diagnosis]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Most Helpful Gout Pages]]></category>
+		<category><![CDATA[Tophi]]></category>
+		<guid isPermaLink="false">/?p=7663</guid>
+
+					<description><![CDATA[Who listens when you ask "Do I have Gout?" Does your doctor? 3 out of 4 docs don't understand gout. I tell you when you have gout. Get real gout answers.
+<p><a href="/7663/doctor-do-i-have-gout/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The GOUT Fix</title>
+		<link>/587/the-gout-fix/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sun, 09 Mar 2014 07:41:31 +0000</pubDate>
+				<category><![CDATA[2 Gout Treatments]]></category>
+		<category><![CDATA[fix]]></category>
+		<guid isPermaLink="false">/?p=587</guid>
+
+					<description><![CDATA[The gout fix plan - cure your gout in 4 simple stages. Gout remedies only make sense if they are part of good gout management. One step at a time to fix gout.
+<p><a href="/587/the-gout-fix/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

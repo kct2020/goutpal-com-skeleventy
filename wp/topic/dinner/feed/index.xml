@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dinner &#8211; GoutPal Gout Help</title>
+	<atom:link href="/topic/dinner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Friendly Science of Gout</description>
+	<lastBuildDate>Wed, 27 Jan 2021 12:00:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-GoutPal-512-1-60x60.png</url>
+	<title>dinner &#8211; GoutPal Gout Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Food Portions and Gout Diet</title>
+		<link>/2057/diet-for-gout-sufferers-food-tables/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sat, 07 May 2011 19:32:05 +0000</pubDate>
+				<category><![CDATA[3 Gout Diet]]></category>
+		<category><![CDATA[breakfast]]></category>
+		<category><![CDATA[dinner]]></category>
+		<category><![CDATA[Most Helpful Gout Pages]]></category>
+		<category><![CDATA[portion]]></category>
+		<category><![CDATA[PRAL]]></category>
+		<guid isPermaLink="false">/?p=2057</guid>
+
+					<description><![CDATA[Food tables help you plan a diet for gout sufferers. Start by assess your gout diet needs. Then use again to improve food portions for better uric acid control.
+<p><a href="/2057/diet-for-gout-sufferers-food-tables/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gout Diet Menu: Pancakes and Gout</title>
+		<link>/6466/gout-diet-menu-pancakes-and-gout/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2013 13:00:04 +0000</pubDate>
+				<category><![CDATA[3 Gout Diet]]></category>
+		<category><![CDATA[Gout Facts for GoutPal Foodies]]></category>
+		<category><![CDATA[dinner]]></category>
+		<category><![CDATA[menu]]></category>
+		<category><![CDATA[uric diet]]></category>
+		<guid isPermaLink="false">/?p=6466</guid>
+
+					<description><![CDATA[What is the important fact about pancakes and gout? There is no direct connection, but too many pancakes could make gout worse. Get gout and pancakes info.
+<p><a href="/6466/gout-diet-menu-pancakes-and-gout/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

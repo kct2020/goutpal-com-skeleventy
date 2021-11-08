@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>peach &#8211; GoutPal Gout Help</title>
+	<atom:link href="/topic/peach/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Friendly Science of Gout</description>
+	<lastBuildDate>Wed, 20 Jan 2021 13:26:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-GoutPal-512-1-60x60.png</url>
+	<title>peach &#8211; GoutPal Gout Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fruit and Fruit Juice for Gout</title>
+		<link>/gout-diet/gout-foods/gout-foods-table-for-fruit-and-juices/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sat, 02 Nov 2013 12:50:20 +0000</pubDate>
+				<category><![CDATA[3 Gout Diet]]></category>
+		<category><![CDATA[Gout Facts For GoutPal Dieters]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[fruit]]></category>
+		<category><![CDATA[juice]]></category>
+		<category><![CDATA[Most Helpful Gout Pages]]></category>
+		<category><![CDATA[peach]]></category>
+		<guid isPermaLink="false">/?page_id=6483</guid>
+
+					<description><![CDATA[Fruit is important in gout diet. But you need to eat the gout-friendly fruit. And drink the best juice. Check the Fruit and Fruit Juice for Gout list now.
+<p><a href="/gout-diet/gout-foods/gout-foods-table-for-fruit-and-juices/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gout Foods: Peaches and Gout</title>
+		<link>/6482/gout-foods-peaches-and-gout/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sat, 02 Nov 2013 09:50:07 +0000</pubDate>
+				<category><![CDATA[3 Gout Diet]]></category>
+		<category><![CDATA[Gout Facts for GoutPal Foodies]]></category>
+		<category><![CDATA[Gout Foods]]></category>
+		<category><![CDATA[peach]]></category>
+		<guid isPermaLink="false">/?p=6482</guid>
+
+					<description><![CDATA[Peaches and gout are important as fruit must be part of your gout diet. Peaches are good for gout, but there is more. See how peaches improve your gout foods.
+<p><a href="/6482/gout-foods-peaches-and-gout/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
