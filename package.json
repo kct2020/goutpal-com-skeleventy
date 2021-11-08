@@ -17,7 +17,7 @@
     "@11ty/eleventy-navigation": "0.3.2",
     "gorko": "0.8.0",
     "html-minifier": "4.0.0",
-    "laravel-mix": "6.0.37",
+    "laravel-mix": "6.0.38",
     "laravel-mix-purgecss": "6.0.0",
     "postcss": "8.3.11",
     "resolve-url-loader": "4.0.0",
