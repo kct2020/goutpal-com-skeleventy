@@ -14,10 +14,13 @@ Intention is to deploy this using Cloudflare Pages. But it should also work fine
 - site/globals/site.json
 
 ## 2. Optional Import WP
-- Download zip to wp folder
-- extract zip
+- Upload wp-static.zip to wp folder
+In Terminal:
+- cd wp
+- unzip wp-static.zip
+- rm wp-static.zip
+In Gitpod explorer
 - rename wp/index.html 
-- delete zip
 
 If you're not importing WordPress, you can optionally remove the config instruction:
 - eleventy.config.js config.addPassthroughCopy({ "wp/": "/" })
