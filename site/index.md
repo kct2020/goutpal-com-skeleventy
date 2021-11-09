@@ -17,7 +17,8 @@ eleventyNavigation:
 ## {{ site.name }} Introduction
 
 Link to ...
-- old blog
+- <a href="/goutpal-com-2020.html">old home page</a>
+- <a href="/gout-blog/">old blog</a>
 - new blog
 - search
 - archive

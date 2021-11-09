@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Urate Deposits &#8211; GoutPal Gout Help</title>
+	<atom:link href="/topic/urate-deposits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Friendly Science of Gout</description>
+	<lastBuildDate>Mon, 08 Feb 2021 16:52:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-GoutPal-512-1-60x60.png</url>
+	<title>Urate Deposits &#8211; GoutPal Gout Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gout Without Hyperuricemia</title>
+		<link>/uric-acid/hyperuricemia/gout-without-hyperuricemia/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Sun, 27 Jan 2013 09:54:30 +0000</pubDate>
+				<category><![CDATA[Uric Acid]]></category>
+		<category><![CDATA[crystal]]></category>
+		<category><![CDATA[Hyperuricemia]]></category>
+		<category><![CDATA[Most Helpful Gout Pages]]></category>
+		<category><![CDATA[Urate Deposits]]></category>
+		<guid isPermaLink="false">/?page_id=5670</guid>
+
+					<description><![CDATA[Can you get gout when uric acid is normal? Certainly! See how gout happens despite normal urate. Learn to recognize and control gout without hyperuricemia.
+<p><a href="/uric-acid/hyperuricemia/gout-without-hyperuricemia/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Urate Crystals</title>
+		<link>/uric-acid/uric-acid-crystals/urate-crystals/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2010 08:17:11 +0000</pubDate>
+				<category><![CDATA[Uric Acid]]></category>
+		<category><![CDATA[crystal]]></category>
+		<category><![CDATA[tendon]]></category>
+		<category><![CDATA[Urate Deposits]]></category>
+		<guid isPermaLink="false">/</guid>
+
+					<description><![CDATA[Uric acid crystals are the scourge of gout sufferers, but why do they hurt so much? Definitely not because they are sharp. See how they trigger immune response.
+<p><a href="/uric-acid/uric-acid-crystals/urate-crystals/" rel="nofollow">Source</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
