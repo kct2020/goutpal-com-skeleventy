@@ -5,9 +5,11 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: meta_description
   label: meta_description
+  default: AIDA statement for search engines.
 - type: field_group
   name: eleventyComputed
   label: eleventyComputed
@@ -27,3 +29,7 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    min: 1
+  description: Add at least, the 'blog' tag
