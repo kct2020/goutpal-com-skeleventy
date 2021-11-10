@@ -10,8 +10,8 @@ eleventyNavigation:
   order: 1
 ---
 <figure class="inner">
-<img src="images/updatethis-welcome-banner.webp" alt="UpdateThis Banner Description"  width="610" height="377">
-  <figcaption>UpdateThis Banner Description</figcaption>
+<img src="images/goutpal-com-welcome.webp" alt="{{ site.name}} Welcome Banner"  width="610" height="377">
+  <figcaption>{{ site.name}} Welcome Banner</figcaption>
 </figure>
 
 ## {{ site.name }} Introduction
