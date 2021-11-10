@@ -1,0 +1,29 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: meta_description
+  label: meta_description
+- type: field_group
+  name: eleventyComputed
+  label: eleventyComputed
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: image_alt
+    label: image_alt
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: file
+  name: post_image
+  label: post_image
+- type: list
+  name: tags
+  label: tags
