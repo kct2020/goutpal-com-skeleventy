@@ -30,6 +30,9 @@ These are current working notes. Eventually, this is about setting colors, backg
 
 - resources/scss/04-layout/_site.scss: change background to image to a different color. Not sure if this needs changing in main.css and/or main.min.css *
 - site/includes/components/nav.njk: Change link to WP version of About Page or to appropriate blog post. 
+
+Should be simplified to search for UpdateThis (including About Page link above). Except that should be split to UpdateSetting and UpdateContent to change 1st Config or Start Blog - meaning that look and feel is a simple part of installing in most cases. But might consider 2nd Config once content has been added to change text/background and other layout settings for a different look.
+
 - site/index.md: rewrite.
 - site/includes/components/footer.njk: Change footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
 - site/includes/components/footer.njk: Change disclaimer
@@ -37,6 +40,8 @@ These are current working notes. Eventually, this is about setting colors, backg
 
 * I got confused by the way css works in this setup and I hacked the background image 
 in css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template! Which is probly something to do with this note in the original readme...
+
+CHANGE these notes to reflect how the process actually works. Also, resources/scss/04-layout/_site.scss and related files only need changing if text/background colors change from template settings. Because primary/secondary are set in 1sr config.
 
 ### The build pipeline
 
