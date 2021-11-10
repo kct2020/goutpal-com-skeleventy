@@ -1,10 +1,11 @@
 ---
-date: 2021-10-30
+date: 2021-11-10T00:00:00Z
 meta_description: UpdateThis as your AIDA statement for search engines.
 eleventyComputed:
   title: Welcome to {{ site.name }}
   image_alt: Welcome to {{ site.name }}
-sub_heading: UpdateThis as your AIDA statement for reader engagement.
+sub_heading: I'm moving GoutPal to make it easier to add new features. See what's
+  new to help your gout.
 post_image: "/images/updatethis-site-welcome.webp"
 tags:
 - using
