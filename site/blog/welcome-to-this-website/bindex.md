@@ -2,15 +2,15 @@
 date: 2021-10-30
 meta_description: UpdateThis as your AIDA statement for search engines.
 eleventyComputed:
-  title: "Welcome to {{ site.name }}"
-  image_alt: "Welcome to {{ site.name }}"
+  title: Welcome to {{ site.name }}
+  image_alt: Welcome to {{ site.name }}
 sub_heading: UpdateThis as your AIDA statement for reader engagement.
-post_image: /images/updatethis-site-welcome.webp
+post_image: "/images/updatethis-site-welcome.webp"
 tags:
-    - using
-    - blog
----
+- using
+- blog
 
+---
 ## {{ site.name }} Status
 
 UpdateThis to describe your intentions for forthcoming content
