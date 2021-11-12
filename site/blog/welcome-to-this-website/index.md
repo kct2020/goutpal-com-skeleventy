@@ -23,6 +23,10 @@ Starting in November 2021, I'm revising old content and moving it to my new [Gou
 
 As always, I will back my opinions and recommendations with published gout facts. So you can see that I have also revamped the Gout and Uric Acid Library. Now with simpler reviews to help you discuss your responsibilities with your professional health advisers.
 
+## New Gout Forum Trials
+
+I'm in the very early days of reviewing a new gout forum. As part of my changing technical platform, I expect this new format to be more efficient. But the real test is how it helps you as a gout sufferer. So please call into <a href="{{ site.github }}discussions">GoutPal's Gout Discussions</a>. And let me know what you think.
+
 ## Your {{ site.name }}
 
 I hope you'll enjoy my {{ site.subject }} articles. Please share and discuss them with your professional advisers, where appropriate.
