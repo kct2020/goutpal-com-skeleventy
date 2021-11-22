@@ -5,7 +5,7 @@ eleventyComputed:
   title: Welcome to {{ site.name }}
   image_alt: Welcome to {{ site.name }}
 sub_heading: I'm moving GoutPal to make it easier to add new features. See what's new to help your gout.
-post_image: "goutpal-com-welcome.webp"
+post_image: "/images/goutpal-com-welcome.webp"
 tags:
 - using
 - blog

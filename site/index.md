@@ -3,24 +3,41 @@ layout: home
 eleventyComputed:
   title: "{{ site.name }} Home Page"
   meta_title: "{{ site.name }} Home Page"
-meta_description: UpdateThis to describe the site main markets.
-sub_heading: UpdateThis to an introductory AIDA statement.
+meta_description: Start taking control of gout today. Learn the best ways to manage uric acid. End the misery of gouty arthritis.
+sub_heading: The start of your journey to Gout Freedom. End gouty arthritis with effective uric acid control.
 eleventyNavigation:
   key: Home
   order: 1
 ---
 <figure class="inner">
-<img src="images/goutpal-com-welcome.webp" alt="{{ site.name}} Welcome Banner"  width="610" height="377">
+<img src="/images/goutpal-com-welcome.webp" alt="{{ site.name}} Welcome Banner"  width="610" height="377">
   <figcaption>{{ site.name}} Welcome Banner</figcaption>
 </figure>
 
 ## {{ site.name }} Introduction
 
-Link to ...
-- <a href="/goutpal-com-2020.html">old home page</a>
-- <a href="/gout-blog/">old blog</a>
-- new blog
-- search
-- archive
+I started GoutPal to help me learn about my gout. Because I wanted to collect facts about the best ways to control uric acid. And avoid the misinformation from companies trying to sell fake cures.
 
-With paragraph for each rather than a list of links.
+Now, I've been free from the pain of gout for several years. But I made a few mistakes along the way. Also, I wasted some time as I tried to find "the best" way to end gout pain. Rather than taking swift action. So I want to help you find quick solutions to your gout problems.
+
+I believe that the most important first step is to build a good relationship with a suitably qualified health professional. Then you can work together to create treatment plans that work for your unique circumstances. Because gout control has some principles that apply to everyone. But many of the details change from one sufferer to the next.
+
+## GoutPal 2021
+
+Currently, I am changing the platform for GoutPal. So you will see a mix of old and new styles. But gradually, I will republish old pages in the new style. 
+
+<dl id="contents">
+<dt id="blog"><p>Latest Gout Blog</p></dt><dd><p>For the latest gouty arthritis facts, see the <a href="/blog">{{ site.blog }}</a>.</p></dd>
+<dt id="old"><p>2020 Gout Blog</p></dt><dd><p>For earlier gout news see <a href="/gout-blog/">GoutPal 2020 Blog</a>.</p></dd>
+<dt id="home"><p>2020 GoutPal Home Page</p></dt><dd><p>For the previous version of this page see <a href="/goutpal-com-2020.html">2020 home page</a>.</p></dd>
+<dt id="archive"><p>GoutPal Archives</p></dt><dd><p>See how GoutPal has changed since 2005 in the <a href="https://web.archive.org/web/20050221104806/http://www.goutpal.com/">GoutPal Archives</a>.</p></dd>
+<dt id="search"><p>GoutPal Search Engine</p></dt><dd><p>This is the easiest way for you to answer any gout question. Just type your question or concern into the <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">GoutPal Search Engine</a>.</p></dd>
+</dl>
+
+## Your GoutPal
+
+I'm happy with my own gout control now. So I'm focused on making GoutPal the best place to help you. But to do that, I need your feedback.
+
+For general feedback, please join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>. Where you can share your thoughts with fellow gout sufferers.
+
+For contributions to improve this website, please join <a href="{{ site.social_links.github }}issues">{{ site.name }} Issues</a>. Or <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a>. This is the best way to tell me if you see anything wrong with any page. That could be anything from a spelling mistake to topics that need better explanation. I'm especially interested in new gout research. So please use the Issues page to tell me if I've missed something important.

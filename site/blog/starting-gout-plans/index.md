@@ -5,7 +5,7 @@ eleventyComputed:
   title: Start Your Uric Acid Plan Today
   image_alt: Starting a gout plan
 sub_heading: Are you overwhelmed by uric acid treatment choices? Here's your gout patient plan template.
-post_image: "starting-your-gout-plan.webp"
+post_image: "/images/starting-your-gout-plan.webp"
 tags:
 - plan
 - blog

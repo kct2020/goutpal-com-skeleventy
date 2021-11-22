@@ -5,7 +5,7 @@ eleventyComputed:
   title: Resolve Your Gout Concerns Today
   image_alt: Find your way out of the gout maze
 sub_heading: One gout concern leads to another. Soon you're overwhelmed by uric acid treatment choices. Find your way out of the gout maze today.
-post_image: "gout-maze.webp"
+post_image: "/images/gout-maze.webp"
 tags:
 - using
 - blog
