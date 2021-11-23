@@ -1,9 +1,8 @@
 ---
 date: 2021-11-20T00:00:00Z
 meta_description: Uric acid treatment plans should be easy to follow. But how and when to start? Get a free gout patient plan template today.
-eleventyComputed:
-  title: Start Your Uric Acid Plan Today
-  image_alt: Starting a gout plan
+title: Start Your Uric Acid Plan Today
+image_alt: Starting a gout plan
 sub_heading: Are you overwhelmed by uric acid treatment choices? Here's your gout patient plan template.
 post_image: "/images/starting-your-gout-plan.webp"
 tags:
@@ -61,11 +60,11 @@ Now, you are taking allopurinol, or other uric acid treatment. But an essential 
 
 ### 6. Have I got safe uric acid levels?
 
-As we'll see in the detailed plans, in can take several months for gout to be completely "cured". Especially if excess uric acid has gone untreated for many years. So that is why we established our success measures at step 3. Have you found gout freedom yet?
+As we'll see in the detailed plans, it can take several months for gout to be completely "cured". Especially if excess uric acid has gone untreated for many years. So that is why we established our success measures at step 3. Have you found gout freedom yet?
 
 ### 7. Can I improve my uric acid plan?
 
-It's important to continue with your gout management plan for the rest of your life. At the very minimum, this means annual uric acid blood tests. But you might also consider lifestyle improvements to reduce your reliance on medication. Also, standard for gout care are improving. So your doctor might suggest improvements to your treatment.
+It's important to continue with your gout management plan for the rest of your life. At the very minimum, this means annual uric acid blood tests. But you might also consider lifestyle improvements to reduce your reliance on medication. Also, standards for gout care are improving. So your doctor might suggest improvements to your treatment.
 
 
 ## Your Uric Acid Plan
