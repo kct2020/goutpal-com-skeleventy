@@ -1,9 +1,8 @@
 ---
 date: 2021-11-19T00:00:00Z
 meta_description: Gouty arthritis raises many concerns. So sufferers soon get overwhelmed by uric acid control options. See how to start resolving your gout today.
-eleventyComputed:
-  title: Resolve Your Gout Concerns Today
-  image_alt: Find your way out of the gout maze
+title: Resolve Your Gout Concerns Today
+image_alt: Find your way out of the gout maze
 sub_heading: One gout concern leads to another. Soon you're overwhelmed by uric acid treatment choices. Find your way out of the gout maze today.
 post_image: "/images/gout-maze.webp"
 tags:
@@ -13,7 +12,7 @@ tags:
 ---
 ## Gout Concerns
 
-Currently, my biggest project is to improve my plans for helping you manage uric acid and gout. So I'm revamping the <a href="/9858/questions-for-gout-sufferers/">Gout Sufferer Questions section</a>. In particular, I'm focusing on practical steps to get your most relevant help from your doctor.
+Currently, my biggest project is to improve my plans for helping you manage uric acid and gout. So I'm revamping the <a href="/9858/questions-for-gout-sufferers/">Gout Sufferer Questions section</a>. In particular, I'm focusing on providing practical ways for you to get <b>relevant</b> advice from your doctor.
 
 To get started, you should select one concern from the list below. Later, you might add more than one concern. But for the best start, select whichever gout concern resonates with you the most.
 
@@ -27,8 +26,8 @@ To get started, you should select one concern from the list below. Later, you mi
 <p>"<em>I want to control uric acid using alternative therapies</em>"</p>
 <p>I often refer to "herbal gout remedies". But I'm refocusing herbalist plans as "Complementary and Integrative Gout Therapies". In the meantime, see <a href="/9661/goutpal-plan-for-gout-herbalists/">GoutPal Plan for Gout Herbalists</a>.</p>
 <h3 id="student">Learn Uric Acid Control</h3>
-<p>"<em>I want to control uric but not sure how</em>"</p>
-<p>I'm working on simpler ways to learn different uric acid control techniques. In the meantime, see <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Plan for Gout Students</a>.</p>
+<p>"<em>I want to control uric acid, but not sure how</em>"</p>
+<p>I'm working on simpler ways to learn and compare different uric acid control techniques. In the meantime, see <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Plan for Gout Students</a>.</p>
 <h3 id="victim">Uric Acid Denial</h3>
 <p>"<em>I want to stop getting gout attacks but don't want to control uric acid</em>"</p>
 <p>I'm working on simpler ways to explain the importance of uric acid control. In the meantime, see <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal Plan for Gout Victims</a>.</p>
@@ -53,7 +52,7 @@ In the meantime, I suggest you...
 4. Add notes from the results pages to your gout plan.
 5. Discuss the concerns with your health professionals.
 
-It's a good idea to get into the habit of raising Issues with me if you need clarification about any of my results pages in step 4. Also, see the notes about Your Gout Concerns below.
+It's a good idea to get into the habit of raising Issues with me if you need clarification about any of my results pages in step 4. So see the notes about your gout issues below.
 
 ## Your Gout Concerns
 
