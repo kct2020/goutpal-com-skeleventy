@@ -13,20 +13,18 @@ tags:
 ---
 ## Gout Concerns
 
-Currently, my biggest project is to improve my plans for helping you manage uric acid and gout. So I'm revamping the <a href="/9858/questions-for-gout-sufferers/">Gout Sufferer Questions section</a>. In particular, I'm focusing on practical steps to get help from your doctor that is relevant to you.
+Currently, my biggest project is to improve my plans for helping you manage uric acid and gout. So I'm revamping the <a href="/9858/questions-for-gout-sufferers/">Gout Sufferer Questions section</a>. In particular, I'm focusing on practical steps to get your most relevant help from your doctor.
 
 To get started, you should select one concern from the list below. Later, you might add more than one concern. But for the best start, select whichever gout concern resonates with you the most.
 
-<dl id="concerns">
-<dt id="patient"><p>I want to control uric acid using drugs</p></dt><dd><p>I'm working on simpler ways to plan uric acid control with prescription medicines. In the meantime, see <a href="/9602/goutpal-plan-for-gout-patients/">GoutPal Plan for Gout Patients</a>.</p></dd>
-<dt id="diet"><p>I want to control uric acid using diet</p></dt><dd><p>I'm working on simpler ways to plan uric acid control with eating pattern changes. In the meantime, see <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.</p></dd>
-<dt id="herbal"><p>I want to control uric acid using alternative therapies</p></dt><dd><p>I often refer to "herbal gout remedies"</p>. But I'm refocusing herbalist plans as "Complementary and Integrative Gout Therapies". In the meantime, see <a href="/9661/goutpal-plan-for-gout-herbalists/">GoutPal Plan for Gout Herbalists</a>.</dd>
-<dt id="student"><p>I want to control uric but not sure how</p></dt><dd><p>I'm working on simpler ways to learn different uric acid control techniques. In the meantime, see <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Plan for Gout Students</a>.</p></dd>
-<dt id="victim"><p>I want to stop getting gout attacks but don't want to control uric acid</p></dt><dd><p>I'm working on simpler ways to explain the importance of uric acid control. In the meantime, see <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal Plan for Gout Victims</a>.</p></dd>
-<dt id="arthritis"><p>I want to be certain that I have gout</p></dt><dd><p>I'm working on simpler ways to get better gout diagnosis. In the meantime, see <a href="/9642/goutpal-plan-for-arthritis-sufferers/">GoutPal Plan for Arthritis Sufferers</a>.</p></dd>
-<dt id="foodie"><p>I want to eat the right things to stop getting gout attacks</p></dt><dd><p>I'm working on simpler ways to plan healthy eating patterns for gout. In the meantime, see <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Plan for Gout Foodies</a>.</p></dd>
-<dt id="secondary"><p>I want to stop something that is causing my gout</p></dt><dd><p>I'm working on simpler ways to overcome avoidable uric acid causes. In the meantime, see <a href="/9653/goutpal-plan-for-secondary-gout/">GoutPal Plan for Secondary Gout</a>.</p></dd>
-</dl>
+<blockquote id="patient"><p>I want to control uric acid using drugs</p></blockquote><p>I'm working on simpler ways to plan uric acid control with prescription medicines. In the meantime, see <a href="/9602/goutpal-plan-for-gout-patients/">GoutPal Plan for Gout Patients</a>.</p>
+<blockquote id="diet"><p>I want to control uric acid using diet</p></blockquote><p>I'm working on simpler ways to plan uric acid control with eating pattern changes. In the meantime, see <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.</p>
+<blockquote id="herbal"><p>I want to control uric acid using alternative therapies</p></blockquote><p>I often refer to "herbal gout remedies". But I'm refocusing herbalist plans as "Complementary and Integrative Gout Therapies". In the meantime, see <a href="/9661/goutpal-plan-for-gout-herbalists/">GoutPal Plan for Gout Herbalists</a>.</p>
+<blockquote id="student"><p>I want to control uric but not sure how</p></blockquote><p>I'm working on simpler ways to learn different uric acid control techniques. In the meantime, see <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Plan for Gout Students</a>.</p>
+<blockquote id="victim"><p>I want to stop getting gout attacks but don't want to control uric acid</p></blockquote><p>I'm working on simpler ways to explain the importance of uric acid control. In the meantime, see <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal Plan for Gout Victims</a>.</p>
+<blockquote id="arthritis"><p>I want to be certain that I have gout</p></blockquote><p>I'm working on simpler ways to get better gout diagnosis. In the meantime, see <a href="/9642/goutpal-plan-for-arthritis-sufferers/">GoutPal Plan for Arthritis Sufferers</a>.</p>
+<blockquote id="foodie"><p>I want to eat the right things to stop getting gout attacks</p></blockquote><p>I'm working on simpler ways to plan healthy eating patterns for gout. In the meantime, see <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Plan for Gout Foodies</a>.</p>
+<blockquote id="secondary"><p>I want to stop something that is causing my gout</p></blockquote><p>I'm working on simpler ways to overcome avoidable uric acid causes. In the meantime, see <a href="/9653/goutpal-plan-for-secondary-gout/">GoutPal Plan for Secondary Gout</a>.</p>
 
 ### Other Gout Concerns
 
