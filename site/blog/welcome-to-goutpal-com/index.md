@@ -15,11 +15,11 @@ tags:
 
 Starting in November 2021, I'm revising old content and moving it to my new [Gout Blog](/blog/). But mostly, I'll be adding new content for:
 
-* Replacement GoutPal Plans - you can see the start of this in Gout Maze - New Ways To Unravel Old Gout Concerns.
+* Replacement GoutPal Plans - you can see the start of this in <a href="/blog/whats-your-biggest-gout-concern/">Gout Maze - New Ways To Unravel Old Gout Concerns</a>.
 * New Gout Food Database - linking foods you need or those you want to avoid with the latest healthy eating guidelines.
-* Your Gout Projects - templates to help you start your own gout management project.
+* Your Gout Projects - templates to help you start your own gout management project. For a basic introduction, see my example at <a href="/blog/starting-gout-plans/">Starting Gout Plans</a>.
 
-As always, I will back my opinions and recommendations with published gout facts. So you can see that I have also revamped the Gout and Uric Acid Library. Now with simpler reviews to help you discuss your responsibilities with your professional health advisers.
+As always, I will back my opinions and recommendations with published gout facts. So you can see that I have also revamped the <a href="https://goutpal.info/">Gout and Uric Acid Library</a>. Now with simpler reviews to help you discuss your responsibilities with your professional health advisers.
 
 ## New Gout Forum Trials
 
