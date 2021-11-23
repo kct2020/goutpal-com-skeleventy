@@ -45,7 +45,7 @@ pagination:
 
                                         {%- if item !== 'blog' -%}
 
-                                            <span class="category box-block bg-secondary color-primary text-300">{{ item | capitalize }}</span>
+                                            <span class="category box-block bg-primary color-white text-300">{{ item | capitalize }}</span>
 
                                         {%- endif -%}
 
@@ -64,6 +64,7 @@ pagination:
                     <div class="card-content pt-700 pb-900 pl-300 pr-300">
 
                         <h2><a class="card-title-link color-primary weight-regular hover-color-secondary" href="{{ post.url }}">{{ post.data.title }}</a></h2>
+                        <p>{{ post.data.sub_heading }}</p>
 
                         <time class="datetime color-grey text-400" datetime="{{ post.date | timestamp }}">
                             {{ post.date | dateDisplay }}

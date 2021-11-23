@@ -1,0 +1,32 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: text
+  name: title
+  label: title
+- type: text
+  name: meta_description
+  label: meta_description
+  default: AIDA statement for search engines.
+- type: text
+  name: sub_heading
+  label: sub_heading
+  default: AIDA statement for reader engagement (shown between Title and Image).
+- type: file
+  name: post_image
+  label: post_image
+- type: text
+  name: image_alt
+  label: image_alt
+- type: list
+  name: tags
+  label: tags
+  config:
+    use_select: false
+    min: 1
+  description: Add at least, the 'blog' tag
