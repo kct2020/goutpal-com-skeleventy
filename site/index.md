@@ -26,13 +26,11 @@ I believe that the most important first step is to build a good relationship wit
 
 Currently, I am changing the platform for GoutPal. So you will see a mix of old and new styles. But gradually, I will republish old pages in the new style. 
 
-<dl id="contents">
-<dt id="blog"><p>Latest Gout Blog</p></dt><dd><p>For the latest gouty arthritis facts, see the <a href="/blog">{{ site.blog }}</a>.</p></dd>
-<dt id="old"><p>2020 Gout Blog</p></dt><dd><p>For earlier gout news see <a href="/gout-blog/">GoutPal 2020 Blog</a>.</p></dd>
-<dt id="home"><p>2020 GoutPal Home Page</p></dt><dd><p>For the previous version of this page see <a href="/goutpal-com-2020.html">2020 home page</a>.</p></dd>
-<dt id="archive"><p>GoutPal Archives</p></dt><dd><p>See how GoutPal has changed since 2005 in the <a href="https://web.archive.org/web/20050221104806/http://www.goutpal.com/">GoutPal Archives</a>.</p></dd>
-<dt id="search"><p>GoutPal Search Engine</p></dt><dd><p>This is the easiest way for you to answer any gout question. Just type your question or concern into the <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">GoutPal Search Engine</a>.</p></dd>
-</dl>
+<h4 id="blog">Latest Gout Blog</h4><p>For the latest gouty arthritis facts, see the <a href="/blog">{{ site.blog }}</a>.</p>
+<h4 id="old">2020 Gout Blog</h4><p>For earlier gout news see <a href="/gout-blog/">GoutPal 2020 Blog</a>.</p>
+<h4 id="home">2020 GoutPal Home Page</h4><p>For the previous version of this page see <a href="/goutpal-com-2020.html">2020 home page</a>.</p>
+<h4 id="archive">GoutPal Archives</h4><p>See how GoutPal has changed since 2005 in the <a href="https://web.archive.org/web/20050221104806/http://www.goutpal.com/">GoutPal Archives</a>.</p>
+<h4 id="search">GoutPal Search Engine</h4><p>This is the easiest way for you to answer any gout question. Just type your question or concern into the <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">GoutPal Search Engine</a>.</p>
 
 ## Your GoutPal
 

@@ -17,15 +17,15 @@ Yesterday, I advised you to <a href="/blog/whats-your-biggest-gout-concern">star
 
 Your first step should be to consult your family physician. Because an increasing number of medical practices offer care services that go beyond testing, diagnosis, and prescriptions. For example, they might provide mentoring services to help you plan. Or educational materials to help you understand your gout management options.
 
-Unfortunately, most frontline physicians do not yet offer personal gout care services. Also many patients feel that they would like to control their own gout and uric acid plans. In which case, you need a methodical approach to keeping your plans and notes.
+Unfortunately, most frontline physicians do not yet offer personal gout care services. Also, many patients feel that they would like to control their own gout and uric acid plans. In which case, you need a methodical approach to keeping your plans and notes.
 
 In the early days, I used this website to record my research and my treatment progress. And I'm happy to help anyone who wants to take that approach. But it is more time-consuming than most people would like. So what if you don't have experience of organizing this type of information?
 
 ## Gout Mind Maps
 
-Mindmapping is a great tool for making notes, assigning priorities, and recording progress. So I highly recommend MindMup. Which is an app that works in most web browsers - mobile or desktop. Personally, I find it easier to work mostly on a desktop computer. Then make smaller adjustments to my plans on my smartphone.
+Mind mapping is a great tool for making notes, assigning priorities, and recording progress. So I highly recommend MindMup. Which is an app that works in most web browsers - mobile or desktop. Personally, I find it easier to work mostly on a desktop computer. Then make smaller adjustments to my plans on my smartphone.
 
-Anyway, the <a href="https://drive.mindmup.com/">free MindMup plan</a> has more than enough features for any amout of gout planning. So I will use it for most of my gout plan examples. Also, I'll make my templates available to anyone who requests them (see Issues link below).
+Anyway, the <a href="https://drive.mindmup.com/">free MindMup plan</a> has more than enough features for any amount of gout planning. So I will use it for most of my gout plan examples. Also, I'll make my templates available to anyone who requests them (see Issues link below).
 
 ## Starting Your Gout Plan
 
@@ -45,13 +45,15 @@ For yourself, your profile includes weight, height, age, test results, prescript
 
 ### 2. What is the purpose of your uric acid plan?
 
-We've identified the purpose of your uric acid plan to be "I want to control uric acid using drugs". However, you should try to personalize this to be more meaningful to you. Often, this includes achieving something that you currently casnnot do due to gout. For example, "I want to control uric acid so that I never have to take days off work due to gout".
+We've identified the purpose of your uric acid plan to be "I want to control uric acid using drugs". However, you should try to personalize this to be more meaningful to you. Often, this includes achieving something that you currently cannot do due to gout. For example, "I want to control uric acid so that I never have to take days off work due to gout".
 
 ### 3. How to measure your uric acid plan success?
 
 Or sometimes you have to work out how you will know if your plan is failing. 
 
 ### 4. When to start your uric acid plan?
+
+It's almost always correct to start uric acid treatment as soon as possible. But you have to know if the exceptions apply to you. Also, you have to ensure that your doctor has adopted the latest standards. Because changing guidelines have created controversy. So make sure you don't start your uric acid plan at the wrong time.
 
 ### 5. Am I controlling my uric acid?
 
@@ -63,14 +65,14 @@ As we'll see in the detailed plans, in can take several months for gout to be co
 
 ### 7. Can I improve my uric acid plan?
 
-It's important to continue with your gout management plan for the rest of your life. At the very minimum this means annual uric acid blood tests. But you might also consider lifestyle improvements to reduce your reliance on medication. Also, standard for gout care are improving. So your doctor might suggest improvements to your treatment.
+It's important to continue with your gout management plan for the rest of your life. At the very minimum, this means annual uric acid blood tests. But you might also consider lifestyle improvements to reduce your reliance on medication. Also, standard for gout care are improving. So your doctor might suggest improvements to your treatment.
 
 
 ## Your Uric Acid Plan
 
-You have learned how start a uric acid treatment plan as a gout patient. But details are important. So please return here as I add detailed explanations of your choices at each step in your plan.
+You have learned how to start a uric acid treatment plan as a gout patient. But details are critical. So please return here as I add detailed explanations of your choices at each step in your plan.
 
-In the meantime, you can collaborate with me to help you start your plan. In particular, share your thoughts about <a href="{{ site.social_links.github }}issues">Gout Plan Templates</a>. Or <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+In the meantime, you can collaborate with me to help you start your plan. In particular, share your thoughts about <a href="{{ site.social_links.github }}issues/7">Gout Plan Templates</a>. Or <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
 
 Otherwise, join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a> for a chat with fellow gout sufferers.
 
