@@ -1,0 +1,600 @@
+/*
+ Theme Name:   SquarePress
+ Theme URI:    https://hashthemes.com/wordpress-theme/squarepress/
+ Description:  SquarePress is a flexible responsive multipurpose theme compatible with all browsers and devices, fully mobile friendly, loaded with lots of features. It is a minimal theme based on WordPress Customizer that allows you to customize with live preview. The theme can be used for business, corporate, digital agency, personal, portfolio, photography, parallax, blogs and magazines. Square is eCommerce (WooCommerce) Compatible, Polylang Compatible, WPML, RTL, Retina Ready, SEO Friendly and Support bbPress and BuddyPress. More over it is a complete theme. For demo https://demo.hashthemes.com/squarepress
+ Author:       Hash Themes
+ Author URI:   https://hashthemes.com
+ Template:     square
+ Version:      1.0.8
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         two-columns, right-sidebar, custom-background, custom-menu, editor-style, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready, portfolio, education, blog, custom-logo
+ Text Domain:  squarepress
+*/
+
+
+body,
+button,
+input,
+select,
+textarea {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+h1{
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+h3{
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+h5{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+h6{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+p {
+    margin:0 0 20px;
+}
+
+.comment-list .vcard .fn,
+.comment-list .comment-metadata,
+#sq-masthead,
+.sq-main-title,
+.sq-site-title,
+.sq-slide-cap-title,
+.sq-slide-cap-desc,
+.sq-tab li,
+#sq-colophon,
+.pagination,
+.woocommerce nav.woocommerce-pagination,
+.woocommerce div.product p.price, 
+.woocommerce div.product span.price{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sq-main-navigation a{
+    font-family: 'Karla', sans-serif;
+}
+
+
+.sq-section-subtitle{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto 50px;
+}
+
+
+#sq-masthead {
+    background: none;
+    position: relative;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    height: auto;
+}
+
+#sq-site-branding img{
+    max-height: 70px;
+}
+
+.sq-top-header{
+    background: #5BC2CE;
+    color: #FFF;
+    padding-top: 15px;
+    padding-bottom: 60px; 
+    font-size: 0.9em;
+}
+
+.sq-top-header a{
+    color: #FFF !important;
+    padding: 5px;
+}
+
+.sq-top-header .sq-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sq-header{
+    position: absolute;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.sq-header .sq-container{
+    height: 90px;
+    padding: 0 20px;
+
+}
+
+.sq-site-header .sq-header .sq-container{
+    background: #000;
+}
+
+.sq-site-header.sq-white .sq-header .sq-container{
+    background: #FFF;
+}
+
+
+.sq-header .sq-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#sq-site-branding,
+#sq-site-navigation{
+    width: auto;
+}
+
+.sq-main-navigation li{
+    line-height: 90px;
+}
+
+.sq-main-navigation ul ul a{
+    padding: 12px 20px;
+}
+
+.sq-slide-caption{
+    margin: 0;
+    border: 0;
+    background: rgba(255,255,255,0.8);
+}
+
+.sq-slide-cap-title,
+.sq-slide-cap-desc{
+    text-align: left;
+    padding: 0;
+    color: #333;
+}
+
+
+#sq-home-slider-section .owl-carousel .owl-nav button.owl-prev, 
+#sq-home-slider-section .owl-carousel .owl-nav button.owl-next{
+    height: 70px;
+    width: 30px;
+    bottom: auto;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#sq-home-slider-section .owl-carousel .owl-nav button .fa{
+    line-height: 70px;
+    width: 30px;
+}
+
+#sq-home-slider-section .owl-carousel .owl-nav button.owl-prev{
+    left: 0;
+    margin-left: 0;
+}
+
+#sq-home-slider-section .owl-carousel .owl-nav button.owl-next{
+    right: 0;
+    margin-right: 0;
+}
+
+.sq-section-title{
+    font-size: 34px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.sq-section-title:after{
+    left: 50%;
+    margin-left: -20px;
+    height: 5px;
+    width: 40px
+}
+
+.sq-about-sec{
+    width: 80%;
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#sq-featured-post-section{
+    position: relative;
+    margin-top: -60px;
+    z-index: 99;
+}
+
+.sq-featured-post-wrap{
+    width: auto;
+    display: flex;
+    margin-left: -2%;
+    background: none;
+}
+
+.sq-featured-post{
+    width: 31.33%;
+    margin-left: 2%;
+    background: #f7f8f9;
+    text-align: center;
+    padding: 40px 30px;
+}
+
+.sq-featured-post h4{
+    margin-bottom: 20px;
+}
+
+.sq-featured-post h4:after{
+    display: none;
+}
+
+.sq-featured-readmore{
+    position: static;
+    opacity: 1;
+    display: inline-block;
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+    font-size: 14px;
+}
+
+.sq-featured-readmore > i{
+    margin-left: 10px;
+}
+
+.sq-featured-post.theme-colored-box{
+    background: #5bc2ce;
+}
+
+.sq-featured-post.theme-colored-box .sq-featured-icon .fa,
+.sq-featured-post.theme-colored-box h4,
+.sq-featured-post.theme-colored-box .sq-featured-excerpt,
+.sq-featured-post.theme-colored-box .sq-featured-readmore{
+    color: #FFF;
+}
+
+.sq-featured-post.theme-colored-box .sq-featured-readmore:hover{
+    color: #FFF;
+}
+
+#sq-tab-section{
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#sq-tab-section:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+}
+
+#sq-tab-section .sq-container{
+    position: relative;
+}
+
+#sq-tab-section .sq-section-title,
+#sq-tab-section .sq-section-subtitle{
+    color: #FFF;
+}
+
+.sq-tab,
+.sq-tab-content{
+    width: 100%;
+    border: 0;
+    padding: 0;
+}
+
+.sq-tab-content{
+    background: #FFF;
+    padding: 60px;
+}
+
+.sq-tab-content h2{
+    margin-bottom: 30px;
+}
+
+.sq-tab{
+    text-align: center;
+}
+
+.sq-tab li{
+    display: inline-block;
+    padding-left: 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.sq-tab li .fa {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+.sq-tab li a{
+    padding: 20px 40px;
+    color: #FFF;
+}
+
+.sq-tab li span{
+    display: block;
+}
+
+.sq-tab li.sq-active:after{
+    display: none;
+}
+
+.sq-tab li.sq-active{
+    background: #5bc2ce;
+}
+
+.sq-tab li.sq-active a,
+.sq-tab li.sq-active .fa{
+    color: #FFF !important;
+}
+
+#sq-team-section{
+    padding: 80px 0;
+}
+
+.sq-team-member-wrap{
+    margin-left: -3%;
+}
+
+.sq-team-member{
+    float: left;
+    width: 30.33%;
+    margin-left: 3%;
+}
+
+.sq-team-excerpt{
+    text-align: center;
+    padding: 15px;
+    border-bottom: 2px solid #333;
+}
+
+#sq-testimonial-section{
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 80px 0;
+}
+
+#sq-testimonial-section:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+}
+
+#sq-testimonial-section .sq-container{
+    position: relative;
+}
+
+#sq-testimonial-section .sq-section-title,
+#sq-testimonial-section .sq-section-subtitle{
+    color: #FFF;
+}
+
+
+.sq-testimonial-wrap{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.sq-testimonial-inner{
+    background: #FFF;
+    padding: 50px;
+    margin: 0 15px;
+    display: flex;
+    align-items: center;
+}
+
+.sq-testimonial-excerpt{
+    width: 80%;
+    padding-right: 50px;
+}
+
+.sq-testimonial-image{
+    width: 20%;
+    text-align: center;
+}
+
+.sq-testimonial-image img{
+    margin: 0 auto 15px;
+}
+
+.sq-testimonial-slider.owl-carousel .owl-dots{
+    position: relative;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.sq-testimonial-slider.owl-carousel button.owl-dot{
+    background: #FFF;
+    height: 8px;
+    width: 10px;
+    transition: all 0.3s ease;
+    background: #5bc2ce;
+    margin: 0 5px;
+    border-radius: 5px;
+}
+
+.sq-testimonial-slider.owl-carousel button.owl-dot.active{
+    width: 30px;
+    background: #5bc2ce;
+}
+
+#sq-middle-footer .sq-container{
+    background: #393f42;
+    border: none;
+    padding: 30px;
+}
+
+#sq-colophon,
+.sq-site-footer a{
+    color: #CCC;
+}
+
+.sq-main-header{
+    padding: 165px 0 120px;
+}
+
+.sq-main-title{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#sq-logo-section .sq-section-title{
+    margin-bottom: 60px;
+}
+
+@media screen and (max-width: 900px){
+    .sq-top-header{
+        padding-bottom: 15px;
+    }
+    .sq-header{
+        position: relative;
+        transform: none;
+    }
+
+    #sq-home-slider-section img{
+        height: 500px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+}
+
+
+@media screen and (max-width: 768px){
+    .sq-main-navigation li {
+        line-height: 1.8;
+    }
+
+    #sq-home-slider-section img{
+        height: 400px;
+    }
+
+    #sq-featured-post-section{
+        margin-top: 40px;
+    }
+
+    .sq-featured-post-wrap{
+        display: block;
+        margin: 0;
+    }
+
+    .sq-featured-post{
+        width: auto;
+        margin: 0 0 40px;
+        border-bottom: none;
+    }
+
+    .sq-about-sec{
+        width: 100%;
+    }
+
+    .sq-tab li{
+        display: block;
+        background: rgba(0,0,0,0.3)
+    }
+
+    .sq-tab li.sq-active{
+        border: none;
+    }
+
+    .sq-tab li span{
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    .sq-tab li .fa{
+        margin-bottom: 0;
+    }
+
+    .sq-team-member-wrap{
+        margin-left: 0;
+    }
+
+    .sq-team-member{
+        float: none;
+        width: auto;
+        margin: 0 auto 40px;
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 580px){
+    .sq-tab-content{
+        padding: 20px;
+    }
+
+    .sq-testimonial-wrap{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .sq-top-header .sq-container{
+        display: block;
+        text-align: center;
+    }
+    #sq-home-slider-section img{
+        height: 350px;
+    }
+
+    .sq-testimonial-inner{
+        display: block;
+        width: auto;
+        text-align: center;
+    }
+
+    .sq-testimonial-excerpt{
+        width: auto;
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .sq-testimonial-image{
+        width: auto;
+    }
+
+    .sq-testimonial-inner{
+        padding: 20px;
+    }
+}
