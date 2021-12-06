@@ -23,7 +23,7 @@ Now, I am merging that history into this website. Giving you the chance to see h
 
 ## Original Gout Forum
 
-Today, I've merged the original gout forum here. So this page serves as an index for finding relevant gout forum posts. Also, it serves as a plan for improving those posts. As I reformat important topics. Underlining their relevance to the latest best practices for gout management.
+Today, I've merged the original gout forum here. So this page serves as an index for finding relevant gout forum posts. More importantly, this page also serves as a roadmap for the vital integration of real-life concerns in gout treatment plans. Underlining patient involvement in current best practices for gout management.
 
 I should point out that I recently started to remodel the old forum as my story of GoutPal. But I never got far with that. So you might ignore any references to "Keith's GoutPal Story". Instead, you should focus on:
 
@@ -80,7 +80,9 @@ Otherwise, join <a href="{{ site.social_links.github }}discussions">GoutPal's Go
 
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
-<h2 id="refs">{{ title }} References</h2>
+<h4 id="refs">{{ title }} References</h4>
 <ol>
-	<li id="ref1"></li>
+	<li id="ref1">Keith Taylor. "Help Mend GoutPal." Nov 30 2011. <a href="https://web.archive.org/web/20140721211506/https://www.goutpal.com/2740/help-mend-goutpal/">GoutPal Suggestion Box Archive</a>.</li>
+	<li id="ref2"></li>
+	<li id="ref3"></li>
 </ol>
