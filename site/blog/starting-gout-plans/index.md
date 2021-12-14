@@ -1,5 +1,5 @@
 ---
-date: 2021-11-20T00:00:00Z
+date: 2021-12-14T00:00:00Z
 meta_description: Uric acid treatment plans should be easy to follow. But how and when to start? Get a free gout patient plan template today.
 title: Start Your Uric Acid Plan Today
 image_alt: Starting a gout plan
@@ -38,13 +38,19 @@ For my first example, I explain the steps that a gout sufferer might take if the
 
 Here, I explain the overview of each step. Later, I'll link out to details of each step. Explaining facts, your options, and common questions and experiences that affect how you manage your plan.
 
-### 1. Who is involved in your uric acid plan?
+### 1. What is the purpose of your uric acid plan?
+
+We've identified the purpose of your uric acid plan to be "I want to control uric acid using drugs". However, you should try to personalize this to be more meaningful to you. Often, this includes achieving something that you currently cannot do due to gout. For example, "I want to control uric acid so that I never have to take days off work due to gout".
+
+You'll see that all my plans start with establishing the purpose of the plan. Because we need to focus on that until the end. So it helps to guide any tough choices that you need to decide along the way. That is especially important for gout recovery plans. Because they are only successful when patient and physician work hand-in-hand.
+
+With your purpose statement, you are in a position to explain what you want from your doctor. But during the following steps, your doctor might advise you about factors that affect your expectations. So be prepared to revise your Purpose Statement to reflect new facts as you learn them.
+
+### 2. Who is involved in your uric acid plan?
 
 For yourself, your profile includes weight, height, age, test results, prescriptions, and other personal factors that affect gout management. Also, you need details of doctors and other health professionals. Finally, consider adding summaries of, and links to, research and information that you are relying on. Bearing in mind that you can add links to other steps if that is a more logical place.
 
-### 2. What is the purpose of your uric acid plan?
-
-We've identified the purpose of your uric acid plan to be "I want to control uric acid using drugs". However, you should try to personalize this to be more meaningful to you. Often, this includes achieving something that you currently cannot do due to gout. For example, "I want to control uric acid so that I never have to take days off work due to gout".
+Once you involve your doctor, they will have their own approach to gout management. In particular, they should follow guidelines from rheumatologists. Now those guidelines are extensive. And you should be involved in decisions about how the guidelines apply to you. So please consult my next article, "Medicine to Lower Uric Acid", as soon as I complete it.
 
 ### 3. How to measure your uric acid plan success?
 
@@ -78,3 +84,6 @@ Otherwise, join <a href="{{ site.social_links.github }}discussions">GoutPal's Go
 ***
 
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+
+<h4 id="dochistory">Starting Gout Plans Version</h4>
+{{ title }} was first published on Nov 20, 2021. For changes, please see the <a href="https://web.archive.org/web/20211214123411/https://goutpal.com/blog/starting-gout-plans/">Starting Gout Plans Archive</a>.
