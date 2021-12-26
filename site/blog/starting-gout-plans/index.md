@@ -32,13 +32,13 @@ One very useful feature of my MindMup templates is that you can start your gout 
 
 Having said that, I will explain the steps in logical start-finish sequence. Then you can choose which order you work on your plan. Depending on the information you have available.
 
-## Uric Acid Patient Plan
+<h2 id="plan">Uric Acid Patient Plan</h2>
 
 For my first example, I explain the steps that a gout sufferer might take if they identified their <a href="/blog/whats-your-biggest-gout-concern/index.md">biggest gout concern as "I want to control uric acid using drugs"</a>.
 
 Here, I explain the overview of each step. Later, I'll link out to details of each step. Explaining facts, your options, and common questions and experiences that affect how you manage your plan.
 
-### 1. What is the purpose of your uric acid plan?
+<h3 id="what">1. What is the purpose of your uric acid plan?</h3>
 
 We've identified the purpose of your uric acid plan to be "I want to control uric acid using drugs". However, you should try to personalize this to be more meaningful to you. Often, this includes achieving something that you currently cannot do due to gout. For example, "I want to control uric acid so that I never have to take days off work due to gout".
 
@@ -46,34 +46,33 @@ You'll see that all my plans start with establishing the purpose of the plan. Be
 
 With your purpose statement, you are in a position to explain what you want from your doctor. But during the following steps, your doctor might advise you about factors that affect your expectations. So be prepared to revise your Purpose Statement to reflect new facts as you learn them.
 
-### 2. Who is involved in your uric acid plan?
+<h3 id="who">2. Who is involved in your uric acid plan?</h3>
 
 For yourself, your profile includes weight, height, age, test results, prescriptions, and other personal factors that affect gout management. Also, you need details of doctors and other health professionals. Finally, consider adding summaries of, and links to, research and information that you are relying on. Bearing in mind that you can add links to other steps if that is a more logical place.
 
 Once you involve your doctor, they will have their own approach to gout management. In particular, they should follow guidelines from rheumatologists. Now those guidelines are extensive. And you should be involved in decisions about how the guidelines apply to you. So please consult my next article, "Medicine to Lower Uric Acid", as soon as I complete it.
 
-### 3. How to measure your uric acid plan success?
+<h3 id="how">3. How to measure your uric acid plan success?</h3>
 
 Or sometimes you have to work out how you will know if your plan is failing. 
 
-### 4. When to start your uric acid plan?
+<h3 id="when">4. When to start your uric acid plan?</h3>
 
 It's almost always correct to start uric acid treatment as soon as possible. But you have to know if the exceptions apply to you. Also, you have to ensure that your doctor has adopted the latest standards. Because changing guidelines have created controversy. So make sure you don't start your uric acid plan at the wrong time.
 
-### 5. Am I controlling my uric acid?
+<h3 id="am">5. Am I controlling my uric acid?</h3>
 
 Now, you are taking allopurinol, or other uric acid treatment. But an essential part of that treatment is to measure your changes in uric acid levels. Also, you should note any changes in symptoms each day. Including any symptoms of side effects.
 
-### 6. Have I got safe uric acid levels?
+<h3 id="have">6. Have I got safe uric acid levels?</h3>
 
 As we'll see in the detailed plans, it can take several months for gout to be completely "cured". Especially if excess uric acid has gone untreated for many years. So that is why we established our success measures at step 3. Have you found gout freedom yet?
 
-### 7. Can I improve my uric acid plan?
+<h3 id="can">7. Can I improve my uric acid plan?</h3>
 
 It's important to continue with your gout management plan for the rest of your life. At the very minimum, this means annual uric acid blood tests. But you might also consider lifestyle improvements to reduce your reliance on medication. Also, standards for gout care are improving. So your doctor might suggest improvements to your treatment.
 
-
-## Your Uric Acid Plan
+<h2 id="next">Your Uric Acid Plan</h2>
 
 You have learned how to start a uric acid treatment plan as a gout patient. But details are critical. So please return here as I add detailed explanations of your choices at each step in your plan.
 
