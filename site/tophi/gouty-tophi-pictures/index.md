@@ -21,18 +21,34 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 <table id="list" style="width: 100%;">
 	<thead>
 		<tr>
-			<th style="width: 40%;">Article</th>
-			<th style="width: 20%;">Type</th>
-			<th style="width: 40%;">Photo Example</th>
+			<th style="width: 25%;">Article</th>
+			<th style="width: 15%;">Type</th>
+			<th style="width: 60%;">Photo Example</th>
 		</tr>
 	</thead>
 	<tbody>
-		<tr id="">
+		<tr id="thumb">
 			<td><a href="/gout-symptoms/thumb-tophi/">Gout in Thumb</a></td>
 			<td>Identify</td>
 			<td><a href="/gout-symptoms/thumb-tophi/"><figure class="inner">
 <img src="/images/gout-crystals-in-the-thumb-377.webp" alt="Gout Crystals In The Thumb"  width="377" height="233">
   <figcaption>Can you get Gout in Your Thumb?</figcaption>
+</figure></a></td>
+		</tr>
+		<tr id="">
+			<td><a href=""></a></td>
+			<td></td>
+			<td><a href=""><figure class="inner">
+<img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
+  <figcaption>UpdateThis caption</figcaption>
+</figure></a></td>
+		</tr>
+		<tr id="">
+			<td><a href=""></a></td>
+			<td></td>
+			<td><a href=""><figure class="inner">
+<img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
+  <figcaption>UpdateThis caption</figcaption>
 </figure></a></td>
 		</tr>
 		<tr id="">
@@ -57,5 +73,9 @@ You can see that photographs help gout sufferers understand:
 So it's good to share your tophi photographs. Ideally, you will do this by adding your photographs to your comments as a <a href="">GoutPal Issue<a href="">. 
 
 I say ideally, because Issues is the first place I look before adding or changing information here. But maybe you are looking for a chat rather than helping to improve articles? In which case, you can also add images to <a href="">discussions with other gout sufferers</a>.
+
+***
+
+Leave {{ title }} to browse the <a href="/tophi">Tophi</a> facts section.
 
 Leave to \tophi\
