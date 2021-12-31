@@ -1,5 +1,6 @@
 ---
 
+layout: post
 date: 2021-12-31T00:00:00Z
 meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quiality of life.
 title: Gouty Tophi Section
