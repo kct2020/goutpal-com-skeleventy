@@ -1,12 +1,12 @@
 ---
 
 layout: post
-date: 2021-12-31T00:00:00Z
+date: 2022-01-01T00:00:00Z
 meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quiality of life.
 title: Gouty Tophi Section
-image_alt: Tophi show worst dangers of uric acid
+image_alt: Tophi & Gout Facts
 sub_heading: The Gouty Tophi Section explains all aspects of tophaceous gout.
-post_image: "/images/gout-forum-discussion.webp"
+post_image: "/images/tophi-gout-facts.webp"
 tags:
 - tophus
 - blog
@@ -54,10 +54,63 @@ For gout patients using drug treatment for uric acid control, we see the first m
 
 <h3 id="why">Why Tophi are Dangerous</h3>
 
+I am collating the list of articles about tophi dangers. So please let me know if you have a particular concern about the dangers of tophi. Then I can prioritize that topic in my review.
+
+<table id="list" style="width: 100%;">
+	<thead>
+		<tr>
+			<th style="width: 40%;">Subsection</th>
+			<th style="width: 60%;">Quote/Note</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr id="burst">
+			<td>Tophi Burst</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="infection">
+			<td>Infected Gouty Tophi</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="mobility">
+			<td>Tophi Restrict Mobility</td>
+			<td><q cite=""></q></td>
+		</tr>
+	</tbody>
+</table>
 
 <h3 id="how">How to Get Rid of Tophi</h3>
 
-fig
+I am collating the list of articles about getting rid of tophi. So please let me know if you have a particular concern about how to get rid of tophi. Then I can prioritize that topic in my review.
+
+<table id="list" style="width: 100%;">
+	<thead>
+		<tr>
+			<th style="width: 40%;">Subsection</th>
+			<th style="width: 60%;">Quote/Note</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr id="squeeze">
+			<td>Squeezing Gouty Tophi</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="removal">
+			<td>Gouty Tophi Removal</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="surgery">
+			<td>Tophi Removal Surgery</td>
+			<td><q cite=""></q></td>
+		</tr>
+	</tbody>
+</table>
+
+<figure class="inner">
+<img src="/images/tophi-gout-facts.webp" alt="Tophi & Gout Facts"  width="610" height="377">
+  <figcaption>How do you Manage Your Tophi & Gout?</figcaption>
+</figure>
+
 <h2 id="next">Your Tophi</h2>
 You can see that the presence of tophi significantly raises the urgency of prompt uric acid treatment. So you should make tophi <a href="/blog/whats-your-biggest-gout-concern/">your biggest gout concern</a>.
 

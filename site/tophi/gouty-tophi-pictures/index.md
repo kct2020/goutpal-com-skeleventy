@@ -1,10 +1,12 @@
 ---
-date: 2021-12-31T00:00:00Z
+
+layout: post
+date: 2022-01-01T00:00:00Z
 meta_description: When tophi appear, gout is at its most serious. But how to recognize tophaceous gout? See these gouty tophi pictures to help check your symptoms.
 title: Gouty Tophi Pictures
-image_alt: Discussing a gout plan
+image_alt: Pictures of Gouty Tophi
 sub_heading: Photographs of uric acid crystals forming lumps under the skin. Also in other soft tissues of tophaceous gout sufferers.
-post_image: "/images/gout-forum-discussion.webp"
+post_image: "/images/pictures-of-gouty-tophi.webp"
 tags:
 - tophus
 - blog
@@ -35,26 +37,26 @@ These are the current and planned articles about gouty tophi pictures. As I expl
   <figcaption>Can you get Gout in Your Thumb?</figcaption>
 </figure></a></td>
 		</tr>
-		<tr id="">
-			<td><a href=""></a></td>
+		<tr id="best">
+			<td><a href="/3408/best-tophi-picture/">Best Tophi Picture shows greatest Tophi Treatment</a></td>
 			<td></td>
-			<td><a href=""><figure class="inner">
+			<td><a href="/3408/best-tophi-picture/"><figure class="inner">
 <img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
   <figcaption>UpdateThis caption</figcaption>
 </figure></a></td>
 		</tr>
-		<tr id="">
-			<td><a href=""></a></td>
+		<tr id="elbow">
+			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/">Gouty Tophus On Elbow</a></td>
 			<td></td>
-			<td><a href=""><figure class="inner">
+			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/"><figure class="inner">
 <img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
   <figcaption>UpdateThis caption</figcaption>
 </figure></a></td>
 		</tr>
-		<tr id="">
-			<td><a href=""></a></td>
+		<tr id="limb">
+			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophi-on-right-lower-limb/">Gouty Tophi On Right Lower Limb</a></td>
 			<td></td>
-			<td><a href=""><figure class="inner">
+			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophi-on-right-lower-limb/"><figure class="inner">
 <img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
   <figcaption>UpdateThis caption</figcaption>
 </figure></a></td>
@@ -62,7 +64,11 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 	</tbody>
 </table>
 
-fig
+<figure class="inner">
+<img src="/images/pictures-of-gouty-tophi.webp" alt="Pictures of Gouty Tophi"  width="610" height="377">
+  <figcaption>How does Your Gouty Tophi look?</figcaption>
+</figure>
+
 <h2 id="next">Your Gouty Tophi Pictures</h2>
 You can see that photographs help gout sufferers understand:
 
@@ -77,5 +83,3 @@ I say ideally, because Issues is the first place I look before adding or changin
 ***
 
 Leave {{ title }} to browse the <a href="/tophi">Tophi</a> facts section.
-
-Leave to \tophi\
