@@ -20,7 +20,7 @@ Gouty Tophi Pictures is a subsection of the <a href="/tophi/">Tophi Section</a>.
 
 These are the current and planned articles about gouty tophi pictures. As I explained in the introduction above, tophi photographs serve different purposes. So in this list, I categorize different types of gouty pictures as `Identify`, `Treat`, or `Danger`. According to the main purpose of the article. However some photographs serve more than one purpose.
  
-<table id="list" style="width: 100%;">
+<table id="list" style="width: 100%;table-layout: fixed;">
 	<thead>
 		<tr>
 			<th style="width: 25%;">Article</th>
@@ -39,7 +39,7 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 		</tr>
 		<tr id="best">
 			<td><a href="/3408/best-tophi-picture/">Best Tophi Picture shows greatest Tophi Treatment</a></td>
-			<td></td>
+			<td>Treat</td>
 			<td><a href="/3408/best-tophi-picture/"><figure class="inner">
 <img src="/images/tophi-removal-without-surgery-377.webp" alt="Tophi Removal Without Surgery"  width="377" height="233">
   <figcaption>Uric Acid Treatment Shrinks Tophi</figcaption>
@@ -47,7 +47,7 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 		</tr>
 		<tr id="elbow">
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/">Gouty Tophus On Elbow</a></td>
-			<td></td>
+			<td>Identify</td>
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/"><figure class="inner">
 <img src="/images/gouty-tophus-on-elbow-377.webp" alt="Gouty Tophus On Elbow Photograph"  width="377" height="233">
   <figcaption>Tophi Turns Elbow To "Jelbow"</figcaption>
@@ -55,10 +55,10 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 		</tr>
 		<tr id="limb">
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophi-on-right-lower-limb/">Gouty Tophi On Right Lower Limb</a></td>
-			<td></td>
+			<td>Identify</td>
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophi-on-right-lower-limb/"><figure class="inner">
-<img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
-  <figcaption>UpdateThis caption</figcaption>
+<img src="/images/gouty-tophi-on-right-lower-limb-377.webp" alt="Gouty Tophi On Right Lower Limb"  width="377" height="233">
+  <figcaption>Tophi on and near Right Knee</figcaption>
 </figure></a></td>
 		</tr>
 	</tbody>
