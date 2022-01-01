@@ -116,7 +116,7 @@ You can see that the presence of tophi significantly raises the urgency of promp
 
 Later, I will add articles that support other steps in the GoutPal Patient Plan. Also articles that support Student, Victim, and Arthritis Sufferer Plans. In the meantime, please see <a href="/gout-symptoms/tophi/">Tophi: Illustrated Reference Guide</a> and <a href="/topic/tophi/">The Tophi Blog</a>.
 
-If you need me to prioritize adding more tophi articles please tell me. You can ask directly as a <a href="">GoutPal Issue<a href="">. Or <a href="">discuss your tophi concerns with other gout sufferers</a>
+If you need me to prioritize adding more tophi articles please tell me. You can ask directly as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
 
 ***
 

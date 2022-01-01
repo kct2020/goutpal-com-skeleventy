@@ -41,16 +41,16 @@ These are the current and planned articles about gouty tophi pictures. As I expl
 			<td><a href="/3408/best-tophi-picture/">Best Tophi Picture shows greatest Tophi Treatment</a></td>
 			<td></td>
 			<td><a href="/3408/best-tophi-picture/"><figure class="inner">
-<img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
-  <figcaption>UpdateThis caption</figcaption>
+<img src="/images/tophi-removal-without-surgery-377.webp" alt="Tophi Removal Without Surgery"  width="377" height="233">
+  <figcaption>Uric Acid Treatment Shrinks Tophi</figcaption>
 </figure></a></td>
 		</tr>
 		<tr id="elbow">
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/">Gouty Tophus On Elbow</a></td>
 			<td></td>
 			<td><a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/"><figure class="inner">
-<img src="/images/UpdateThis.webp" alt="UpdateThis description"  width="377" height="233">
-  <figcaption>UpdateThis caption</figcaption>
+<img src="/images/gouty-tophus-on-elbow-377.webp" alt="Gouty Tophus On Elbow Photograph"  width="377" height="233">
+  <figcaption>Tophi Turns Elbow To "Jelbow"</figcaption>
 </figure></a></td>
 		</tr>
 		<tr id="limb">
@@ -76,9 +76,9 @@ You can see that photographs help gout sufferers understand:
 - Potential tophi treatments.
 - Dangers of tophaceous gout.
 
-So it's good to share your tophi photographs. Ideally, you will do this by adding your photographs to your comments as a <a href="">GoutPal Issue<a href="">. 
+So it's good to share your tophi photographs. Ideally, you will do this by adding your photographs to your comments as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. 
 
-I say ideally, because Issues is the first place I look before adding or changing information here. But maybe you are looking for a chat rather than helping to improve articles? In which case, you can also add images to <a href="">discussions with other gout sufferers</a>.
+I say ideally, because Issues is the first place I look before adding or changing information here. But maybe you are looking for a chat rather than helping to improve articles? In which case, you can also add images to <a href="{{ site.social_links.github }}discussions">discussions with other gout sufferers</a>.
 
 ***
 
