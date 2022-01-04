@@ -16,7 +16,7 @@ tags:
 
 I regularly review the most popular topics on GoutPal. And a perennial favorite is "What is the best alcohol for gout". In fact, it is one of many related questions. Where gout sufferers ask for the best of a huge range of gout topics. So I've included the most asked questions below.
 
-Before I review any of those topics, I have to explain the mistaken thinking behind these 'best for gout' questions. Because gout sufferers believe there is a 'gold standard' that applies to treatment, diet, and other aspects of uric acid management. So let me explain why that is a mistake.
+Before I review any of those topics, I have to explain the mistaken thinking behind these 'best for gout' questions. Because many gout sufferers wrongly believe that there is a 'gold standard' which applies to treatment, diet, and other aspects of uric acid management. So let me explain why that is a mistake.
 
 <h2 id="gold">What is a Gold Standard?</h2>
 
@@ -26,7 +26,7 @@ Though 'gold standard' is an economic term, its everyday use is as a benchmark. 
 
 Many gout sufferers believe that there is 'something' that is part of the standard treatment for gout. Usually, that 'something' is a medicine or food. But once gout sufferers fall into the trap of seeking gold standards, they often seek 'the best' of almost all aspects of their lives. Hence, the level of interest in "What is the Best Alcohol for Gout?" is topped by "Which are the Best Shoes for Gout?"
 
-However,once you understand how uric acid leads to gout you can see that there is no standard. Even the reference ranges that lead to meaningless terms like 'normal uric acid' are not standard. Most importantly, there is no standard for how uric acid causes gout. So lets consider why there can never be a gold standard for gout.
+However,once you understand how uric acid leads to gout you can see that there is no standard. Even the reference ranges that lead to meaningless terms like 'normal uric acid' are not standard. Most importantly, there is no standard for how uric acid causes gout. So let's consider why there can never be a gold standard for gout.
 
 <h2 id="diff">Gout Is Not Standard</h2>
 
@@ -45,7 +45,7 @@ Finally, individuals have varying tolerance for gout treatments. Also, those tre
 
 <h2 id="best">Best Treatment for Gout</h2>
 
-Currently, the best treatment for gout is described in national guidelines[ref USA, UK, Europe, Japan]. As most of my readers are American, I focus on the ACR guidelines. So throughout this website, I:
+Currently, the best treatment for gout is described in national guidelines. Especially in USA, UK, Europe, and Japan. As most of my readers are American, I focus on the ACR guidelines. So throughout this website, I:
 - Explain the roles of patient and physician in the guidelines.
 - Encourage patients to discuss and decide their options from the guidelines.
 - Provide alternative views where people want to work with Dietitians or Complementary and Integrative Gout Therapists.
