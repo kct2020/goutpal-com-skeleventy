@@ -121,8 +121,8 @@ This is especially important where resolving those concerns requires you to iden
 	</thead>
 	<tbody>
 		<tr id="allopurinol">
-			<td>Does Allopurinol Dissolve Tophi?</td>
-			<td><q cite=""></q></td>
+			<td><a href="/tophi/does-allopurinol-dissolve-tophi">Does Allopurinol Dissolve Tophi?</a></td>
+			<td><q cite="/tophi/does-allopurinol-dissolve-tophi">allopurinol can indirectly dissolve your tophi. But only if you work with your doctor to maintain uric acid at a low enough level.</q></td>
 		</tr>
 		<tr id="self">
 			<td>Can I Remove Tophi Myself?</td>
