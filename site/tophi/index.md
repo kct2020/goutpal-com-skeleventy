@@ -25,7 +25,7 @@ For gout patients using drug treatment for uric acid control, we see the first m
 
 <h3 id="what">Identifying Tophi</h3>
 
-<table id="list" style="width: 100%;">
+<table id="list-what" style="width: 100%;">
 	<thead>
 		<tr>
 			<th style="width: 40%;">Subsection</th>
@@ -56,7 +56,7 @@ For gout patients using drug treatment for uric acid control, we see the first m
 
 I am collating the list of articles about tophi dangers. So please let me know if you have a particular concern about the dangers of tophi. Then I can prioritize that topic in my review.
 
-<table id="list" style="width: 100%;">
+<table id="list-why" style="width: 100%;">
 	<thead>
 		<tr>
 			<th style="width: 40%;">Subsection</th>
@@ -83,7 +83,7 @@ I am collating the list of articles about tophi dangers. So please let me know i
 
 I am collating the list of articles about getting rid of tophi. So please let me know if you have a particular concern about how to get rid of tophi. Then I can prioritize that topic in my review.
 
-<table id="list" style="width: 100%;">
+<table id="list-how" style="width: 100%;">
 	<thead>
 		<tr>
 			<th style="width: 40%;">Subsection</th>
@@ -106,17 +106,49 @@ I am collating the list of articles about getting rid of tophi. So please let me
 	</tbody>
 </table>
 
+<h2 id="concerns">Tophi Concerns and Questions</h2>
+
+So far, I've listed articles that mainly explain facts about tophi. Because those articles give you reliable sources of information that you can discuss with health professionals. Hopefully, your advisers will help you resolve any concerns that you have about those tophi facts. In fact, many articles look at specific tophi concerns and common tophi questions. 
+
+This is especially important where resolving those concerns requires you to identify factors that determine different management options. Because you and your health professionals can work together on finding solutions that work best in your circumstances. So I've also included this list of tophi concerns and questions.
+
+<table id="list-faq" style="width: 100%;">
+	<thead>
+		<tr>
+			<th style="width: 40%;">Question or Concern</th>
+			<th style="width: 60%;">Quote/Note</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr id="allopurinol">
+			<td>Does Allopurinol Dissolve Tophi?</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="self">
+			<td>Can I Remove Tophi Myself?</td>
+			<td><q cite=""></q></td>
+		</tr>
+		<tr id="natural">
+			<td>Dissolving Tophi Naturally</td>
+			<td>I'm currently investigating what gout sufferers are mainly concerned about when they ask about dissolving tophi naturally. That is, are you concerned if it can be done? Or are you convinced that tophi can be dissolved naturally - but not sure how? Let me know at the feedback links below.</td>
+		</tr>
+	</tbody>
+</table>
+
+Although I've included common questions, this list is more than a `Tophi FAQ`. Because I include questions that should be asked much more frequently. But you have to start somewhere. So ask your tophi questions now. By searching, or in GoutPal Issues or GoutPal Discussions.
+
 <figure class="inner">
 <img src="/images/tophi-gout-facts.webp" alt="Tophi & Gout Facts"  width="610" height="377">
   <figcaption>How do you Manage Your Tophi & Gout?</figcaption>
 </figure>
 
 <h2 id="next">Your Tophi</h2>
+
 You can see that the presence of tophi significantly raises the urgency of prompt uric acid treatment. So you should make tophi <a href="/blog/whats-your-biggest-gout-concern/">your biggest gout concern</a>.
 
 Later, I will add articles that support other steps in the GoutPal Patient Plan. Also articles that support Student, Victim, and Arthritis Sufferer Plans. In the meantime, please see <a href="/gout-symptoms/tophi/">Tophi: Illustrated Reference Guide</a> and <a href="/topic/tophi/">The Tophi Blog</a>.
 
-If you need me to prioritize adding more tophi articles please tell me. You can ask directly as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
 
 ***
 
