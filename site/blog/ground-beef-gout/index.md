@@ -17,21 +17,23 @@ This started from an old discussion with a Romanian gout sufferer. And ends with
 
 <h2 id="intent">Purpose of Ground Beef & Gout</h2>
 
-I wrote this article to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> understand how their food preferences relate to gout. So it does not consider uric acid which is covered in <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter Plans</a>. You can use this information to discuss ground beef with your dietitian or other health professionals. Because the <a href="/gouty/purpose/">purpose of GoutPal</a> is to help you build better relationships with your professional advisers.
+I wrote this article to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> resolve their food concerns about gout. So it does not consider uric acid, which is covered in <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter Plans</a>. You can use this information to discuss ground beef with your dietitian or other health professionals. Because the <a href="/gouty/purpose/">purpose of GoutPal</a> is to help you build better relationships with your professional advisers.
 
 <h2 id="gout">Ground Beef & Gout</h2>
 
-My original article about ground beef & gout was based on a discussion with a Romanian gout sufferer<a href="#ref1"><sup>[1]</sup></a>. But in that country and elsewhere, ground beef is referred to as "minced beef". Anyway, since that article there have been many changes to national gout guidelines. Also many changes to my approach to helping gout sufferers.
+My original article about ground beef & gout was based on a discussion with a Romanian gout sufferer<a href="#ref1"><sup>[1]</sup></a>. But in that country and elsewhere, ground beef is referred to as "minced beef". Anyway, since that article, there have been many changes to national gout guidelines. Also, many changes to my approach to helping gout sufferers.
 
-So now, I call gout sufferers who mostly consider food-based solutions "GoutPal Foodies". And I advise Foodies to stop obsessing about single food items. Because you need to start with a healthy eating plan. By which I mean a plan that first provides nutrients balanced across the main food groups. But it is not my job to interpret national healthy eating guidelines. So you should consult your dietitian or doctor to determine your personal healthy eating patterns. Only then, can you adapt your healthy eating plan for better gout control. By which time, you should start condidering uric acid and switch to a "GoutPal Dieters" plan.
+So now, I call gout sufferers who mostly consider food-based solutions "GoutPal Foodies". And I advise Foodies to stop obsessing about single food items. Because you need to start with a healthy eating plan. By which I mean a plan that first provides nutrients balanced across the main food groups. But it is not my job to interpret national healthy eating guidelines. So you should consult your dietitian or doctor to determine your personal healthy eating patterns. Only then, can you adapt your healthy eating plan for better gout control. By which time, you should start considering uric acid and switch to a "GoutPal Dieters" plan.
 
-Is your ground beef intake within maximum guidelines? You can only answer this by analyzing your total weekly red meat intake. If too high, reduce red meat consumption (see forum quote below). Otherwise look at other food groups in your healthy eating plan.
+Is your ground beef intake within maximum guidelines? You can only answer this by analyzing your total weekly red meat intake. If too high, reduce red meat consumption (see forum quotes below). Otherwise, look at other food groups in your healthy eating plan.
 
 <h2 id="alternative">Ground Beef Alternatives for Gout</h2>
 
 Gout sufferers who are concerned about their ground beef intake often look for alternatives. However, the choice of beef substitute is totally dependent on personal food preferences.
 
-Our original discussion considered chicken as an alternative for beef. And a separate ground beef discussion considered turkey as an alternative<a href="#ref2"><sup>[2]</sup></a>: <q cite="/gout-pal-forum/please-help-my-gout/how-long-to-presevere-with-allopurinol/#post-3783">I personally modified my diet to eat less red meat (~1/3 as often and that is mostly by substituting ground turkey for ground beef)</q>. Personally, I chose a gradual replacement of most meat with vegetables<a href="#ref3"><sup>[3]</sup></a>: <q cite="https://goutpal.net/forums/topic/can-i-ever-have-beef-again/#post-2282">slow gradual changes are often very successful. For example, I started adding increased amounts of vegetables to casseroles, ground meat dishes, etc. I also gradually introduced tasty vegetarian meals.</q>
+Our original discussion considered chicken as an alternative for beef. And a separate ground beef discussion considered turkey as an alternative<a href="#ref2"><sup>[2]</sup></a>: <q cite="/gout-pal-forum/please-help-my-gout/how-long-to-presevere-with-allopurinol/#post-3783">I personally modified my diet to eat less red meat (~1/3 as often and that is mostly by substituting ground turkey for ground beef)</q>. 
+
+Later, I joined another ground beef & gout discussion with: <a href="#ref3"><sup>[3]</sup></a>: <q cite="https://goutpal.net/forums/topic/can-i-ever-have-beef-again/#post-2282">slow gradual changes are often very successful. For example, I started adding increased amounts of vegetables to casseroles, ground meat dishes, etc. I also gradually introduced tasty vegetarian meals.</q>
 
 But I believe that alternatives can only be considered by professional analysis of your total weekly food intake. So you need to discuss the best way to improve your total food intake with your dietitian.
 
@@ -39,7 +41,7 @@ But I believe that alternatives can only be considered by professional analysis 
 
 <h3 id="cuts">Other Beef Cuts and Gout</h3>
 
-The original discussion attracted many GoutPal Foodies looking for information about `beef tendon`. But we never discussed it. Because search engines got fooled by an unrelated link to tendon information. So this shows how easy it is to lose focus by trying to compare different cuts of meat. Whereas the sensible option is to keep your total meat intake within national healthy eating guidelines. If that doesn't help, consider moving to a GoutPal Dieters plan. But only if you are prepared to monitor uric acid changes in response to your diet changes.
+The original discussion attracted many GoutPal Foodies looking for information about `beef tendon`. But we never discussed it. Because search engines got fooled by an unrelated link to tendon information. So this shows how easy it is to lose focus by trying to compare different cuts of meat. Whereas, the sensible approach is to keep your total meat intake within national healthy eating guidelines. If that doesn't help, consider moving to a GoutPal Dieters plan. But only if you are prepared to monitor uric acid changes in response to your diet changes.
 
 <h3 id="purine">Beef Purines and Gout</h3>
 
@@ -52,9 +54,9 @@ There is a belief that grinding beef might change the purine content of food. Ye
 
 <h2 id="next">Ground Beef & Your Gout</h2>
 
-You should now see there is no need to discuss ground beef with your dietitian or other health professional. Because total meat consumption is more important than specific cuts of meat. Especially red meat consumption. Indeed, you must refine your concerns about ground beef and gout. Because you need to be concerned with establishing healthy eating patterns. Then your concern changes to "I know my meat consumption is generally healthy. But can I change the ground beef element for something more gout-friendly?"
+You should now see there is no need to discuss ground beef with your dietitian or other health professional. Because total meat consumption is more important than specific cuts of meat. Especially red meat consumption. Indeed, you must refine your concerns about ground beef and gout. Because you need to be concerned with establishing healthy eating patterns. Then your concern changes to, "I know my meat consumption is generally healthy. But can I change the ground beef element for something more gout-friendly?"
 
-If your ground beef consumption exceeds national guidelines, you should reduce it. But if you are already limiting meat intake to national guidelines then you should start discussing other food groups with your dietitian.
+If your ground beef consumption exceeds national guidelines, you should reduce it. But if you are already limiting meat intake to national guidelines, then you should start discussing other food groups with your dietitian.
 
 Please note that I am considering summarizing national guidelines for healthy eating patterns. Because that will allow you to prepare better gout questions about your food intake. So please tell me what would help you most (see Feedback below).
 
