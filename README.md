@@ -1,5 +1,20 @@
 # KCT Template - Skeleventy
 
+## 220207 Project Note
+This README needs rewriting to describe how to contribute to GoutPal. Most importaantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
+
+Also, I will add notes here about technical issues. Though they should become part of the template documentation. In short, I need a workflow for maintaining template changes.
+
+Workflow for maintaining content also needs to refine how Gitpod is deployed. Because my earlier test of recompiling within Gitpod isn't quite working for me. In particular, I need to address 2 specific workflows for content-only changes and for template layout changes.
+
+Today I have deleted gitpod.yml:
+`tasks:
+  - init: npm install
+    command: npm run dev`
+
+But later I need to refine how and when running npm in gitpod is better than running it on deployment to Cloudflare Pages.
+
+## Original README
 This template can be used to create a new website. Also, that new website can optionally include WordPress Transmigration.
 
 Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done:
