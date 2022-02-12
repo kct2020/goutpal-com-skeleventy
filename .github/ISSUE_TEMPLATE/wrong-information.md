@@ -11,8 +11,8 @@ Page URL:
 
 Page Title:
 
-**Describe the Wrong Information**
+## Describe the Wrong Information ##
 A clear and concise description of what information is wrong.
 
-**Additional context**
+## Additional context ##
 Add any other context about the problem here.
