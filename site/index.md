@@ -26,13 +26,15 @@ I believe that the most important first step is to build a good relationship wit
 
 Currently, I am changing the platform for GoutPal. So you will see a mix of old and new styles. But gradually, I will republish old pages in the new style. 
 
+More imporantly, I'm changing my gout forums to focus more on personalizing GoutPal for you. So I recommend you follow the [Your GoutPal links](#next) below.
+
 <h4 id="blog">Latest Gout Blog</h4><p>For the latest gouty arthritis facts, see the <a href="/blog">{{ site.blog }}</a>.</p>
 <h4 id="old">2020 Gout Blog</h4><p>For earlier gout news see <a href="/gout-blog/">GoutPal 2020 Blog</a>.</p>
 <h4 id="home">2020 GoutPal Home Page</h4><p>For the previous version of this page see <a href="/goutpal-com-2020.html">2020 home page</a>.</p>
 <h4 id="archive">GoutPal Archives</h4><p>See how GoutPal has changed since 2005 in the <a href="https://web.archive.org/web/20050221104806/http://www.goutpal.com/">GoutPal Archives</a>.</p>
 <h4 id="search">GoutPal Search Engine</h4><p>This is the easiest way for you to answer any gout question. Just type your question or concern into the <a href="{{ site.searchurl }}">{{ site.searchname }}</a>.</p>
 
-## Your GoutPal
+<h2 id="next">Your GoutPal</h2>
 
 I'm happy with my own gout control now. So I'm focused on making GoutPal the best place to help you. But to do that, I need your feedback.
 

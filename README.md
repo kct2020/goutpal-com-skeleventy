@@ -1,7 +1,16 @@
-# KCT Template - Skeleventy
+# GoutPal.com Admin Area
+![GoutPal Logo](https://goutpal.com//images/friendly-help-for-gout-620.webp "GoutPal's Friendly Help For Gout")
+
+Gout sufferers can ignore this and go straight to...
+- [GoutPal's Gout Discussions](https://github.com/kct2020/goutpal-com-skeleventy/discussions). Where you can chat with fellow gout sufferers.
+- [GoutPal's Gout Issues](https://github.com/kct2020/goutpal-com-skeleventy/issues). Where you can seek personal help about any GoutPal page.
+
+If in doubt, start at [GoutPal Forums Replacement](https://goutpal.com/blog/gout-discussion-forums/)
+
+For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
 
 ## 220207 Project Note
-This README needs rewriting to describe how to contribute to GoutPal. Most importaantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
+This README needs rewriting to describe how to contribute to GoutPal. Most importantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
 
 Also, I will add notes here about technical issues. Though they should become part of the template documentation. In short, I need a workflow for maintaining template changes.
 
