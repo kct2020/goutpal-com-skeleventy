@@ -34,7 +34,7 @@ Having said that, I will explain the steps in logical start-finish sequence. The
 
 <h2 id="plan">Uric Acid Patient Plan</h2>
 
-For my first example, I explain the steps that a gout sufferer might take if they identified their <a href="/blog/whats-your-biggest-gout-concern/index.md">biggest gout concern as "I want to control uric acid using drugs"</a>.
+For my first example, I explain the steps that a gout sufferer might take if they identified their <a href="/blog/whats-your-biggest-gout-concern/">biggest gout concern as "I want to control uric acid using drugs"</a>.
 
 Here, I explain the overview of each step. Later, I'll link out to details of each step. Explaining facts, your options, and common questions and experiences that affect how you manage your plan.
 

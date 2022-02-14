@@ -32,7 +32,7 @@ For gout patients using drug treatment for uric acid control, we see the first m
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="pics">
 			<td><a href="/tophi/gouty-tophi-pictures/">Gouty Tophi Pictures</a></td>
 			<td><q cite="/tophi/gouty-tophi-pictures/">photographs help gout sufferers understand: What tophi look like; Potential tophi treatments; [and] Dangers of tophaceous gout.</q></td>
@@ -63,7 +63,7 @@ I am collating the list of articles about tophi dangers. So please let me know i
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="burst">
 			<td>Tophi Burst</td>
 			<td><q cite=""></q></td>
@@ -90,7 +90,7 @@ I am collating the list of articles about getting rid of tophi. So please let me
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="squeeze">
 			<td>Squeezing Gouty Tophi</td>
 			<td><q cite=""></q></td>
@@ -119,7 +119,7 @@ This is especially important where resolving those concerns requires you to iden
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="allopurinol">
 			<td><a href="/tophi/does-allopurinol-dissolve-tophi">Does Allopurinol Dissolve Tophi?</a></td>
 			<td><q cite="/tophi/does-allopurinol-dissolve-tophi">allopurinol can indirectly dissolve your tophi. But only if you work with your doctor to maintain uric acid at a low enough level.</q></td>
