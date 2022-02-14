@@ -2,7 +2,7 @@
 
 layout: post
 date: 2022-01-01T00:00:00Z
-meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quiality of life.
+meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quality of life.
 title: Gouty Tophi Section
 image_alt: Tophi & Gout Facts
 sub_heading: The Gouty Tophi Section explains all aspects of tophaceous gout.
@@ -148,8 +148,10 @@ You can see that the presence of tophi significantly raises the urgency of promp
 
 Later, I will add articles that support other steps in the GoutPal Patient Plan. Also articles that support Student, Victim, and Arthritis Sufferer Plans. In the meantime, please see <a href="/gout-symptoms/tophi/">Tophi: Illustrated Reference Guide</a> and <a href="/topic/tophi/">The Tophi Blog</a>.
 
-Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
-
 ***
 
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+
+<h4 id="feedback">{{ title }} Feedback</h4>
+
+Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
