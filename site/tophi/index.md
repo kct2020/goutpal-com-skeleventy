@@ -2,7 +2,7 @@
 
 layout: post
 date: 2022-01-01T00:00:00Z
-meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quiality of life.
+meta_description: Tophi are a sign that your gout is dangerous. See how they affect diagnosis, uric acid treatment, and your quality of life.
 title: Gouty Tophi Section
 image_alt: Tophi & Gout Facts
 sub_heading: The Gouty Tophi Section explains all aspects of tophaceous gout.
@@ -32,7 +32,7 @@ For gout patients using drug treatment for uric acid control, we see the first m
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="pics">
 			<td><a href="/tophi/gouty-tophi-pictures/">Gouty Tophi Pictures</a></td>
 			<td><q cite="/tophi/gouty-tophi-pictures/">photographs help gout sufferers understand: What tophi look like; Potential tophi treatments; [and] Dangers of tophaceous gout.</q></td>
@@ -63,7 +63,7 @@ I am collating the list of articles about tophi dangers. So please let me know i
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="burst">
 			<td>Tophi Burst</td>
 			<td><q cite=""></q></td>
@@ -90,7 +90,7 @@ I am collating the list of articles about getting rid of tophi. So please let me
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="squeeze">
 			<td>Squeezing Gouty Tophi</td>
 			<td><q cite=""></q></td>
@@ -119,7 +119,7 @@ This is especially important where resolving those concerns requires you to iden
 			<th style="width: 60%;">Quote/Note</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody style="vertical-align:top;">
 		<tr id="allopurinol">
 			<td><a href="/tophi/does-allopurinol-dissolve-tophi">Does Allopurinol Dissolve Tophi?</a></td>
 			<td><q cite="/tophi/does-allopurinol-dissolve-tophi">allopurinol can indirectly dissolve your tophi. But only if you work with your doctor to maintain uric acid at a low enough level.</q></td>
@@ -148,8 +148,10 @@ You can see that the presence of tophi significantly raises the urgency of promp
 
 Later, I will add articles that support other steps in the GoutPal Patient Plan. Also articles that support Student, Victim, and Arthritis Sufferer Plans. In the meantime, please see <a href="/gout-symptoms/tophi/">Tophi: Illustrated Reference Guide</a> and <a href="/topic/tophi/">The Tophi Blog</a>.
 
-Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
-
 ***
 
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+
+<h4 id="feedback">{{ title }} Feedback</h4>
+
+Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
