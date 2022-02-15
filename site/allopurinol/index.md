@@ -19,7 +19,7 @@ This is a hub page for all allopurinol articles. However, it might not include a
 <h2 id="intent">Allopurinol Article Audiences</h2>
 Most allopurinol articles are part of <a href="/blog/starting-gout-plans/">GoutPal's Gout Patient Plan</a>. Especially since allopurinol is recommended by rheumatologists as the first-line treatment for controlling excess uric acid. 
 
-That Patient Plan also includes most side-effects articles. However fear of side-effects prevents some gout sufferers initiating uric acid treatment. Similarly poor management of allopurinol side-effects causes some gout patients to withdraw treatment. So I include those articles in <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal's Gout Victim Plan</a>.
+That Patient Plan also includes most side effects articles. However, fear of side effects prevents some gout sufferers initiating uric acid treatment. Similarly, poor management of allopurinol side effects causes some gout patients to withdraw treatment. So I include those articles in <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal's Gout Victim Plan</a>.
 
 Finally, some articles compare allopurinol with lifestyle changes or complementary alternatives. So I include those articles in <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal's Gout Student Plan</a>.
 
@@ -27,7 +27,7 @@ Finally, some articles compare allopurinol with lifestyle changes or complementa
 Within each of the GoutPal Plans, I identify <a href="#facts">facts</a> and <a href="#faqs">concerns</a>...
 
 <h3 id="facts">Allopurinol Facts</h3>
-These facts support recommendations and associated options within each plan. Each article identifies its specific purpose. But in general these articles identify treatment options that you should discuss with your professional health advisers.
+These facts support recommendations and associated options within each plan. Each article identifies its specific purpose. But in general, these articles identify treatment options that you should discuss with your professional health advisers.
 
 <table id="fact-list" style="width: 100%;">
 	<thead>
@@ -73,7 +73,7 @@ These facts support recommendations and associated options within each plan. Eac
 </table>
 
 <h3 id="faqs">Allopurinol Concerns</h3>
-These are common concerns about allopurinol that other gout suffereres have identified. Often, we have discussed these concerns. But remember, opinions and experiences of other gout sufferers might not be relevant to your medical situation. So you must discuss your allopurinol concerns with  professional health advisers. However, other people's experiences might help you frame those discussions.
+These are common concerns about allopurinol that other gout sufferers have identified. Often, we have discussed these concerns. But remember, opinions and experiences of other gout sufferers might not be relevant to your medical situation. So you must discuss your allopurinol concerns with  professional health advisers. However, other people's experiences might help you frame those discussions.
 
 <table id="faq-list" style="width: 100%;">
 	<thead>
@@ -85,7 +85,7 @@ These are common concerns about allopurinol that other gout suffereres have iden
 	<tbody style="vertical-align:top;">
 		<tr id="kidney">
 			<td><a href="/888/allopurinol-tablets-kidney-disease/">Does Allopurinol Affect the Kidneys?</a></td>
-			<td>Allopurinol tablets are a must for gout But what if you also have kidney problems? See if taking allopurinol pills can help if you also have kidney disease.</td>
+			<td>Allopurinol tablets are a must for gout. But what if you also have kidney problems? See if taking allopurinol pills can help if you also have kidney disease.</td>
 		</tr>
 		<tr id="should">
 			<td><a href="/964/is-allopurinol-or-allopurinal-the-best-gout-treatment/">Should you Stop taking Allopurinol During a Gout Attack?</a></td>
@@ -112,7 +112,7 @@ These are common concerns about allopurinol that other gout suffereres have iden
 <h2 id="next">Your Allopurinol</h2>
 As you can see, I'm reorganizing, reviewing, and republishing lots of allopurinol articles. Because allopurinol affects almost every gout sufferer. Even if you don't take it. 
 
-As a minimum, you should learn the "rules" about allopurinol planning, prescribing, and monitoring. Because most rules apply to all uric acid treatment. So allopurinol-takers need to choose the right options for their personal gout plan. Meanwhile gout sufferers choosing alternatives to allopurinol must make similar choices for their selected treatment. But all gout sufferers need to discuss those options with their professional health advisers. For example, if you are following any gout diet plan, you must monitor uric acid changes in response to eating pattern changes. Also, you have to discuss starting gout diet with a dietitian or other health professional. Then you have to adjust your uric acid targets as you progress through debulking to maintenance phase.
+As a minimum, you should learn the "rules" about allopurinol planning, prescribing, and monitoring. Because most rules apply to all uric acid treatment. So, allopurinol-takers need to choose the right options for their personal gout plan. Meanwhile, gout sufferers deciding alternatives to allopurinol must make similar choices for their selected treatment. But all gout sufferers need to discuss those options with their professional health advisers. For example, if you are following any gout diet plan, you must monitor uric acid changes in response to eating pattern changes. Also, you have to discuss starting your gout diet with a dietitian or other health professional. Then you have to adjust your uric acid targets as you progress through debulking to maintenance phase.
 
 Importantly, most gout sufferers mix their favorite aspects of drugs, diet, and complementary medicine. So you might aim for lower allopurinol dosing in conjunction with diet changes and supplements. But you must ensure that these work in harmony by discussing your approach with qualified advisers.
 
@@ -122,4 +122,4 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or see the 
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Your feedback helps me prioritize adding more allopurinol articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your allopurinol concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more allopurinol articles. In particular, I'd love to know if you want extra articles in this allopurinol list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/41">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your allopurinol concerns with other gout sufferers</a>
