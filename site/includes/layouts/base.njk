@@ -27,6 +27,15 @@
     {# include favicon, fonts, etc #}
     <link rel="icon" type="image/png" href="{{ site.images.favicon }}">
     <link rel="apple-touch-icon" href="{{ site.images.apple_touch_icon }}" sizes="180x180">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "9207cbb1-054d-496d-990c-aff94d5076ff",
+    });
+  });
+</script>
 </head>
 
 
