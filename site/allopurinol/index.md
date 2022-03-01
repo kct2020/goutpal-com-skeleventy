@@ -37,6 +37,10 @@ These facts support recommendations and associated options within each plan. Eac
 		</tr>
 	</thead>
 	<tbody style="vertical-align:top;">
+		<tr id="side">
+			<td><a href="/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a></td>
+			<td>Do you worry about allopurinol side effects? Then you need the latest facts about adverse events. Also, how to resolve uric acid treatment concerns with your doctor. Get allopurinol side effects info to help manage your gout.</td>
+		</tr>
 		<tr id="alcohol">
 			<td><a href="/914/allopurinol-and-alcohol-can-you-spirit-away-gout/">Allopurinol and Alcohol</a></td>
 			<td>Can you take allopurinol and alcohol together? You must understand how alcohol affects your uric acid treatment. Get the facts about alcohol with allopurinol.</td>
@@ -60,10 +64,6 @@ These facts support recommendations and associated options within each plan. Eac
 		<tr id="life">
 			<td>Allopurinol Shelf Life</td>
 			<td>I'm waiting for feedback about why shelf life is important to you. Because such concerns are an indication that you are not taking allopurinol in the way it is supposed to be used. In any case, this is a question for your pharmacist.</td>
-		</tr>
-		<tr id=""side>
-			<td>Allopurinol Side Effects</td>
-			<td>You can search many different side effects of allopurinol. But the main page is currently <a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a>. However, I'm working on a more comprehensive index of facts and concerns about side effects of allopurinol. So I'm particularly interested in your feedback.</td>
 		</tr>
 		<tr id="withdraw">
 			<td>Allopurinol Withdrawal</td>
