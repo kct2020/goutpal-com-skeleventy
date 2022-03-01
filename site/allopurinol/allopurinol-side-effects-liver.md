@@ -85,7 +85,7 @@ Please <a href="{{ site.social_links.github }}issues/26">share your thoughts abo
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
-	<li id="ref1">GoutPal Forum Users. "Liver And Allopurinol Side Effects." Original GoutPal Forum (Mar 2007): <a href="https://web.archive.org/web/20201026065932/gout-pal.com/allopurinol-side-effects/2007/03/">Archive accessed 26 Oct 2020</a>.</li>
+	<li id="ref1">GoutPal Forum Users. "Liver And Allopurinol Side Effects." Original GoutPal Forum (Mar 2007): <a href="https://web.archive.org/web/20201026065932/gout-pal.com/allopurinol-side-effects/2007/03/"> Archive accessed 26 Oct 2020</a>.</li>
 	<li id="ref2">GoutPal Forum Users. "Allopurinol and Liver Function Test." Original GoutPal Forum (Nov 2010): <a href="https://web.archive.org/web/20200807161104/https://gout-pal.com/gout-pal-forum/please-help-my-gout/liver-function-test/">Archive accessed 7 Aug 2020</a>.</li>
 	<li id="ref3">Doghramji, Paul P., Steve Fermer, Robert Wood, Robert Morlock, and Scott Baumgartner. "Management of gout in the real world: current practice versus guideline recommendations." Postgraduate medicine 128, no. 1 (2016): 106-114.</li>
 	<li id="ref4">Zhang, Siliang, Qiming Xie, Shuqing Xie, Jianwei Chen, Qingyue Deng, Ling Zhong, Jing Guo, and Yuan Yu. "The association between urate‐lowering therapies and treatment‐related adverse events, liver damage, and major adverse cardiovascular events (MACE): A network meta‐analysis of randomized trials." Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy 41, no. 9 (2021): 781-791.</li>
