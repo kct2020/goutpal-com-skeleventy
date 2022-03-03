@@ -12,12 +12,12 @@ tags:
 - symptom
 - student
 ---
-<h2 id="intro">Introduction to {{ title }}</h2>
+<h2 id="intro">Introduction to Is Gout Itchy</h2>
 On reviewing an old gout forum discussion about itching<a href="#ref1"><sup>[1]</sup></a>, I realized that sufferers were experiencing itching in different circumstances. Then relevant research revealed 3 different ways that itching is linked to gout. Also, there are different personal factors that affect those 3 types of gout itch. So there is never a single, standard way to deal with gout itching. Because you need to work with your health professionals to determine which type of itch you are dealing with. Then work out a personal plan to ditch the itch.
 
 Note: There are many other causes of itching beyond these 3 types of gout itch. Because many other events cause itching. Including many non-gout drugs. Which is why I emphasize that you consult your doctor about any itching that you experience.
 
-<h2 id="intent">Purpose of {{ title }}</h2>
+<h2 id="intent">Purpose of Is Gout Itchy</h2>
 Dealing with itching isn't currently part of any professional gout guidance that I have seen. Yet, it is considered in many gout studies. Also, gout itch concerns are regularly discussed in gout forums. So, gout itch is one of many topics that gout sufferers need to discuss on a personal basis with their doctors.
 
 To that end, I provide the <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Student Plan</a> to help gout sufferers learn about the topics that apply to them. Then they can discuss their relevant treatment options with their professional health advisers.
@@ -53,12 +53,12 @@ We've seen that uric acid crystals give some gout sufferers a histamine itch war
 <img src="/images/allopurinol-itch.webp" alt="Allopurinol Itch"  width="610" height="377">
   <figcaption>Allopurinol Itch<a href="#ref6"><sup>[6]</sup></a></figcaption>
 </figure>
-Most of our itching discussions related to uric acid treatment are about allopurinol itch. Though for most gout patients, the effects are never as severe as this image. Which Yin describes as<a href="#ref6"><sup>[6]</sup></a>:
+Most of our itching and uric acid treatment discussions are about allopurinol itch. Though for most gout patients, the effects are never as severe as this image. Which Yin describes as<a href="#ref6"><sup>[6]</sup></a>:
 <q cite="https://dx.doi.org/10.2147%2FDDDT.S66868">itch, and small quantities of purplish-red rash with diffused distribution on four limbs</q>
 
 Anyway, I deal with this in <a href="/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a>, so you can look there. But be aware that if you experience itch when taking allopurinol, you should consult your doctor immediately.
 
-<h2 id="summary">{{ title }} Summary</h2>
+<h2 id="summary">Is Gout Itchy Summary</h2>
 During the forum discussions so far, I hadn't realized that there are at least these 3 types of gout itch. Similarly, the gout articles that I've published about itching don't recognize this distinction. So, I will review those articles to ensure they adequately distinguish the type of gout itch. Then, I will link them here, or on a new gout & itching index page.
 
 In the meantime, you should use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find articles and discussions that are most relevant to your gout itch concerns.
@@ -67,13 +67,20 @@ In the meantime, you should use the <a href="{{ site.searchurl }}">{{ site.searc
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
-<h2 id="next">Your {{ title }}</h2>
-You have learned/Now, you understand that...
+<h2 id="next">Is Your Gout Itchy?</h2>
+You have learned that there are at least 3 different types of gout itch: -
+
+1. Before gout flare - Gout Histamine Itch
+2. After gout flare - Gout Skin Peeling Itch
+3. During uric acid treatment - Allopurinol Itch
+
+So to help you distinguish these, it's a good idea to maintain a Gout Symptoms Log.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Student Plan</a>.
-<h4 id="feedback">{{ title }} Feedback</h4>
+Leave "Is Gout Itchy" to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9637/goutpal-plan-for-gout-recce-group/">GoutPal Student Plan</a>.
+
+<h4 id="feedback">Is Gout Itchy Feedback</h4>
 
 Please <a href="{{ site.social_links.github }}issues/30">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
 
@@ -82,7 +89,7 @@ If you are asking a question, it's best to:
 2. Choose the most relevant result.
 3. Refer to that result as you ask your question.
 
-<h4 id="refs">{{ title }} References</h4>
+<h4 id="refs">Is Gout Itchy References</h4>
 <ol>
 	<li id="ref1">GoutPal Forum Users. "Gout and Itching". GoutPal Forum (Aug 2008). <a href="https://web.archive.org/web/20211121131501/gout-pal.com/gout-pal-forum/please-help-my-gout/gout-and-itching/">Archived 21 Nov 2021</a>.</li>
 	<li id="ref2">Yang, Ting-Lin B., and Brian S. Kim. "Pruritus in allergy and immunology." Journal of Allergy and Clinical Immunology 144, no. 2 (2019): 353-360.</li>
