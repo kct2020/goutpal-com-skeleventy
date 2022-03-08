@@ -4,6 +4,7 @@ nav.pagination { display: block; }
 nav.pagination ol {
     padding: 0;
     list-style-type: none;
+    justify-content: center;
 }
 
 .pagination li {
@@ -37,7 +38,7 @@ nav.pagination ol {
 </style>
 <nav role="navigation" aria-label="Page Pagination" class="pagination">
 
-    <ol class="flex items-center">
+    <ol class="box-flex">
 
         {% if page.url != pagination.href.first %}
             <li>
