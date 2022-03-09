@@ -1,0 +1,77 @@
+<style>
+nav.pagination { display: block; }
+
+nav.pagination ol {
+    padding: 0;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.pagination li {
+    flex-grow: 0;
+    text-align: center;
+    border: 1px solid #a0aec0;
+    border-right: 0;
+}
+
+.pagination li:last-child { border-right: 1px solid #A0AEC0; }
+
+.pagination li.pagerLink { padding: 0; }
+
+.pagination li a {
+    display: inline-block;
+    padding: 2px 10px;;
+}
+
+.pagination li a:hover {
+    color: #E2E8F0;
+    background-color: #e53e3e;
+}
+
+.pagination li.current { border-color: #9B2C2C; }
+.pagination li.current + li { border-left-color: #9B2C2C; }
+
+.pagination [aria-current] {
+    color: #E2E8F0;
+    background-color: #e53e3e;
+}
+</style>
+<nav role="navigation" aria-label="Page Pagination" class="pagination">
+
+    <ol class="box-flex">
+
+        {% if page.url != pagination.href.first %}
+            <li>
+                <a href="{{ pagination.href.first | url }}" aria-label="Goto First Page">First</a>
+            </li>
+        {% endif %}
+
+        {% if pagination.href.previous %}
+            <li>
+                <a href="{{ pagination.href.previous | url }}" aria-label="Goto Previous Page">&laquo;</a>
+            </li>
+        {% endif %}
+
+        {%- for pageEntry in pagination.pages %}
+            <li class="pagerLink {% if page.url == pagination.hrefs[ loop.index0 ] %}current{% endif %}">
+                <a href="{{ pagination.hrefs[ loop.index0 ] | url}}" {% if page.url == pagination.hrefs[ loop.index0 ] %}aria-current="page"{% endif %} aria-label="Goto Page {{ loop.index }}">
+                    {{ loop.index }}
+                </a>
+            </li>
+        {%- endfor %}
+
+        {% if pagination.href.next %}
+            <li>
+                <a href="{{ pagination.href.next | url }}" aria-label="Goto Next Page">&raquo;</a>
+            </li>
+        {% endif %}
+
+        {% if page.url != pagination.href.last %}
+            <li>
+                <a href="{{ pagination.href.last | url }}"  aria-label="Goto Last Page">Last</a>
+            </li>
+        {% endif %}
+
+    </ol>
+
+</nav>
