@@ -15,7 +15,7 @@ tags:
 People often ask, "Is Salami Bad for Gout?" But gout research on individual food items is always very limited. So first we see how salami fits into a healthy diet. Then we consider uric acid. Finally, you understand how to avoid or include salami in your weekly food choices.
 
 <h2 id="intent">Is Salami Bad for Gout Purpose</h2>
-I wrote Is Salami Bad for Gout to help gout sufferers understand basic food choices. Especially how to discuss salami with their doctors and other professional advisers. Because many gout sufferers are concerned how individual foods affect their gout. So this is part of GoutPal's Gout Foodies Plan. Which helps gout sufferers put their food concerns into the wider context of managing total food intake with respect to gout management.
+I wrote Is Salami Bad for Gout to help gout sufferers understand basic food choices. Especially how to discuss salami with their doctors and other professional advisers. Because many gout sufferers are concerned how individual foods affect their gout. So this is part of <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies Plan</a>. Which helps gout sufferers put their food concerns into the wider context of managing total food intake with respect to gout management.
 
 <h2 id="salami">{{ title }}</h2>
 Before we can answer, "Is Salami Bad for Gout", we need to consider the bigger picture of balanced healthy eating patterns. So let's look at how salami fits into national Dietary Guidelines<a href="#ref1"><sup>[1]</sup></a>.
@@ -47,7 +47,8 @@ Salami is excluded from <a href="/8003/why-vegan-diet-is-worst-for-gout/">vegeta
 
 <h2 id="uric">Is Salami High in Purines?</h2>
 Finally, let's consider the effect of salami on uric acid. Where we can see different values depending on the type of salami. So, you have to consider that any value is likely to be an estimate. Based on some published values:
-- My usual reference is the SFK book that describes `Sausage salami, German` with a total purine count of 104 mg/100 mg<a href="#ref4"><sup>[4]</sup></a>. This is the same value used by Lockyer in 2016<a href="#ref5"><sup>[5]</sup></a>. Which puts salami at the lower end of the <a href="/9145/what-can-you-eat-on-a-moderate-purine-gout-diet/">Moderate Purine Level</a> (100-200 mg/100 g).
+
+- My usual reference is the SFK book that describes `Sausage salami, German` with a total purine count of 104 mg/100 g<a href="#ref4"><sup>[4]</sup></a>. This is the same value used by Lockyer in 2016<a href="#ref5"><sup>[5]</sup></a>. Which puts salami at the lower end of the <a href="/9145/what-can-you-eat-on-a-moderate-purine-gout-diet/">Moderate Purine Level</a> (100-200 mg/100 g).
 - In 2014, a Japanese gout study calculated their salami purine content higher at 146 mg/100 g<a href="#ref6"><sup>[6]</sup></a>. So, mid-range moderate purine level.
 - Alternatively, the 2010 Polish study of vegetarian meat alternatives calculated soy protein salami purine content at 41 mg/100 g<a href="#ref7"><sup>[7]</sup></a>. Putting vegetarian salami near the top of the <a href="/9087/is-very-low-purine-gout-diet-possible/">Very Low Purine Level</a> (0-50 mg/100 g).
 
