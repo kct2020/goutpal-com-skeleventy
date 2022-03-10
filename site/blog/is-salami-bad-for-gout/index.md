@@ -1,3 +1,4 @@
+---
 layout: post
 date: 2022-03-10T00:00:00Z
 meta_description: Cured meats add flavor to your plate. But are they good for gout sufferers? What about salami purine content? Learn the food facts. Before you ask, Is Salami Bad for Gout?
