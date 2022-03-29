@@ -9,6 +9,11 @@ If in doubt, start at [GoutPal Forums Replacement](https://goutpal.com/blog/gout
 
 For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
 
+## 220329 Tech Note
+Because I don't want to lose this URL replace tip, I'm noting it here so I don't lose it:
+`git grep -l 'https://keith-taylor.pages.dev' | xargs sed -i 's|https://keith-taylor.pages.dev|https://shrewdies.net|g'`
+Props https://blog.jasonmeridth.com/posts/use-git-grep-to-replace-strings-in-files-in-your-git-repository/ and https://gist.github.com/msamendinger/c2da6f5fafc43e72ef576a0cc7ad0165?permalink_comment_id=3820228#gistcomment-3820228
+
 ## 220207 Project Note
 This README needs rewriting to describe how to contribute to GoutPal. Most importantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
 
