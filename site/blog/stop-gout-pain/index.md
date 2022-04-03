@@ -11,7 +11,6 @@ tags:
 - blog
 - pain
 ---
-
 <h2 id="intro">{{ title }} Introduction</h2>
 When gout strikes, it's easy to panic. But you must think logically through the agony. Be prepared for your next flare. But what if you have no time to plan now? At least learn the 3 practical elements of how to {{ topic }}
 
@@ -46,7 +45,7 @@ Well, it's certainly the beginning of the end. Gout pain is part of a complex pr
 
 OK, see colchicine as an optional, yet powerful, first practical step to {{ topic }}. That power of colchicine has to be handled carefully. So if you're not following the latest dosage guidance, it is best to avoid it and go straight to Non Steroidal Anti Inflammatory Drugs (NSAIDs). But they have to be prescription strength unless your gout flare is mild. Also, that prescription has to consider all other meds you are taking.
 
-<h3 id="residual>Residual Gout Pain</h3>
+<h3 id="residual">Residual Gout Pain</h3>
 <em>This sounds great! I'm feeling better already. So can't I stop now? Because I hate taking pills.</em>
 
 Definitely - many gout sufferers can {{ topic }} with NSAIDs alone. Also, some doctors recommend steroid shots. But that's your personal choice. So you must understand all the factors that affect your choice. Which is why I emphasize your absolute need for professional medical advice.
@@ -70,11 +69,21 @@ If you need help with your {{ topic }} plan, please see the <a href="#feedback">
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or read other articles in this series:
-- Clarify Gout Pain Goals
-- Liaise With Gout Pain Medics
-- End Uric Acid Crystal Reaction
-- Anti Inflammatory Gout Pain Relief
-- Residual Gout Pain
+
+<style>
+.company {
+    font-family: 'Fredoka One',sans-serif;
+    background-color: #3274B2;
+    color: white;
+    font-size: 120%;
+    font-weight: bolder;
+}
+</style>
+- <span class="company">C</span>larify Gout Pain Goals
+- <span class="company">L</span>iaise With Gout Pain Medics
+- <span class="company">E</span>nd Uric Acid Crystal Reaction
+- <span class="company">A</span>nti Inflammatory Gout Pain Relief
+- <span class="company">R</span>esidual Gout Pain
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
