@@ -46,7 +46,7 @@ First, be aware that uric acid crystals do not hurt you directly. But your immun
 
 <em>No! No! No! Colchicine is what had me in the john all day.</em>
 
-OK, see colchicine as an optional, yet powerful, first practical step to {{ topic }}. That power of colchicine has to be handled carefully. So if you're not following the latest dosage guidance, it is best to avoid it and go straight to Non Steroidal Anti Inflammatory Drugs (NSAIDs).
+OK, see colchicine as an optional, yet powerful, first practical step to {{ topic }}. Or even prevent it. But that power of colchicine has to be handled carefully. So if you're not following the latest dosage guidance, it is best to avoid it and go straight to Non Steroidal Anti Inflammatory Drugs (NSAIDs).
 
 <h3 id="anti">Anti Inflammatory Gout Pain Relief</h3>
 Second, be aware that gout inflammation can take a day or two to resolve itself. So you have ended the inflammation reaction. (Or decided that you'll let it end itself.) Now, you can take anti inflammatory drugs that reduce inflammation and it's pain. But they have to be prescription strength unless your gout flare is mild. Also, that prescription has to consider all other meds you are taking.
@@ -78,11 +78,12 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or read oth
 
 <style>
 .company {
-    font-family: 'Fredoka One',sans-serif;
-    background-color: #3274B2;
-    color: white;
-    font-size: 120%;
-    font-weight: bolder;
+  font-family: 'Fredoka One',sans-serif;
+  background-color: #3274B2;
+  color: white;
+  font-size: 120%;
+  font-weight: bolder;
+  padding: 0 6px;
 }
 </style>
 - <span class="company">C</span>larify Gout Pain Goals
