@@ -7,6 +7,7 @@ sub_heading: One gout concern leads to another. Soon you're overwhelmed by uric 
 post_image: "/images/gout-maze.webp"
 tags:
 - using
+- plan
 - blog
 
 ---
@@ -18,10 +19,10 @@ To get started, you should select one concern from the list below. Later, you mi
 
 <h3 id="patient">Uric Acid Drugs Concerns</h3>
 <p>"<em>I want to control uric acid using drugs</em>"</p>
-<p>I'm working on simpler ways to plan uric acid control with prescription medicines. In the meantime, see <a href="/9602/goutpal-plan-for-gout-patients/">GoutPal Plan for Gout Patients</a>.</p>
+<p>I'm working on simpler ways to <a href="/blog/starting-gout-plans/">plan uric acid control with prescription medicines</a>. But I haven't finished it yet. So in the meantime, see <a href="/9602/goutpal-plan-for-gout-patients/">GoutPal Plan for Gout Patients</a>.</p>
 <h3 id="diet">Uric Acid Diet Concerns</h3>
 <p>"<em>I want to control uric acid using diet</em>"</p>
-<p>I'm working on simpler ways to plan uric acid control with eating pattern changes. Specifically, I'm developing <a href="/blog/starting-gout-plans/">Start Your Uric Acid Plan Today</a>. But I haven't finished it yet. So in the meantime, see <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.</p>
+<p>I'm working on simpler ways to plan uric acid control with eating pattern changes. In the meantime, see <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.</p>
 <h3 id="herbal">Uric Acid Herbs Concerns</h3>
 <p>"<em>I want to control uric acid using alternative therapies</em>"</p>
 <p>I often refer to "herbal gout remedies". But I'm refocusing herbalist plans as "Complementary and Integrative Gout Therapies". In the meantime, see <a href="/9661/goutpal-plan-for-gout-herbalists/">GoutPal Plan for Gout Herbalists</a>.</p>
