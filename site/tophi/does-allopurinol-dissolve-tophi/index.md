@@ -70,6 +70,6 @@ Leave {{ title }} to browse the <a href="/tophi">Tophi</a> facts section.
 <h4 id="refs">{{ title }} References</h4>
 <ol>
 	<li id="ref1">FitzGerald, John D., Nicola Dalbeth, Ted Mikuls, Romina Brignardello‐Petersen, Gordon Guyatt, Aryeh M. Abeles, Allan C. Gelber et al. "<a href="https://goutpal.info/2020-gout-management-guideline/">2020 American College of Rheumatology Guideline for the Management of Gout</a>." Arthritis Care &amp; Research (2020).</li>
-	<li id="ref2">GoutPal Forum Members. "Tophi and Allopurinol Discussion." Original GoutPal Forum (Feb 2007): <a href="https://web.archive.org/web/20200807084045/gout-pal.com/tophi/2007/02/">Archive accessed 7 Aug 2021</a>.</li>
+	<li id="ref2">GoutPal Forum Members. "Tophi and Allopurinol Discussion." Original GoutPal Forum (Feb 2007): <a href="https://web.archive.org/web/20200807084045/gout-pal.com/tophi/2007/02/">Archive accessed 7 Aug 2020</a>.</li>
 	<li id="ref3">Chatterjee, Soumya, and Hakan Ilaslan. "Painful knee locking caused by gouty tophi successfully treated with allopurinol." Nature Clinical Practice Rheumatology 4, no. 12 (2008): 675-679.</li>
 </ol>
