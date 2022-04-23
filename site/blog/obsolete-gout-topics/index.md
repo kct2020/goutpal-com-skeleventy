@@ -15,7 +15,7 @@ tags:
 <h2 id="intro">{{ title }} Introduction</h2>
 
 After a certain time, some gout topics become obsolete. Because:
-- The information is superseded by newer topics.
+- Newer topics have superseded the old information.
 - There is no interest in the topic.
 
 When this happens, I usually redirect readers to the best alternative information. However, some topics have no related information. So I add them to the list below.
@@ -23,9 +23,9 @@ When this happens, I usually redirect readers to the best alternative informatio
 <h2 id="topics">{{ title }}</h2>
 The 'Status' column means:
 <ul>
-<li>Active - there is an active GoutPal Issue for the topic.</li>
-<li>Inactive - there are some additional notes about the deleted page. But they will be deleted after 1 year. Unless any reader asks for more time.</li>
-<li>Archived - a link to a copy of the deleted page.</li>
+<li>Active – there is an active GoutPal Issue for the topic.</li>
+<li>Inactive – there are some additional notes about the deleted page. But they will be deleted after 1 year. Unless any reader asks for more time.</li>
+<li>Archived – a link to a copy of the deleted page.</li>
 </ul>
 <table id="list" style="width: 100%;">
 	<thead>
@@ -48,9 +48,6 @@ The 'Status' column means:
 		</tr>
 	</tbody>
 </table>
-<h2 id="summary">{{ title }} Summary</h2>
-What you've learned. Re-emphasize key facts in memorable ways.
-
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
@@ -61,10 +58,10 @@ Now you know the status of your obsolete gout topic. But first, you should <a hr
 Beyond that, your next step depends on the status of the obsolete page:<ul>
 <li>Active: Add your comments at the link above. Or watch that GoutPal Issue until someone adds information that helps you.</li>
 <li>Inactive: Add your questions, experiences, or opinions at the link above. Because that should reactivate the topic. Which saves unpublished research notes from being deleted.</li>
-<li>Archived: Read the original version at the 'Archived' link above. That is the only information available. Because any other PDFs and research notes are deleted.</li>
+<li>Archived: Read the original version at the 'Archived' link above. That is the only information available. Because I have deleted any other PDFs and research notes.</li>
 </ul>
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+If you still have concerns about any missing GoutPal page, please see the <a href="#feedback">feedback section</a> below.
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
