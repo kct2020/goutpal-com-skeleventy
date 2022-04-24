@@ -57,7 +57,7 @@ I derived data for this table from USDA's Expanded Flavonoid Database<a href="#r
 <tr><td>	Loganberries, frozen	</td><td>	52.52	</td><td>	49.43	</td><td>	0.33	</td><td>	1.43	</td><td>	0.14	</td><td>	1.06	</td><td>	0.13	</td></tr>
 <tr><td>	Cereals ready-to-eat, POST Selects Cranberry Almond Crunch	</td><td>	48.84	</td><td>	0.26	</td><td>		</td><td>	0.02	</td><td>	0.43	</td><td>		</td><td>	48.13	</td></tr>
 <tr><td>	Raspberries, raw	</td><td>	48.63	</td><td>	45.77	</td><td>	0.31	</td><td>	1.32	</td><td>	0.13	</td><td>	0.98	</td><td>	0.12	</td></tr>
-<tr><td>	Beans, black, mature seeds, raw	</td><td>	48.46	</td><td>	1.63	</td><td>	15.41	</td><td>	18.50	</td><td>	10.61	</td><td>	0.95	</td><td>	1.36	</td></tr>
+<tr><td>	[Beans, black, mature seeds, raw](/1700/natural-remedy-for-gout/)	</td><td>	48.46	</td><td>	1.63	</td><td>	15.41	</td><td>	18.50	</td><td>	10.61	</td><td>	0.95	</td><td>	1.36	</td></tr>
 <tr><td>	Grape juice cocktail, frozen concentrate, undiluted, with added ascorbic acid	</td><td>	47.38	</td><td>	2.63	</td><td>	2.99	</td><td>	5.67	</td><td>	32.90	</td><td>	0.06	</td><td>	3.13	</td></tr>
 <tr><td>	Pie fillings, blueberry, canned	</td><td>	47.18	</td><td>	2.44	</td><td>	9.11	</td><td>	10.24	</td><td>	19.53	</td><td>		</td><td>	5.86	</td></tr>
 <tr><td>	Blackberries, canned, heavy syrup, solids and liquids	</td><td>	45.32	</td><td>	45.03	</td><td>		</td><td>		</td><td>		</td><td>	0.20	</td><td>	0.09	</td></tr>
