@@ -21,7 +21,7 @@ Now, you can read about my research. Or skip straight to <a href="#food">100 Ant
 This is a preliminary draft of my list of the top 100 anthocyanin-rich foods. Unusually, my main purpose is to raise awareness and seek feedback. However, this list and associated research is a good starting point for you to discuss your anthocyanin intake with your professional health advisers. But you should be aware that I have not yet found any recommendations for anthocyanin consumption from rheumatologists. So before you make any significant eating pattern changes, you must get advice and baseline blood tests from your doctor.
 
 <h2 id="anthocyanins">{{ title }}</h2>
- Where I mostly saw suggestions about red cabbage. Mostly suggesting that anthocyanins in red cabbage were the probable reason for its uric acid lowering effect. But I've seen similar suggestions since I first started researching gout. So I didn't want to explore anthocyanins further without some proof.
+During my research, I mostly saw suggestions about red cabbage. Often suggesting that anthocyanins in red cabbage were the probable reason for its uric acid lowering effect. But I've seen similar suggestions about cherries since I first started researching gout. So I didn't want to explore anthocyanins further without some proof.
 
 Then I found an interesting study<a href="#ref1"><sup>[1]</sup></a>. That would've been more remarkable if researchers had found human test subjects. Instead of poisoning rats to create animal gout sufferers. But it has such important potential that I felt I had to publish my research to date. Later, I can improve my Anthocyanins Food List for Gout. Especially with more references to studies of anthocyanin's effects on uric acid.
 
@@ -170,9 +170,10 @@ Anyway, I'd appreciate your thoughts about any aspects of this article. For exam
 - And/or per typical serving size
 - Categorize by food groups
 - Add more data sources for foods not included in the USDA database. Especially notable as the anthocyanins used in this study derived from bilberries (European blueberries) and European black currant. Also, I noticed red radishes in another study.
-- Include other flavonoids? Because other flavonoids have been shown to benefit gout sufferers. Significantly [quercetin](https://goutpal.com/6208/quercetin-as-a-gout-home-remedy/). So should these be included? Or are separate lists better?
+- Include other flavonoids? Because we know other flavonoids can benefit gout sufferers. Significantly [quercetin](/6208/quercetin-as-a-gout-home-remedy/). So should these be included? Or are separate lists better?
+- Add your ideas, wants, and needs.
 
-I look forward to hearing from you as we work towards improving anthocyanin information for gout sufferers.
+<a href="{{ site.social_links.github }}issues/81">I look forward to reading your anthocyanin ideas</a> as we work towards improving anthocyanin information for gout sufferers.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
