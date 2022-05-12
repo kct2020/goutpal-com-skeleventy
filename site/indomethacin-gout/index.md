@@ -4,7 +4,7 @@ date: 2022-05-12T12:30:00Z
 meta_description: Why is indomethacin so important for gout sufferers? You should learn the facts. So resolve your indomethacin & gout concerns now.
 title: Indomethacin & Gout
 topic: indomethacin & gout
-image_alt: Indomethacin and Gout - Concerns and Facts
+image_alt: Indomethacin and Gout – Concerns and Facts
 sub_heading: Read the facts about indomethacin & gout. Also see how to resolve your indomethacin & gout concerns.
 post_image: "/images/indomethacin-and-gout-concerns-and-facts.webp"
 tags:
@@ -14,7 +14,7 @@ tags:
 
 <h2 id="intro">{{ title }} Introduction</h2>
 
-This is a hub page for all {{ topic }} articles. However, it might not include all {{ topic }} articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find specific <a href="#facts">{{ topic }} facts</a>. Or to find ways to resolve your <a href="#faqs">{{ topic }} concerns</a>.
+This is a hub page for all {{ topic }} articles. However, it might not include all indomethacin articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find specific <a href="#facts">{{ topic }} facts</a>. Or to find ways to resolve your <a href="#faqs">{{ topic }} concerns</a>.
 
 <h2 id="intent">{{ title }} Article Audiences</h2>
 Most {{ topic }} articles are part of <a href="/blog/starting-gout-plans/">GoutPal's Gout Patient Plan</a>. But many gout sufferers who try to seek herbal or dietary control of uric acid use pain meds to cope with gout flares. So you should follow your preferences as a patient and consult your physician about indomethacin for your gout pain. Especially since pain control is an important part of any uric acid lowering treatment. Therefore, use the {{ topic }} articles listed below to learn how to ask your doctor the right questions. Also, how to understand their responses.
