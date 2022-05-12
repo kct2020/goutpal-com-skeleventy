@@ -14,12 +14,12 @@
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "1.0.1",
-    "@11ty/eleventy-navigation": "0.3.2",
+    "@11ty/eleventy-navigation": "0.3.3",
     "gorko": "0.9.1",
     "html-minifier": "4.0.0",
     "laravel-mix": "6.0.43",
     "laravel-mix-purgecss": "6.0.0",
-    "postcss": "8.4.12",
+    "postcss": "8.4.13",
     "resolve-url-loader": "5.0.0",
     "sass-loader": "12.6.0"
   }
