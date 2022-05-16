@@ -12,7 +12,7 @@ tags:
 - dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
-
+Balsamic vinegar forms a small part of our food intake. But we gout sufferers tend to worry about everything we eat and drink. So it's good to seek reassurance about the effects of balsamic vinegar on uric acid and gout.
 
 <h2 id="intent">{{ title }} Purpose</h2>
 <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> learn to establish good eating patterns. Because following sound nutrition principles is the foundation for gout-friendly meal planning. Then you can build on that foundation as a <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter</a>. By choosing foods that are shown to lower uric acid. So this article explains how balsamic vinegar can be part of your gout-friendly eating patterns. But remember to discuss diet changes with your doctor before you make them.
@@ -34,7 +34,7 @@ In my second uric acid study, researchers treated groups of obese rats with bals
 
 <h3 id="good">Is Balsamic Vinegar Good for Gout?</h3>
 Refreshingly, my final study is on humans<a href="#ref4"><sup>[4]</sup></a>. Though not specifically gout sufferers. However, the researchers recorded uric acid levels before, and after 8 weeks of treatment. More importantly, they used a comparison treatment of 15 ml balsamic vinegar per day in the Control Group.
-<q cite="https://doi.org/10.3793/jaam.4.1">The Control Group showed a significant decrease [...] from 5.62±1.79 to 5.25±1.63 mg/dl (–5.80%, p=0.007) for uric acid</q>
+<q cite="https://doi.org/10.3793/jaam.4.1">The Control Group showed a significant decrease […] from 5.62±1.79 to 5.25±1.63 mg/dl (–5.80%, p=0.007) for uric acid.</q><br />
 So we really need clinical trials with gout sufferers for more information. Because that would help you and your doctor determine how to incorporate balsamic vinegar in your treatment plan. For example, what the best dose is for your gout. 
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
