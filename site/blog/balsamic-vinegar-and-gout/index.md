@@ -30,7 +30,7 @@ So balsamic vinegar is not bad for gout. However, you might also consider other 
 
 <h3 id="gout">Balsamic Vinegar & Uric Acid Study</h3>
 In my second uric acid study, researchers treated groups of obese rats with balsamic vinegar solution at different strengths<a href="#ref3"><sup>[3]</sup></a>. After 6 weeks, blood tests revealed that balsamic vinegar treatment reduces uric acid in a dose-dependent manner.<br />
-<q cite="https://dx.doi.org/10.21608/jedu.2022.121019.1601">the results obtained indicated that serum urea, creatinine and uric acid gradually decreased significantly at (p < 0.05) for all treated groups (3,4 and 5) compared to the positive group (2) (untreated group fed on high-fat diet)</q>
+<q cite="https://dx.doi.org/10.21608/jedu.2022.121019.1601">the results obtained indicated that serum urea, creatinine and uric acid gradually decreased significantly at (p &lt; 0.05) for all treated groups (3,4 and 5) compared to the positive group (2) (untreated group fed on high-fat diet)</q>
 
 <h3 id="good">Is Balsamic Vinegar Good for Gout?</h3>
 Refreshingly, my final study is on humans<a href="#ref4"><sup>[4]</sup></a>. Though not specifically gout sufferers. However, the researchers recorded uric acid levels before, and after 8 weeks of treatment. More importantly, they used a comparison treatment of 15 ml balsamic vinegar per day in the Control Group.
