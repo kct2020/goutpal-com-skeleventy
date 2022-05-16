@@ -10,6 +10,7 @@ post_image: "/images/marrow-seeds-for-gout.webp"
 tags:
 - blog
 - cucurbit
+- dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 When recipes tell you to discard marrow seeds, do you follow instructions? Or do you worry that you're throwing away a helpful gout food?
