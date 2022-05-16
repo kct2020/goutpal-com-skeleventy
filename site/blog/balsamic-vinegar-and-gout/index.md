@@ -24,7 +24,7 @@ I'm unaware of any clinical trials for balsamic vinegar as a gout treatment. How
 Despite extensive research, I cannot find purine values for balsamic vinegar. But I found one study that adjustments a moderate-high purine eating pattern<a href="#ref1"><sup>[1]</sup></a>. In order to create a low purine version. Now, that study includes balsamic vinegar in both versions. Implying that it is not high in purines. On the other hand, it might imply that the authors, like me, do not know the purine content of balsamic vinegar. In any case, a typical small serving size for balsamic vinegar means it will not have a significant effect on total purine intake. Also, purine metabolism is very complicated. So it is preferable to consider the effects of balsamic vinegar on blood uric acid levels…
 
 <h3 id="bad">Is Balsamic Vinegar Bad for Gout?</h3>
-My first uric acid study includes balsamic vinegar<a href="#ref2"><sup>[2]</sup></a>. Comparing it to 2 other types of vinegar. And a water-based garlic extract. So it shows that balsamic vinegar is more effective than apple vinegar for uric acid reduction in obese rats. However, garlic vinegar was the best of 3 types of vinegar. And garlic extract diluted with water was more effective than vinegar.
+My first uric acid study includes balsamic vinegar<a href="#ref2"><sup>[2]</sup></a>. Comparing it with 2 other types of vinegar. And with a water-based garlic extract. So it shows that balsamic vinegar is more effective than apple vinegar for uric acid reduction in obese rats. However, garlic vinegar was the best of 3 types of vinegar. And garlic extract diluted with water was more effective than vinegar.
 
 So balsamic vinegar is not bad for gout. However, you might also consider other salad dressing ingredients.
 
@@ -41,7 +41,7 @@ So we really need clinical trials with gout sufferers for more information. Beca
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">Balsamic Vinegar and Your Gout</h2>
-You have learned that balsamic vinegar is probably good for gout. But we require more research to be certain. So discuss balsamic with your doctor to agree what is a reasonable amount to consume in your circumstances.  Also, consider additional gout-friendly ingredients in your <a href="/2519/dressed-up-food-good-for-gout/">salad dressing for gout</a>. Such as ground garlic and garlic vinegar.
+You have learned that balsamic vinegar is probably good for gout. But we require more research to be certain. So discuss balsamic vinegar with your doctor to agree what is a reasonable amount to consume in your circumstances.  Also, consider additional gout-friendly ingredients in your <a href="/2519/dressed-up-food-good-for-gout/">salad dressing for gout</a>. Such as ground garlic and garlic vinegar.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
