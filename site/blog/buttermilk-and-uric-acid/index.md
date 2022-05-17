@@ -17,12 +17,14 @@ Many people see buttermilk as a healthy drink. But how will it affect your uric 
 Here we look at how to deal with the limited information about buttermilk and uric acid.
 
 <h2 id="intent">{{ title }} Purpose</h2>
-I wrote <em>Buttermilk and Uric Acid</em> to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter</a> decide if buttermilk might improve their gout foundation diet. But <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> might also find this interesting. In either case, use this information to decide if you want to increase your buttermilk intake. Then discuss your planned changes with health professionals. So that you use buttermilk to help your gout management plan - not hinder it.
+I wrote <em>Buttermilk and Uric Acid</em> to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> decide if buttermilk might improve their gout foundation diet. But <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> might also find this interesting. In either case, use this information to decide if you want to increase your buttermilk intake. Then discuss your planned changes with health professionals. So that you use buttermilk to help your gout management plan – not hinder it.
 
 <h2 id="good">Is Buttermilk Good for Gout?</h2>
 Gout Foodies often ask if buttermilk is good for gout. But they tend to ask that about every food. Which is a poor question. Because our first consideration is to understand how buttermilk fits into a foundation diet that meets national guidelines. So as a GoutPal Dieter, you have determined your own <a href="/10090/mediterranean-or-dash-diet-for-gout/">gout foundation diet</a>.
 
-Of course, every GoutPal Dieter chooses their own style of foundation diet. Personally, I prefer Mediterranean style eating plans. Adjusted where feasible to reduce acid load according to PRAL food tables. So my starting point for buttermilk would be to use part of my daily 2 cup dairy allowance for a 2,000-calorie Mediterranean style eating pattern<a href="#ref1"><sup>[1]</sup></a>. Specifically, I would pick  <a href="https://alkascore.com/acid-alkaline-reduced-fat-milk-pral-list/">2% fat buttermilk as the lowest PRAL</a> as a candidate for my gout foundation diet. But what about the science?
+Of course, every GoutPal Dieter chooses their own style of foundation diet. Personally, I prefer Mediterranean style eating plans. So my buttermilk allowance would be part of my daily 2 cup dairy allowance for a 2,000-calorie Mediterranean style eating pattern<a href="#ref1"><sup>[1]</sup></a>. Where feasible, I then refine my choices to reduce acid load according to PRAL food tables. Specifically, I would pick  <a href="https://alkascore.com/acid-alkaline-reduced-fat-milk-pral-list/">2% fat buttermilk as the lowest PRAL</a> as a candidate for my gout foundation diet. 
+
+You should adopt a similar approach. So first review the food group. Which for buttermilk is dairy. Then consider other factors such as low fat, low salt, acid load, etc. Finally, you have an obvious choice. Or a selection to discuss with your advisers. But what about buttermilk science?
 
 <h2 id="science">{{ title }} Science</h2>
 Unfortunately, I cannot find any studies that report effects of buttermilk on uric acid. However, one study of general health benefits draws conclusions that apply to gout sufferers…<br />
@@ -47,7 +49,7 @@ As a GoutPal Dieter, you should be aware of the pros and cons of self-experiment
 - Repeating blood tests after your experiment period
 - Reviewing test results with a qualified professional
 
-Of course, you could do what many gout sufferers do. By trying to cut corners with a home uric acid test kit. But if you do, I strongly recommend that you ask someone else to view and log the results from your home uric acid test. Then you can look at them after you run your control and buttermilk comparison tests. Also, you can use shorter test periods than my recommended 2 weeks. 
+Of course, you could do what many gout sufferers do. By trying to cut corners with a <a href="/uric-acid/uric-acid-test-kit/">home uric acid test kit</a>. But if you do, I strongly recommend that you ask someone else to view and log the results from your home uric acid test. Then you can look at them after you run your control and buttermilk comparison tests. Also, you can use shorter test periods than my recommended 2 weeks. 
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
