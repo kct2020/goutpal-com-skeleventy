@@ -9,6 +9,7 @@ sub_heading: Is your food good or bad for gout? Start with these gout nutrition 
 post_image: "/images/gout-food-nutrition.webp"
 tags:
 - blog
+- nutrition
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 You want to know which food is good or bad for gout. But what about other diseases and your general wellbeing? Get gout nutrition facts to ensure your eating pattern covers all you need. And help your gout in the process.
@@ -16,7 +17,7 @@ You want to know which food is good or bad for gout. But what about other diseas
 <h2 id="intent">{{ title }} Purpose</h2>
 I wrote this to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> and <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> understand their food choices. Because that helps you discuss your dietary requirements with health advisers.
 
-<h2 id="key1">{{ title }}</h2>
+<h2 id="nutrition">{{ title }}</h2>
 Every day, gout sufferers ask, "is food good or bad for gout". Where "food" can be replaced by just about anything we eat or drink. But gout, or more specifically uric acid, changes according to our total food intake. Not one individual food item. So my approach is to explain the nutrition facts about the food in question. Then you can compare that food to alternatives. In that way, the question becomes "is 'food a' better than 'food b' for lowering uric acid".
 
 Unfortunately, there is little help from professional gout guidelines for anyone wanting to improve their lifestyle. Because the small section of the rheumatology guideline only has conditional recommendations to limit alcohol, purine, and high-fructose corn syrup intake. One more conditional recommendation is weight loss for patients who are overweight or obese. Finally, they conditionally recommend against vitamin C supplementation (for the purpose of treating gout). With the explanation that <q cite="https://doi.org/10.1002/acr.24180">Dietary modifications likely yield only small changes in SU [serum urate] concentration<a href="#ref1"><sup>[1]</sup></a></q>
@@ -51,26 +52,6 @@ I include any studies about the food affecting uric acid or gout pain. Also, I i
 - luteolin
 
 I'm currently investigating micronutrients with a view to updating some of those food lists and adding new ones. So please see the feedback link below to check my progress on these planned updates.
-
-<h2 id="research">Personal Gout Food Research</h2>
-I mainly recommend good or bad food for gout based on scientific research. Especially where studies involve human gout sufferers. Unfortunately, most foods never get tested for their effect on uric acid. Furthermore, many studies show that despite certain average results, there are often individuals who react differently.  
-
-Consequently, there is a good argument for personal gout food research. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. 
-
-Firstly, you need to decide a control period and an experiment period. During the control period, you eat the same things every day. Then during the experiment period, you change one food only. Maintaining the same total calorie intake. As the effects of food on uric acid take time to reach their maximum, the longer your time periods, the better. But most people soon get tired of the same food each day. So choose a time period you are sure you can keep to.
-
-Secondly, you need to arrange blood tests for uric acid, liver function, and kidney function. Because that tells you how your food change affects your general health. As well as your uric acid levels. But consult your doctor before you start. As they might also recommend other tests such as cholesterol, glucose, etc.
-
-Then your food experiment routine is:<ol>
-<li>Baseline blood tests</li>
-<li>Control diet period</li>
-<li>Control blood tests</li>
-<li>Experiment diet period</li>
-<li>Experiment blood tests</li>
-<li>Review test results with a qualified professional</li>
-</ol>
-
-Of course, you could do what many gout sufferers do. By trying to cut corners with a <a href="/uric-acid/uric-acid-test-kit/">home uric acid test kit</a>. But if you do, I strongly recommend that you ask someone else to view and log the results from your home uric acid test. Then you can look at them after you run your control and experiment tests. Also, you need to consult your doctor before making radical changes to your food consumption. Because any changes that are powerful enough to change uric acid levels might also have unwanted side effects.
 
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
