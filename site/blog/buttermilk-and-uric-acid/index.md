@@ -41,7 +41,7 @@ Like buttermilk, I cannot find any relevant research about butter and uric acid.
 <h2 id="next">Is Buttermilk Good for Your Gout?</h2>
 Like many foods, you can see there is little evidence to say if buttermilk should be avoided or relished. So in this situation, you can decide to be cautious and choose an alternative. Or you can experiment yourself to see how buttermilk alters your uric acid levels.
 
-As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. So if you're disciplined, see how test buttermilk in my <a href="/blog/personal-gout-food-research/">Personal Gout Food Research</a> guide.
+As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. So if you're disciplined, see how to test buttermilk in my <a href="/blog/personal-gout-food-research/">Personal Gout Food Research</a> guide.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
