@@ -3,7 +3,7 @@ layout: post
 date: 2022-05-19T08:30:00Z
 meta_description: How do you know which foods are good or bad for gout? And how do you keep a healthy balance of nutrients to prevent other diseases? Read gout nutrition facts now.
 title: Gout Nutrition Facts
-topic: gout-nutrition
+topic: gout nutrition
 image_alt: Gout Food Nutrition
 sub_heading: Is your food good or bad for gout? Start with these gout nutrition facts.
 post_image: "/images/gout-food-nutrition.webp"

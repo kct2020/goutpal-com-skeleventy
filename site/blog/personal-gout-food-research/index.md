@@ -10,15 +10,15 @@ post_image: "/images/your-gout-food-test.webp"
 tags:
 - blog
 - nutrition
+- dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
-You want to know which food is good or bad for gout. But what about other diseases and your general wellbeing? Get gout nutrition facts to ensure your eating pattern covers all you need. And help your gout in the process.
+You want to know which food is best for uric acid. But what if your favorite foods have never been studied? Or perhaps studies show different effects on some people? See how to do your personal gout food research.
 
 <h2 id="intent">{{ title }} Purpose</h2>
-I wrote this to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> and <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> understand their food choices. Because that helps you discuss your dietary requirements with health advisers.
+I wrote this to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> make better food choices. Because that helps you discuss your reaction to different foods with health advisers.
 
-<h2 id="nutrition">{{ title }}</h2>
-<h2 id="research"></h2>
+<h2 id="research">{{ title }}</h2>
 I mainly recommend good or bad food for gout based on scientific research. Especially where studies involve human gout sufferers. Unfortunately, most foods never get tested for their effect on uric acid. Furthermore, many studies show that despite certain average results, there are often individuals who react differently.  
 
 Consequently, there is a good argument for personal gout food research. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. 
@@ -26,6 +26,8 @@ Consequently, there is a good argument for personal gout food research. Because 
 Firstly, you need to decide a control period and an experiment period. During the control period, you eat the same things every day. Then during the experiment period, you change one food only. Maintaining the same total calorie intake. As the effects of food on uric acid take time to reach their maximum, the longer your time periods, the better. But most people soon get tired of the same food each day. So choose a time period you are sure you can keep to.
 
 Secondly, you need to arrange blood tests for uric acid, liver function, and kidney function. Because that tells you how your food change affects your general health. As well as your uric acid levels. But consult your doctor before you start. As they might also recommend other tests such as cholesterol, glucose, etc.
+
+Thirdly, you should keep a daily log of symptoms. Because gout flares can affect uric acid levels. Also other non-gout symptoms might indicate a bad reaction to your experimental food.
 
 Then your food experiment routine is:<ol>
 <li>Baseline blood tests</li>

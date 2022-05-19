@@ -41,15 +41,7 @@ Like buttermilk, I cannot find any relevant research about butter and uric acid.
 <h2 id="next">Is Buttermilk Good for Your Gout?</h2>
 Like many foods, you can see there is little evidence to say if buttermilk should be avoided or relished. So in this situation, you can decide to be cautious and choose an alternative. Or you can experiment yourself to see how buttermilk alters your uric acid levels.
 
-As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. So on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. Including:
-- Baseline uric acid, kidney function, and liver function tests.
-- Establishing a control diet that you can maintain for at least 4 weeks
-- Repeating blood tests after at least two weeks (your control period)
-- Changing only buttermilk for at least two weeks (your experiment period)
-- Repeating blood tests after your experiment period
-- Reviewing test results with a qualified professional
-
-Of course, you could do what many gout sufferers do. By trying to cut corners with a <a href="/uric-acid/uric-acid-test-kit/">home uric acid test kit</a>. But if you do, I strongly recommend that you ask someone else to view and log the results from your home uric acid test. Then you can look at them after you run your control and buttermilk comparison tests. Also, you can use shorter test periods than my recommended 2 weeks. 
+As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. So if you're disciplined, see how test buttermilk in my <a href="/blog/personal-gout-food-research/">Personal Gout Food Research</a> guide.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
