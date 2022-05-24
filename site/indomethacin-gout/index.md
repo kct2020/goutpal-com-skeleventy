@@ -64,7 +64,7 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 			<td>Ultimately, that's a question for your physician or pharmacist. But here are some facts to help you with that discussion.</td>
 		</tr>
 		<tr id="prefer">
-			<td><a href="/gout-treatment/gout-cure/indomethacin/indometacin/#comment1">Why is indomethacin preferred for gout?</a></td>
+			<td><a href="/indomethacin-gout/indomethacin-uric-acid/">Why is indomethacin preferred for gout?</a></td>
 			<td>Here are some facts and questions that can help you resolve if you should prefer indomethacin. Or if you should seek a different type of gout pain relief.</td>
 		</tr>
 		<tr id="duration">
