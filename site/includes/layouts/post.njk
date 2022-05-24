@@ -90,14 +90,15 @@ layout: base
         {% endif %}
         "author": {
             "@type": "Person",
-            "name": "{{ site.author.name }}"
+            "name": "{{ site.author.name }}",
+            "url": "{{ site.author.url }}"
         },
         "publisher": {
             "@type": "Organization",
             "name": "{{ site.name }}",
             "logo": {
             "@type": "ImageObject",
-            "url": "{{ site.url }}/images/meta/article-schema.png"
+            "url": "{{ site.url }}/images/meta/apple-touch-icon.png"
             }
         },
         "datePublished": "{{ date | timestamp }}",
