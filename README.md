@@ -23,6 +23,7 @@ I need to update the social media tags in Skeleventy. Because the Open Graph ima
  - twitter:image:src from {{ site.images.twitter }} to {{ page.post_image }}
 - site/includes/layouts/post.njk
  - added             "url": "{{ site.author.url }}"
+ - publisher.logo.url from /images/meta/article-schema.png to /images/meta/apple-touch-icon.png
 - site/globals/site.json
  - added         "url": "https://shrewdies.net",
 
