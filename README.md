@@ -14,6 +14,19 @@ Because I don't want to lose this URL replace tip, I'm noting it here so I don't
 `git grep -l 'https://keith-taylor.pages.dev' | xargs sed -i 's|https://keith-taylor.pages.dev|https://shrewdies.net|g'`
 Props https://blog.jasonmeridth.com/posts/use-git-grep-to-replace-strings-in-files-in-your-git-repository/ and https://gist.github.com/msamendinger/c2da6f5fafc43e72ef576a0cc7ad0165?permalink_comment_id=3820228#gistcomment-3820228
 
+## 220524 Project Note
+I need to update the social media tags in Skeleventy. Because the Open Graph image is set to a Skeleventy logo. Which makes all social postings, and Google Search Engine results, use a Skeleventy banner instead of my featured image. At the same time, I noticed other issues, so here are the changes that I need to apply to all my Skeleventy templates:
+- site/includes/components/social-meta.njk
+ - twitter length from 140 to 280
+ - og length from 140 to 300
+ - og:image from {{ site.images.og }} to {{ page.post_image }}
+ - twitter:image:src from {{ site.images.twitter }} to {{ page.post_image }}
+- site/includes/layouts/post.njk
+ - added             "url": "{{ site.author.url }}"
+- site/globals/site.json
+ - added         "url": "https://shrewdies.net",
+
+
 ## 220207 Project Note
 This README needs rewriting to describe how to contribute to GoutPal. Most importantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
 
