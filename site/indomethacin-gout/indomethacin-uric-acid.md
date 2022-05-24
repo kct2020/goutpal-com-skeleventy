@@ -12,11 +12,11 @@ tags:
 - indomethacin
 - patients
 ---
-<h2 id="intro">{{ title }} Introduction</h2>
+<h2 id="intro">Indomethacin & Uric Acid Introduction</h2>
 Many gout patients rely on indomethacin to help relieve gout pain and inflammation. Let's see if it can also help with uric acid.
 
-<h2 id="intent">{{ title }} Purpose</h2>
-I wrote this {{ topic }} article to help <a href="https://goutpal.com/9602/goutpal-plan-for-gout-patients/">GoutPal Patients</a> discuss their gout management plan with their doctor.
+<h2 id="intent">Indomethacin & Uric Acid Purpose</h2>
+I wrote this {{ topic }} article to help <a href="/9602/goutpal-plan-for-gout-patients/">GoutPal Patients</a> discuss their gout management plan with their doctor.
 
 <h2 id="indomethacin">{{ title }}</h2>
 My short answer to "Why is indomethacin preferred for gout" used to be "Preferred by whom?" Because I only ever found one study that gave any data about preferences<a href="#ref1"><sup>[1]</sup></a>. Although hundreds of other studies claimed that indomethacin was the preferred treatment for gout pain relief. But I never found one that supported the claim with relevant facts. Also, it was never supported by real gout sufferers in my gout forums. Because there are just as many discussions about ibuprofen or naproxen.
@@ -46,7 +46,7 @@ You have learned that indomethacin is a strong candidate for your first choice o
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
 Leave {{ title }} to browse the <a href="/indomethacin-gout/">Indomethacin & Gout</a> index.
-<h4 id="feedback">{{ title }} Feedback</h4>
+<h4 id="feedback">Indomethacin & Uric Acid Feedback</h4>
 
 Please <a href="{{ site.social_links.github }}issues/_UpdateThisIssue_">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
 
@@ -56,7 +56,7 @@ If you are asking a question, it's best to:<ol>
 <li>Refer to that result as you ask your question.</li>
 </ol>
 
-<h4 id="refs">{{ title }} References</h4>
+<h4 id="refs">Indomethacin & Uric Acid References</h4>
 <ol>
 	<li id="ref1">Stuart, R.A., Gow, P.J., Bellamy, N., Campbell, J. and Grigor, R., 1991. A survey of current prescribing practices of antiinflammatory and urate-lowering drugs in gouty arthritis. The New Zealand Medical Journal, 104(908), pp.115-117.</li>
 	<li id="ref2">Lien, G.S., Chen, C.S., Chen, W.Y., Huang, S.H., Cheng, K.T., Lin, C.M. and Chao, S.H., 2013. Photoproducts of indomethacin exhibit decreased hydroxyl radical scavenging and xanthine oxidase inhibition activities. journal of food and drug analysis, 21(3), pp.332-336.</li>
