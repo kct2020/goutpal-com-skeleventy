@@ -2,9 +2,9 @@
 layout: post
 date: 2022-05-26T09:30:00Z
 meta_description: What happens when photographers get gout? Imagine struggling to carry kit or click the shutter. Read how gout affected the life and work of Ansel Adams.
-title: Ansel Adams: A Picture of Gout Misery
+title: Ansel Adams – A Picture of Gout Misery
 topic: Ansel Adams & gout
-image_alt: Ansel Adams: A Picture of Gout Misery
+image_alt: Ansel Adams – A Picture of Gout Misery
 sub_heading: How did gout affect Ansel Adams? Read this picture of gout misery.
 post_image: "/images/ansel-adams-a-picture-of-gout-misery.webp"
 tags:
