@@ -12,7 +12,7 @@ tags:
 - famous
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
-This is a hub page for all {{ topic }} articles. However, it might not include all {{ topic }} that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find specific people.
+This is a hub page for all {{ topic }} articles. However, it might not include every celebrity with gout that is relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find specific people.
 
 <h2 id="list">Famous People With Gout List</h2>
 <table id="people" cellpadding="0" cellspacing="0">
@@ -822,7 +822,7 @@ If you think I've missed anyone, please see the <a href="#feedback">feedback sec
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
-Your feedback helps me prioritize adding more {{ topic }} articles. In particular, I'd love to know if you want other people in this {{ topic }} list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more {{ topic }}. In particular, I'd love to know if you want me to add any more famous gout sufferers to this list. Also, tell me anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
 
 If you are asking a question, it's best to:
 1. Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.
