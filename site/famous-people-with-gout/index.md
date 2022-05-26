@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-05-26T014:30:00Z
+date: 2022-05-26T14:30:00Z
 meta_description: These famous people with gout put you in good company. As gout sufferers, we are the elite! See which other celebrities have gout. Get the famous gout list.
 title: Famous People With Gout
 topic: famous people with gout
