@@ -48,7 +48,7 @@ If you still have concerns about {{ topic }}, you should discuss those concerns 
 Leave {{ title }} to browse the <a href="/indomethacin-gout/">Indomethacin & Gout</a> index.
 <h4 id="feedback">Indomethacin & Uric Acid Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues/_UpdateThisIssue_">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please <a href="{{ site.social_links.github }}issues/47">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
 
 If you are asking a question, it's best to:<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
