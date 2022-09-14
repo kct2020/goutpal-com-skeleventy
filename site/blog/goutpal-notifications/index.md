@@ -21,19 +21,23 @@ GoutPal Contributor Updates Service keeps you up-to-date with gout discussions. 
 The choice is yours. Because you can subscribe to as many GoutPal Contributor update services as you like – they are all free. So, if you want to know more, read on.
 
 Please note that this page relates to contributions to GoutPal on GitHub. Where <a href="/blog/gout-discussion-forums/">Issues and Discussions are replacing the GoutPal forums</a>. I am preparing new explanations of email and web push notification services. In the meantime, here are the subscription links:
-
- - <a href="https://feeds.feedburner.com/GoutPal">GoutPal Email Notification Service</a>
+ - <script src="https://gumroad.com/js/gumroad.js"></script><a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>
  - <div class='onesignal-customlink-container'>GoutPal Web Push Notification Service</div>
  
-<h2 id="privacy">GoutPal Contributor Updates Privacy</h2>
+<h2 id="news">GoutPal Links Subscriber Newsletter</h2>
+There are now two newsletters:
 
-I use GitHub to provide updates about new and revised gout articles. So if you are concerned about your email address privacy, you should know that this is a safe, secure, system with the highest privacy standards. 
+<ul><li><a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>. Free to everyone, you get emails about new gout facts and FAQs. As well as, lifetime access to additional subscriber content. As at September 2022, I’m adding subscriber content. Along with documentation about the features and benefits of GoutPal Links. I describe this as the `Pre-launch` period. During which, subscribers will get features that I may subsequently move to Member services.
+This is a no-cost, no-risk opportunity to stay updated with news about all gout and uric acid topics.</li>
+<li>GoutPal Links Member’s Newsletter. This service requires monthly or yearly payment. Because members gain access to premium information and support. I will start to promote this service once the Subscriber tier is complete. GoutPal Links Members will get all the Subscriber benefits. Plus earlier access to new content, more research information, and tools that make all your gout projects easier to manage.</li></ul>
 
-Furthermore, I never see your subscription details. So I don't even know you exist. Unless you share your ideas <a href="/blog/gout-discussion-forums/">in GoutPal Issues or in GoutPal Discussions</a>. But if you want to know more, read <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
+Both these newsletters work differently from the previous update service. Because that was an automated service that generated emails whenever I published new articles or changed old ones. But in the new service, I curate all updates and summarize the key points for you. Plus, you get updates about the extra resources that go beyond the webpage information.
+
+As always, I promise that I will never share your email address with anyone else. I will only use it for sending you GoutPal Links newsletters and service updates. There is a link in every email that allows you to unsubscribe whenever you like. As well as an online dashboard where you can manage your subscription and gain access to subscriber resources. I use Gumroad to provide this service, so please feel free to consult their <a href="https://gumroad.com/privacy">privacy policy</a>.
 
 <h2 id="detail">GoutPal Contributor Updates</h2>
 
-Before subscribing to GoutPal Contributor Updates, you should think about your level of interest in gout information. Because you can subscribe to:
+Contributors are people who post their ideas about gout in Discussions or Issues. These contributions are separate from the main website, and hosted by a third party - GitHub.com. GitHub also provides a notification service which is additional to my GoutPal Links Newsletter. Note that youy can subscribe to Discussions and Issues without contributing any comments. Before subscribing to GoutPal Contributor Updates, you should think about your level of interest in gout information. Because you can subscribe to:
 
 - All GoutPal Contributor Updates
 - Selected gout and uric acid topics
@@ -69,6 +73,12 @@ Between those 2 choices, you can tailor your subscriptions to exactly what you w
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
+
+<h2 id="privacy">GoutPal Contributor Updates Privacy</h2>
+
+I use GitHub to provide updates about new and revised gout articles. So if you are concerned about your email address privacy, you should know that this is a safe, secure, system with the highest privacy standards. 
+
+Furthermore, I never see your subscription details. So I don't even know you exist. Unless you share your ideas <a href="/blog/gout-discussion-forums/">in GoutPal Issues or in GoutPal Discussions</a>. But if you want to know more, read <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
 
 <h2 id="next">Your GoutPal Contributor Updates</h2>
 As you can see, the notification service is very flexible. So if you cannot see how to customize the service to suit your needs, just ask.
