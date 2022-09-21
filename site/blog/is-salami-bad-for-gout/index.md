@@ -9,7 +9,6 @@ sub_heading: Is salami bad for gout? Check the facts to see if there's a place f
 post_image: "/images/salami-for-gout.webp"
 tags:
 - blog
-- foodies
 ---
 <h2 id="intro">Is Salami Bad for Gout Introduction</h2>
 People often ask, "Is Salami Bad for Gout?" But gout research on individual food items is always very limited. So first we see how salami fits into a healthy diet. Then we consider uric acid. Finally, you understand how to avoid or include salami in your weekly food choices.

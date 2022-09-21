@@ -6,7 +6,6 @@ image_alt: Ground Beef and Gout
 sub_heading: Do you worry about ground beef & gout? Stop your single food concerns. Start eating beef in gout-friendly eating habits.
 post_image: "/images/are-there-more-purines-in-minced-meat.webp"
 tags:
-- beef
 - blog
 
 ---

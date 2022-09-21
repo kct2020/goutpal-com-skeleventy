@@ -9,7 +9,6 @@ sub_heading: Can gouty tophi be dissolved? See this allopurinol case study.
 post_image: "/images/allopurinol-dissolves-knee-tophi.webp"
 tags:
 - tophus
-- concern
 - allopurinol
 - blog
 

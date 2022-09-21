@@ -9,7 +9,6 @@ sub_heading: Is Buttermilk Good for Gout? Or should you choose different dairy d
 post_image: "/images/is-buttermilk-good-for-gout.webp"
 tags:
 - blog
-- dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 Many people see buttermilk as a healthy drink. But how will it affect your uric acid and gout?

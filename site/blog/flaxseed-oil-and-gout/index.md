@@ -9,8 +9,6 @@ sub_heading: Which oily foods can help gout? Read flaxseed oil and gout facts.
 post_image: "/images/flaxseed-oil-for-gout.webp"
 tags:
 - blog
-- flax
-- foodies
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 Is flaxseed oil good or bad for gout? First, you need to view flaxseed oil in the context of acceptable oils consumption. Then see how known scientific facts apply to your circumstances. 

@@ -9,8 +9,6 @@ sub_heading: Are you sure your meals are the best for gout? See how to test your
 post_image: "/images/your-gout-food-test.webp"
 tags:
 - blog
-- nutrition
-- dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 You want to know which food is best for uric acid. But what if your favorite foods have never been studied? Or perhaps studies show different effects on some people? See how to do your personal gout food research.

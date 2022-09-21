@@ -9,7 +9,6 @@ sub_heading: Is Balsamic Vinegar only good for salads? See how it's also good fo
 post_image: "/images/balsamic-vinegar-for-gout.webp"
 tags:
 - blog
-- dieters
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 Balsamic vinegar forms a small part of our food intake. But we gout sufferers tend to worry about everything we eat and drink. So it's good to seek reassurance about the effects of balsamic vinegar on uric acid and gout.
