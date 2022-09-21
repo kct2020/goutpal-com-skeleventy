@@ -9,7 +9,6 @@ sub_heading: Is your food good or bad for gout? Start with these gout nutrition 
 post_image: "/images/gout-food-nutrition.webp"
 tags:
 - blog
-- nutrition
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 You want to know which food is good or bad for gout. But what about other diseases and your general wellbeing? Get gout nutrition facts to ensure your eating pattern covers all you need. And help your gout in the process.

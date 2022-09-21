@@ -9,7 +9,6 @@ sub_heading: Do anthocyanins lower uric acid? See if the top 100 foods help you.
 post_image: "/images/anthocyanins-equal-allopurinol-plus.webp"
 tags:
 - blog
-- research
 - allopurinol
 ---
 <h2 id="intro">{{ title }} Introduction</h2>

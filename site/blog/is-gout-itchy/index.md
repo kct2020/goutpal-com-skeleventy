@@ -9,8 +9,6 @@ sub_heading: Do you worry about gout and itching? First, learn which of the 3 go
 post_image: "/images/3-ways-gout-itches.webp"
 tags:
 - blog
-- symptom
-- student
 ---
 <h2 id="intro">Introduction to Is Gout Itchy</h2>
 On reviewing an old gout forum discussion about itching<a href="#ref1"><sup>[1]</sup></a>, I realized that sufferers were experiencing itching in different circumstances. Then relevant research revealed 3 different ways that itching is linked to gout. Also, there are different personal factors that affect those 3 types of gout itch. So there is never a single, standard way to deal with gout itching. Because you need to work with your health professionals to determine which type of itch you are dealing with. Then work out a personal plan to ditch the itch.

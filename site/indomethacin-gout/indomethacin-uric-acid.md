@@ -10,7 +10,6 @@ post_image: "/images/indomethacin-and-uric-acid.webp"
 tags:
 - blog
 - indomethacin
-- patients
 ---
 <h2 id="intro">Indomethacin & Uric Acid Introduction</h2>
 Many gout patients rely on indomethacin to help relieve gout pain and inflammation. Let's see if it can also help with uric acid.

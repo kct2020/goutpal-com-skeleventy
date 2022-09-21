@@ -9,7 +9,6 @@ sub_heading: Think clearly despite gout agony. Get a Gout Pain Plan.
 post_image: "/images/clear-gout-pain-plan.webp"
 tags:
 - blog
-- pain
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
 When gout strikes, it's easy to panic. But you must think logically through the agony. Be prepared for your next flare. But what if you have no time to plan now? At least learn the 3 practical elements of how to {{ topic }}.

@@ -7,7 +7,6 @@ sub_heading: One gout concern leads to another. Soon you're overwhelmed by uric 
 post_image: "/images/gout-maze.webp"
 tags:
 - using
-- plan
 - blog
 
 ---

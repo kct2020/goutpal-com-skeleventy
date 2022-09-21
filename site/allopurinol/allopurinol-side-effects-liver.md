@@ -9,8 +9,6 @@ post_image: "/images/uric-acid-treatment-and-liver-damage.webp"
 tags:
 - blog
 - allopurinol
-- plan
-- patient
 ---
 
 <h2 id="intro">{{ title }} Introduction</h2>

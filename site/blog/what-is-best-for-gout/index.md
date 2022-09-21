@@ -7,7 +7,6 @@ image_alt: Best Gout Friend
 sub_heading: Why is the best gout treatment not always best for you? Because you are not every other gout sufferer!
 post_image: "/images/best-gout-friend.webp"
 tags:
-- best
 - blog
 
 ---
