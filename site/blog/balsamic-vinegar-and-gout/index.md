@@ -84,7 +84,7 @@ Your feedback options are:</p>
 <h3 id="fact-faq">Vinegar and Gout Facts &amp; FAQs</h3>
 <p>This new hub page will summarize my pages about different vinegars. Allowing you to resolve common concerns and find relevant vinegar facts.</p>
 <h3 id="faq-vinegar"><a href="/blog/is-vinegar-good-for-gout/">Is vinegar good for gout?</a></h3>
-<p>Is vinegar good or bad for gout? There's enough science to say it isn't bad. But how good depends on how you and your doctor use vinegar in your recovery plan. This article includes explanations from studies about <a href="/blog/is-vinegar-good-for-gout/#uricacid">vinegar & uric acid</a>. So these help you discuss how much vinegar you should consume with your health advisers.</p>
+<p>Is vinegar good or bad for gout? There's enough science to say it isn't bad. But how good depends on how you and your doctor use vinegar in your recovery plan. This article includes explanations from studies about <a href="/blog/is-vinegar-good-for-gout/#uricacid">vinegar & uric acid</a>. So these help you and your health advisers discuss how much vinegar you should consume.</p>
 <h3 id="fact-food">Vinegar for Gout Nutrition</h3>
 <p>This article will summarize gout-relevant nutrients. Thus, providing a basis for incorporating vinegar into shopping lists, meal plans, and recipes. <a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&amp;price=0">GoutPal Links Subscribers</a> can help me prioritize vinegar with respect to other gout nutrition projects.</p>
 

@@ -14,7 +14,7 @@ tags:
 <p>Many gout sufferers believe vinegar can help their gout. Others just want to be assured that sprinkling vinegar on meals won't make gout worse. So here, I explain some benefits of vinegar for gout sufferers. As revealed by recent studies.</p>
 <p>Remember, if vinegar or any other food is powerful enough to help gout, it's also powerful enough to cause problems. So you should only change your vinegar consumption in consultation with a qualified health professional. But at least you now have some relevant science to discuss with them…</p>
 <h2 id="uricacid">Vinegar &amp; Uric Acid</h2>
-<p>There are many foods that have the potential to change uric acid levels. But that doesn't mean that we have reliable proof. And until recently, vinegar fell into the category of "traditional gout remedy with no proof".</p>
+<p>There are many foods that have the potential to change uric acid levels. But that doesn't mean that we have reliable proof. And until recently, vinegar fell into the category of “traditional gout remedy with no proof”.</p>
 <p>However, recent investigations have shown how vinegar can affect uric acid levels in different ways. So let's look at some recent uric acid studies relating to vinegar.</p>
 <h3 id="levels">Vinegar &amp; Uric Acid Levels</h3>
 <p>Early studies failed to find any significant change in uric acid after vinegar consumption<a href="#ref1"><sup>[1-2]</sup></a>. But I remember seeing many experiments where substances only reduce uric acid when the starting point is high. So where we see no change in uric acid, it might just mean that we don't yet have enough data.</p>
@@ -36,9 +36,9 @@ Vinegar is unlikely to affect your gout. Unless you're taking concentrated extra
 Please tell me your {{ topic }} story below.
 
 <hr>
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+Leave Is Vinegar Good for Gout to browse the <a href="/blog">{{ site.blog }}</a>.
 
-<h2 id="comments">{{ title }} Comments</h2>
+<h2 id="comments">Is Vinegar Good for Gout Comments</h2>
 <p>Please add your comments below.<br />
 Your feedback options are:</p>
 <ol>
@@ -69,12 +69,12 @@ Your feedback options are:</p>
         async>
 </script>
 
-<h2 id="related">{{ title }} Related Topics</h2>
+<h2 id="related">Vinegar & Uric Acid Related Topics</h2>
 <p>Please remember: to find more related pages that are relevant to you, it's usually faster to <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506#gsc.tab=0">search for your biggest {{topic}} concern</a>.<br>
 </p>
 <p>I'm planning a new hub page for {{ topic }} & gout. In the meantime, please see <a href="/blog/balsamic-vinegar-and-gout/">Balsamic Vinegar & Gout</a>. Or <a href="/3170/what-is-gout-3-the-apple-cider-vinegar-myth/">Apple Cider Vinegar & Gout</a>.</p>
 
-<h4 id="refs">{{ title }} References</h4>
+<h4 id="refs">Vinegar & Uric Acid References</h4>
 <ol>
 	<li id="ref1">Kondo, T., Kishi, M., Fushimi, T., Ugajin, S. and Kaga, T., 2009. <a href="https://goutpal.info/blog/vinegar-uric-acid/#uricacid">Vinegar intake reduces body weight, body fat mass, and serum triglyceride levels in obese Japanese subjects</a>. Bioscience, biotechnology, and biochemistry, 73(8), pp.1837-1843.</li>
 	<li id="ref2">Hosseini, Z.S.M., Hosseini, J., Nabati, S., Hasanshahi, G. and Mahmoodi, M., 2011. <a href="https://goutpal.info/blog/vinegar-uric-acid/#uricacid">Survey on the anti-diabetic effects of vinegar on some biochemical factors in type 2 diabetic patients</a>. Clinical Biochemistry-New York, 44(13), p.2.</li>
