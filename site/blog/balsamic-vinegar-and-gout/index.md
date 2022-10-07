@@ -46,15 +46,47 @@ If you still have concerns about {{ topic }}, you should discuss those concerns 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
 
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Please <a href="{{ site.social_links.github }}issues">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
-
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
+<h2 id="comments">{{ title }} Comments</h2>
+<p>Please add your comments below.<br />
+Your feedback options are:</p>
+<ol>
+<li>Add comments below or in <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/_Update_After_Publish_">the discussion for this page</a>.</li>
+<li>Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
+<li>Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+</ol>
+<p>If you are asking a question, it&#8217;s best to:</p>
+<ol>
+<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
 <li>Choose the most relevant result.</li>
 <li>Refer to that result as you ask your question.</li>
 </ol>
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/goutpal-com-skeleventy"
+        data-repo-id="R_kgDOGVSRQQ"
+        data-category="GoutPal Links Comments🗣"
+        data-category-id="DIC_kwDOGVSRQc4CRbFp"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<h2 id="related">Balsamic Vinegar and Gout Related Topics</h2>
+<p>Please remember: to find more related pages that are relevant to you, it's usually faster to <a href="https://cse.google.com/cse?cof=FORID:0&amp;cx=partner-pub-4857169685716700:9780732506#gsc.tab=0" target="_blank">search for your biggest vinegar concern</a>.<br>
+</p>
+<p>I'm planning a new hub page for vinegar &amp; gout. Because there are several types of vinegar. So, I need to update gout-related vinegar facts and compare these different types. Now, this list of related topics includes planned articles. Many of which need your input, so I can verify that I'm providing relevant information. In which case, you can add your questions, experiences, and opinions about vinegar in the comment box above.</p>
+<h3 id="fact-faq">Vinegar and Gout Facts &amp; FAQs</h3>
+<p>This new hub page will summarize my pages about different vinegars. Allowing you to resolve common concerns and find relevant vinegar facts.</p>
+<h3 id="faq-vinegar"><a href="/blog/is-vinegar-good-for-gout/">Is vinegar good for gout?</a></h3>
+<p>Is vinegar good or bad for gout? There's enough science to say it isn't bad. But how good depends on how you and your doctor use vinegar in your recovery plan. This article includes explanations from studies about <a href="/blog/is-vinegar-good-for-gout/#uricacid">vinegar & uric acid</a>. So these help you and your health advisers discuss how much vinegar you should consume.</p>
+<h3 id="fact-food">Vinegar for Gout Nutrition</h3>
+<p>This article will summarize gout-relevant nutrients. Thus, providing a basis for incorporating vinegar into shopping lists, meal plans, and recipes. <a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&amp;price=0">GoutPal Links Subscribers</a> can help me prioritize vinegar with respect to other gout nutrition projects.</p>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
