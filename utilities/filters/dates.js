@@ -8,5 +8,5 @@ module.exports.timestamp = date => (
 
 // human readable date for blog posts (DD MM, YYYY)
 module.exports.friendly = date => (
-  date instanceof Date ? date.getUTCDate() + ' ' + to_month.format(date) + ', ' + date.getUTCFullYear() : ''
+  date instanceof Date ? date.getUTCDate() + ' ' + to_month.format(date) + ' ' + date.getUTCFullYear() : ''
 )
