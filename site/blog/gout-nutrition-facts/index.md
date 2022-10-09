@@ -44,7 +44,7 @@ I include any studies about the food affecting uric acid or gout pain. Also, I i
 - iron
 - protein
 - PRAL
-- beta-carotene
+- <a href="/blog/beta-carotene-foods-gout/">beta-carotene</a>
 - vitamin A
 - quercetin
 - anthocyanins
