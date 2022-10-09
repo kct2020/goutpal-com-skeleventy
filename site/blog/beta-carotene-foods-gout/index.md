@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-05-17T12:30:00Z
+date: 2022-10-09T08:52:00Z
 meta_description: Beta-carotene can reduce uric acid in humans. But which foods are best? See the top beta-carotene foods list now.
 title: Beta-Carotene Foods & Gout
 topic: beta-carotene foods
@@ -11,10 +11,7 @@ tags:
 - blog
 ---
 <h2 id="intro">{{ title }} Introduction</h2>
-During my research into butternut squash, I learned that beta-carotene can help reduce uric acid. Though, we need much more research before it can be recognized as a professional treatment. However, gout sufferers who cannot tolerate mainstream uric acid treatment need to find alternatives. So if you're considering beta-carotene for gout, here is a short list of beta-carotene rich foods.
-
-<h2 id="intent">{{ title }} Purpose</h2>
-I compiled this beta-carotene foods list for <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> and <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter</a> who want to discuss beta-carotene consumption targets with their health and nutrition advisers.
+During my research into butternut squash, I learned that beta-carotene can help reduce uric acid. Though, we need much more research before it can be recognized as a professional treatment. However, gout sufferers who cannot tolerate mainstream uric acid treatment need to find alternatives. So if you're considering beta-carotene for gout, here is a short list of beta-carotene rich foods. Which you and your health advisers might use to agree changes to your beta-carotene intake.
 
 <h2 id="food">Beta-Carotene Foods for Gout Sufferers</h2>
 Before my beta-carotene foods list, I will explain some facts about my presentation. Or, you can skip down to my <a href="#list">list of top beta-carotene foods for gout sufferers</a>.
@@ -132,8 +129,8 @@ Note that all values are for a 1 cup serving (except where noted)
 			<td>175</td>
 			<td>6,500</td>
 		</tr>
-		<tr id="chile">
-			<td>Hot chile peppers</td>
+		<tr id="chili">
+			<td>Hot chili peppers</td>
 			<td>37</td>
 			<td>5,500</td>
 		</tr>
@@ -184,13 +181,13 @@ Note that all values are for a 1 cup serving (except where noted)
 		</tr>
 	</tbody>
 </table>
-Many other foods contain lower amounts of beta-carotene. So I plan to create lists organized into food groups. Because that makes choosing between foods easier. Assuming that you plan food intake by food group.
+Many other foods contain lower amounts of beta-carotene. So I plan to create lists organized into food groups. Because that makes choosing between foods easier. Assuming that you plan food intake by food group. In which case, you might <a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&amp;price=0">subscribe to GoutPal Links Newsletter</a> to be notified when I publish more detailed beta-carotene lists.
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}<br /><a href="#footnote"><sup>See photo details[*]</sup></a></figcaption>
 </figure>
 <h2 id="next">Beta-Carotene Foods for Your Gout</h2>
-You can use this list to identify beta-carotene rich foods that you like. Then click the food link. Or <a href="{{ site.searchurl }}">search for your favorite beta-carotine foods</a> to read more information.
+You can use this list to identify beta-carotene rich foods that you like. Then click the food link. Or <a href="{{ site.searchurl }}">search for your favorite beta-carotene foods</a> to read more information.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 <hr />
@@ -229,8 +226,8 @@ Your feedback options are:</p>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
-	<li id="ref1">National Institutes of Health. (2022). Vitamin A and Carotenoids Fact Sheet for Health Professionals. Retrieved from https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/</li>
-	<li id="ref2">USDA. (2015). National Nutrient Database for Standard Reference Release 28 Nutrients: Carotene, beta (µg). Retrieved from https://ods.od.nih.gov/pubs/usdandb/VitA-betaCarotene-Content.pdf</li>
+	<li id="ref1">National Institutes of Health. (2022). Vitamin A and Carotenoids Fact Sheet for Health Professionals. Retrieved from https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/.</li>
+	<li id="ref2">USDA. (2015). National Nutrient Database for Standard Reference Release 28 Nutrients: Carotene, beta (µg). Retrieved from https://ods.od.nih.gov/pubs/usdandb/VitA-betaCarotene-Content.pdf.</li>
 </ol>
 
 <h4 id="footnote">{{ title }} Footnote</h4>
