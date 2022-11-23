@@ -50,7 +50,7 @@ This is a subsection of the <a href="/allopurinol">Allopurinol</a> Section, whic
 		</tr>
 		<tr id="rash">
 			<td><a href="/4682/allopurinol-rash-are-you-at-risk/">Allopurinol Rash: Are You At Risk?</a></td>
-			<td>This is not a new risk for allopurinol side-effects. It is a helpful guideline to try to provide better treatment choices in high-risk groups.</td>
+			<td>This is not a new risk for allopurinol side effects. It is a helpful guideline to try to provide better treatment choices in high-risk groups.</td>
 		</tr>
 		<tr id="oldmain">
 			<td><a href="/gout-treatment/avoid-gout/allopurinol/">2021 version of Main Section</a></td>
@@ -70,6 +70,10 @@ These are common concerns about allopurinol side effects that other gout suffere
 		</tr>
 	</thead>
 	<tbody style="vertical-align:top;">
+		<tr id="weight">
+			<td><a href="/allopurinol/allopurinol-weight-change/">Does Allopurinol Cause Weight Gain?</a></td>
+			<td>Do you worry if allopurinol affects your weight? Every gout patient is different. So read how side effects of allopurinol might cause weight gain, loss, or no change.</td>
+		</tr>
 		<tr id="damage">
 			<td><a href="/allopurinol/allopurinol-side-effects-liver/#damage">Does allopurinol taken for gout contribute to liver damage?</a></td>
 			<td>It depends! We see fear of allopurinol causing liver damage. But also, hope that allopurinol might relieve liver damage symptoms.</td>
@@ -91,6 +95,34 @@ If you think I've missed anything about allopurinol side effects, please see the
 <hr />
 Leave {{ title }} to browse the <a href="/allopurinol/">Allopurinol</a> Section.
 
-<h4 id="feedback">{{ title }} Feedback</h4>
+<h2 id="comments">{{ title }} Comments</h2>
 
-Your feedback helps me prioritize adding more allopurinol side effects articles. In particular, I'd love to know if you want extra articles in this allopurinol side effects list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/41">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your allopurinol side effects concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more allopurinol side effects articles. In particular, I'd love to know if you want extra articles in this allopurinol side effects list. But I also need to know about anything you would change to make this page more useful. So, please add your comments below.<br />
+Your feedback options are:</p>
+<ol>
+<li><b>Easy Gout Comments.</b> Add comments below.</li>
+<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
+<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+</ol>
+<p>If you are asking a question, it is best to:</p>
+<ol>
+<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
+<li>Choose the most relevant result.</li>
+<li>Refer to that result as you ask your question.</li>
+</ol>
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/goutpal-com-skeleventy"
+        data-repo-id="R_kgDOGVSRQQ"
+        data-category="GoutPal Links Comments🗣"
+        data-category-id="DIC_kwDOGVSRQc4CRbFp"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
