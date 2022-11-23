@@ -50,7 +50,7 @@ This is a subsection of the <a href="/allopurinol">Allopurinol</a> Section, whic
 		</tr>
 		<tr id="rash">
 			<td><a href="/4682/allopurinol-rash-are-you-at-risk/">Allopurinol Rash: Are You At Risk?</a></td>
-			<td>This is not a new risk for allopurinol side-effects. It is a helpful guideline to try to provide better treatment choices in high-risk groups.</td>
+			<td>This is not a new risk for allopurinol side effects. It is a helpful guideline to try to provide better treatment choices in high-risk groups.</td>
 		</tr>
 		<tr id="oldmain">
 			<td><a href="/gout-treatment/avoid-gout/allopurinol/">2021 version of Main Section</a></td>
@@ -97,7 +97,7 @@ Leave {{ title }} to browse the <a href="/allopurinol/">Allopurinol</a> Section.
 
 <h2 id="comments">{{ title }} Comments</h2>
 
-Your feedback helps me prioritize adding more allopurinol side effects articles. In particular, I'd love to know if you want extra articles in this allopurinol side effects list. But I also need to know about anything you would change to make this page more useful. So please add your comments below.<br />
+Your feedback helps me prioritize adding more allopurinol side effects articles. In particular, I'd love to know if you want extra articles in this allopurinol side effects list. But I also need to know about anything you would change to make this page more useful. So, please add your comments below.<br />
 Your feedback options are:</p>
 <ol>
 <li><b>Easy Gout Comments.</b> Add comments below.</li>
