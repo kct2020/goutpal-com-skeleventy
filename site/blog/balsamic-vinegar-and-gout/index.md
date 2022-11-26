@@ -44,7 +44,7 @@ You have learned that balsamic vinegar is probably good for gout. But we require
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
 
-Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight such as `{{ topic }}` to learn more.
+Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as `balsamic vinegar and gout` to learn more.
 <hr />
 Leave {{ title }} to browse more <a href="/blog/gout-and-vinegar/">Gout and Vinegar</a> articles. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
 
