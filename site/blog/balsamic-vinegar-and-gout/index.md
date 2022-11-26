@@ -43,16 +43,18 @@ So we really need clinical trials with gout sufferers for more information. Beca
 You have learned that balsamic vinegar is probably good for gout. But we require more research to be certain. So discuss balsamic vinegar with your doctor to agree what is a reasonable amount to consume in your circumstances.  Also, consider additional gout-friendly ingredients in your <a href="/2519/dressed-up-food-good-for-gout/">salad dressing for gout</a>. Such as ground garlic and garlic vinegar.
 
 If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+
+Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as `balsamic vinegar and gout` to learn more.
 <hr />
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
+Leave {{ title }} to browse more <a href="/blog/gout-and-vinegar/">Gout and Vinegar</a> articles. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
 
 <h2 id="comments">{{ title }} Comments</h2>
 <p>Please add your comments below.<br />
 Your feedback options are:</p>
 <ol>
-<li>Add comments below or in <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/_Update_After_Publish_">the discussion for this page</a>.</li>
-<li>Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li>Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+<li><b>Easy Gout Comments.</b> Add comments below.</li>
+<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
+<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
 </ol>
 <p>If you are asking a question, it&#8217;s best to:</p>
 <ol>
@@ -80,13 +82,10 @@ Your feedback options are:</p>
 <h2 id="related">Balsamic Vinegar and Gout Related Topics</h2>
 <p>Please remember: to find more related pages that are relevant to you, it's usually faster to <a href="https://cse.google.com/cse?cof=FORID:0&amp;cx=partner-pub-4857169685716700:9780732506#gsc.tab=0" target="_blank">search for your biggest vinegar concern</a>.<br>
 </p>
-<p>I'm planning a new hub page for vinegar &amp; gout. Because there are several types of vinegar. So, I need to update gout-related vinegar facts and compare these different types. Now, this list of related topics includes planned articles. Many of which need your input, so I can verify that I'm providing relevant information. In which case, you can add your questions, experiences, and opinions about vinegar in the comment box above.</p>
-<h3 id="fact-faq">Vinegar and Gout Facts &amp; FAQs</h3>
-<p>This new hub page will summarize my pages about different vinegars. Allowing you to resolve common concerns and find relevant vinegar facts.</p>
 <h3 id="faq-vinegar"><a href="/blog/is-vinegar-good-for-gout/">Is vinegar good for gout?</a></h3>
 <p>Is vinegar good or bad for gout? There's enough science to say it isn't bad. But how good depends on how you and your doctor use vinegar in your recovery plan. This article includes explanations from studies about <a href="/blog/is-vinegar-good-for-gout/#uricacid">vinegar & uric acid</a>. So these help you and your health advisers discuss how much vinegar you should consume.</p>
-<h3 id="fact-food">Vinegar for Gout Nutrition</h3>
-<p>This article will summarize gout-relevant nutrients. Thus, providing a basis for incorporating vinegar into shopping lists, meal plans, and recipes. <a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&amp;price=0">GoutPal Links Subscribers</a> can help me prioritize vinegar with respect to other gout nutrition projects.</p>
+<h3 id="fact-food"><a href="/blog/gout-and-vinegar/#vinegar-for-gout">Vinegar for Gout Nutrition</a></h3>
+<p>This article will summarize gout-relevant nutrients. Thus, providing a basis for incorporating vinegar into shopping lists, meal plans, and recipes. See the status of this planned page at <a href="/blog/gout-and-vinegar/#vinegar-for-gout">vinegar for gout</a>.</p>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
