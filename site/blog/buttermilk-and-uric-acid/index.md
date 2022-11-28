@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2022-05-17T07:30:00Z
-meta_description: People say buttermilk is good for you. But is it a good drink for gout? See how to plan your dairy products. Get buttermilk and uric acid facts now.
-title: Buttermilk and Uric Acid
+revised: 2022-11-28T07:30:00Z
+meta_description: People say buttermilk is good for you. But is it a good drink for uric acid? See how to plan your dairy products. Get buttermilk and gout facts now.
+title: Buttermilk and Gout
 topic: buttermilk
 image_alt: Is Buttermilk Good for Gout?
 sub_heading: Is Buttermilk Good for Gout? Or should you choose different dairy drinks?
@@ -13,10 +14,10 @@ tags:
 <h2 id="intro">{{ title }} Introduction</h2>
 Many people see buttermilk as a healthy drink. But how will it affect your uric acid and gout?
 
-Here we look at how to deal with the limited information about buttermilk and uric acid.
+Here we look at how to deal with the limited information about buttermilk and gout.
 
 <h2 id="intent">{{ title }} Purpose</h2>
-I wrote <em>Buttermilk and Uric Acid</em> to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> decide if buttermilk might improve their gout foundation diet. But <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> might also find this interesting. In either case, use this information to decide if you want to increase your buttermilk intake. Then discuss your planned changes with health professionals. So that you use buttermilk to help your gout management plan – not hinder it.
+I wrote <em>Buttermilk and Gout</em> to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> decide if buttermilk might improve their gout foundation diet. But <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> might also find this interesting. In either case, use this information to decide if you want to increase your buttermilk intake. Then discuss your planned changes with health professionals. So that you use buttermilk to help your gout management plan – not hinder it.
 
 <h2 id="good">Is Buttermilk Good for Gout?</h2>
 Gout Foodies often ask if buttermilk is good for gout. But they tend to ask that about every food. Which is a poor question. Because our first consideration is to understand how buttermilk fits into a foundation diet that meets national guidelines. So as a GoutPal Dieter, you have determined your own <a href="/10090/mediterranean-or-dash-diet-for-gout/">gout foundation diet</a>.
@@ -27,7 +28,7 @@ You should adopt a similar approach. So first review the food group. Which for b
 
 <h2 id="science">{{ title }} Science</h2>
 Unfortunately, I cannot find any studies that report effects of buttermilk on uric acid. However, one study of general health benefits draws conclusions that apply to gout sufferers…<br />
-<q cite="https://doi.org/10.2527/af.2014-0014">There is solid evidence in support of the high value of buttermilk minor components in disease prevention. Published clinical studies nevertheless remain rare. Larger and longer successful clinical trials are still needed before the dairy industry can make health claims for buttermilk.<a href="#ref2"><sup>[2]</sup></a></q>
+<q cite="https://doi.org/10.2527/af.2014-0014">There is solid evidence in support of the high value of buttermilk minor components in disease prevention. Published clinical studies nevertheless remain rare. Larger and longer, successful clinical trials are still needed before the dairy industry can make health claims for buttermilk.<a href="#ref2"><sup>[2]</sup></a></q>
 
 Let's hope those much-needed clinical trials include uric acid blood tests. So that we might get better understanding of how buttermilk affects uric acid.
 
@@ -42,19 +43,42 @@ Like many foods, you can see there is little evidence to say if buttermilk shoul
 
 As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. So if you're disciplined, see how to test buttermilk in my <a href="/blog/personal-gout-food-research/">Personal Gout Food Research</a> guide.
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#comments">comments section</a> below.
+
+Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as '{{ topic }}' to learn more.
+
 <hr />
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Please <a href="{{ site.social_links.github }}issues/new/choose">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
-
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
+Leave {{ title }} to browse the <a href="/blog/milk-for-gout/">Milk for Gout</a> section. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
+<h2 id="comments">{{ title }} Comments</h2>
+<p>Please add your comments below.<br />
+Your feedback options are:</p>
+<ol>
+<li><b>Easy Gout Comments.</b> Add comments below.</li>
+<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
+<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+</ol>
+<p>If you are asking a question, it is best to:</p>
+<ol>
+<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
 <li>Choose the most relevant result.</li>
 <li>Refer to that result as you ask your question.</li>
 </ol>
-
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/goutpal-com-skeleventy"
+        data-repo-id="R_kgDOGVSRQQ"
+        data-category="GoutPal Links Comments🗣"
+        data-category-id="DIC_kwDOGVSRQc4CRbFp"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 <h4 id="refs">{{ title }} References</h4>
 <ol>
 	<li id="ref1">US Department of Health and Human Services, 2019. US Department of Agriculture. 2015–2020 dietary guidelines for Americans. December 2015.</li>
