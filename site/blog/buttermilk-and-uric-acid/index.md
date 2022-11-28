@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-05-17T07:30:00Z
+revised: 2022-11-28T07:30:00Z
 meta_description: People say buttermilk is good for you. But is it a good drink for uric acid? See how to plan your dairy products. Get buttermilk and gout facts now.
 title: Buttermilk and Gout
 topic: buttermilk
