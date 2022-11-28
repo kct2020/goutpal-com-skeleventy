@@ -51,7 +51,7 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 			<td>What makes you worry about chocolate milk? Identify your main concerns and assess your daily and weekly eating patterns. Then tell me what you need to resolve your concerns about chocolate milk. Because I'm refining my general explanations of milk for gout now. Next, I'll explain any variations for different types of milk. So, tell me about your concerns. To allow me to ensure my explanations cover your situation.</td>
 		</tr>
 		<tr id="gout-bad">
-			<td><a href="/1046/where-is-milk-in-your-diet-for-gout/#bad/">Is milk bad for gout?</a></td>
+			<td><a href="/1046/where-is-milk-in-your-diet-for-gout/#bad">Is milk bad for gout?</a></td>
 			<td>You're concerned that milk might be bad for your gout. Please see <a href="/1046/where-is-milk-in-your-diet-for-gout/#bad">Is Milk Bad for Gout</a>. If that doesn't resolve your concerns, please tell me why not.</td>
 		</tr>
 		<tr id="uric-bad">
@@ -72,7 +72,9 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 		</tr>
 		<tr id="uric-good">
 			<td>Is milk good for uric acid?</td>
-			<td>Rheumatology authorities around the world more-or-less agree that milk has properties that can lower uric acid. So the main issue now is how to incorporate milk into a Uric Acid Dietary Pattern. Which can support a medicine-based gout recovery plan. Or stand as your main approach for gout prevention. Subscribers to my free GoutPal Links newsletter will get occasional updates on how I plan milk consumption. Along with other pre-launch news about GoutPal Uric Acid Dietary Patterns. [subscribe_snippet]</td>
+			<td>Rheumatology authorities around the world more-or-less agree that milk has properties that can lower uric acid. So the main issue now is how to incorporate milk into a Uric Acid Dietary Pattern. Which can support a medicine-based gout recovery plan. Or stand as your main approach for gout prevention. Subscribers to my free GoutPal Links newsletter will get occasional updates on how I plan milk consumption. Along with other pre-launch news about GoutPal Uric Acid Dietary Patterns. 
+<hr><a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
+<p><i>Subscription is free, and your email address is safe - I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr></td>
 		</tr>
 	</tbody>
 </table>
@@ -84,7 +86,7 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 
 These {{ topic }} pages should provide all the facts that you need to understand how your milk consumption affects your gout. Also, they should help you resolve any concerns you have. Or at least show you how to consult professionals to help you resolve your gouty concerns about milk. But if you have unanswered questions or unresolved concerns, please tell me below.
 
-Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as '{{ topic }}' to learn more.[add Public snippet]
+Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as '{{ topic }}' to learn more.
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
