@@ -102,7 +102,7 @@ layout: base
             }
         },
         "datePublished": "{{ date | timestamp }}",
-        "dateModified": "{{ date | timestamp }}"
+        "dateModified": "{{ revised if revised else date | timestamp }}"
     }
     </script>
 
