@@ -13,7 +13,7 @@ tags:
 <h2 id="intro">{{ title }} Introduction</h2>
 Many people see buttermilk as a healthy drink. But how will it affect your uric acid and gout?
 
-Here we look at how to deal with the limited information about buttermilk and uric acid.
+Here we look at how to deal with the limited information about buttermilk and gout.
 
 <h2 id="intent">{{ title }} Purpose</h2>
 I wrote <em>Buttermilk and Gout</em> to help <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieters</a> decide if buttermilk might improve their gout foundation diet. But <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> might also find this interesting. In either case, use this information to decide if you want to increase your buttermilk intake. Then discuss your planned changes with health professionals. So that you use buttermilk to help your gout management plan – not hinder it.
@@ -27,7 +27,7 @@ You should adopt a similar approach. So first review the food group. Which for b
 
 <h2 id="science">{{ title }} Science</h2>
 Unfortunately, I cannot find any studies that report effects of buttermilk on uric acid. However, one study of general health benefits draws conclusions that apply to gout sufferers…<br />
-<q cite="https://doi.org/10.2527/af.2014-0014">There is solid evidence in support of the high value of buttermilk minor components in disease prevention. Published clinical studies nevertheless remain rare. Larger and longer successful clinical trials are still needed before the dairy industry can make health claims for buttermilk.<a href="#ref2"><sup>[2]</sup></a></q>
+<q cite="https://doi.org/10.2527/af.2014-0014">There is solid evidence in support of the high value of buttermilk minor components in disease prevention. Published clinical studies nevertheless remain rare. Larger and longer, successful clinical trials are still needed before the dairy industry can make health claims for buttermilk.<a href="#ref2"><sup>[2]</sup></a></q>
 
 Let's hope those much-needed clinical trials include uric acid blood tests. So that we might get better understanding of how buttermilk affects uric acid.
 
