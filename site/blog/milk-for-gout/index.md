@@ -47,8 +47,8 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 	</thead>
 	<tbody style="vertical-align:top;">
 		<tr id="chocolate">
-			<td><a href="/2040/gout-and-candy/#milk">Is chocolate milk bad for gout?</a></td>
-			<td>What makes you worry about chocolate milk? Identify your main concerns and assess your daily and weekly eating patterns. Then you can find answers to <a href="/2040/gout-and-candy/#milk">Is chocolate milk bad for gout?</a></td>
+			<td>Is chocolate milk bad for gout?</td>
+			<td>What makes you worry about chocolate milk? Identify your main concerns and assess your daily and weekly eating patterns. Then tell me what you need to resolve your concerns about chocolate milk. Because I'm refining my general explanations of milk for gout now. Next, I'll explain any variations for different types of milk. So, tell me about your concerns. To allow me to ensure my explanations cover your situation.</td>
 		</tr>
 		<tr id="gout-bad">
 			<td><a href="/1046/where-is-milk-in-your-diet-for-gout/#bad/">Is milk bad for gout?</a></td>
