@@ -1,4 +1,6 @@
 # search for links to old target, delete old target, new target add: h., comment, replace www, change adsense, move this comment to top
+/1451/low-purine-diet/ https://goutpal.com/blog/is-gravy-bad-for-gout/ 301
+# Test redirects. Optionally, add annotations to new target pages?
 /gout-pal-forum/please-help-my-gout/can-tophi-be-fixed/ https://goutpal.com/tophi/does-allopurinol-dissolve-tophi/ 301
 /wp-content/uploads/2009/12/european-review-etoricoxib-2008.pdf https://goutpal.com/gout/gout-treatment/gout-cures/arcoxia-etoricoxib-gout/ 301
 /wp-content/uploads/2010/07/uric-acid-evolution.pdf https://goutpal.com/uric-acid/ 301
@@ -13,7 +15,6 @@
 /wp-content/uploads/2011/07/probenecid.pdf https://goutpal.info/blog/probenecid-research/ 301
 /wp-content/uploads/2012/03/colchicine-dosage.pdf https://goutpal.com/gout-treatment/gout-cure/colchicine/colchicine-for-gout/ 301
 /wp-content/colchicine-dosage.pdf https://goutpal.com/gout-treatment/gout-cure/colchicine/colchicine-for-gout/ 301
-# Test redirects. Optionally, add annotations to new target pages?
 /tag/tophus/ /gout-pal-forum/topic-tag/tophi-removal-surgery-forum/ 301
 /tophi/2007/02/ https://goutpal.com/tophi/does-allopurinol-dissolve-tophi/ 301
 /3425/simple-gout-treatment/ https://goutpal.com/gout-treatment/ 301
