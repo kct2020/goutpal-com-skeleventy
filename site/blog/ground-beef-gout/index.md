@@ -16,7 +16,7 @@ This started from an old discussion with a Romanian gout sufferer. And ends with
 
 <h2 id="intent">Purpose of Ground Beef & Gout</h2>
 
-I wrote this article to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> resolve their food concerns about gout. So it does not consider uric acid, which is covered in <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter Plans</a>. You can use this information to discuss ground beef with your dietitian or other health professionals. Because the <a href="/gouty/purpose/">purpose of GoutPal</a> is to help you build better relationships with your professional advisers.
+I wrote this article to help <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a> resolve their food concerns about gout. So it does not consider uric acid, which is covered in <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Dieter Plans</a>. You can use this information to discuss ground beef with your dietitian or other health professionals. Because the <a href="/blog/purpose-of-goutpal-com/">purpose of GoutPal</a> is to help you build better relationships with your professional advisers.
 
 <h2 id="gout">Ground Beef & Gout</h2>
 
