@@ -34,11 +34,11 @@ tags:
             <td>Do you have tophi on your fingers? Be careful – they are dangerous! See startling photographs of finger tophi. Get Tophi Finger Pictures and Information now. Read <a href="/gout-symptoms/finger-tophi/">pictures of gout in fingers</a>.</td>
         </tr>
         <tr id="tophaceous">
-            <td><a href="/gout-symptoms/tophaceous-gout/">tophaceous</a></td>
+            <td><a href="/gout-symptoms/tophaceous-gout/">Tophaceous</a></td>
             <td>Tophaceous gout disfigures your body. Skin &amp; other tissues get huge uric acid tumors known as tophi. See how to stop gouty lumps bursting through your skin. Read <a href="/gout-symptoms/tophaceous-gout/">tophaceous</a>. </td>
         </tr>
         <tr id="thumb">
-            <td><a href="/gout-symptoms/thumb-tophi/">gout in thumbs</a></td>
+            <td><a href="/gout-symptoms/thumb-tophi/">Gout in Thumbs</a></td>
             <td>Do you get gout thumb pain? Don't ignore gout thumb symptoms! See how symptoms of gout in your thumb can turn to huge lumps. See this thumb tophi photo now. Read <a href="/gout-symptoms/thumb-tophi/">gout in thumbs</a>. </td>
         </tr>
     <tr id="elbow">
@@ -46,7 +46,7 @@ tags:
             <td>Do you have unexplained lumps on your elbow? A gouty tophus could be painless now. Don't wait for pain! See how to check lumps today – before pain starts. Read <a href="/gout-symptoms/tophi/widespread-painless-tophi/gouty-tophus-on-elbow/">gouty tophi elbow</a>.</td>
         </tr>
         <tr id="image">
-            <td><a href="/gout-symptoms/tophi/widespread-painless-tophi/large-gouty-tophi-on-left-foot/">gouty tophi images</a></td>
+            <td><a href="/gout-symptoms/tophi/widespread-painless-tophi/large-gouty-tophi-on-left-foot/">Gouty Tophi Images</a></td>
             <td>When unexplained lumps appear under the skin, do you expect it to be from gout? They might be uric acid crystal deposits. So look at these tophi pictures and see if they match. View <a href="/gout-symptoms/tophi/widespread-painless-tophi/large-gouty-tophi-on-left-foot/">gouty tophi images</a>. </td>
         </tr>
         <tr id="neck">
@@ -55,7 +55,7 @@ tags:
         </tr>
         <tr id="feet">
             <td><a href="/gout-symptoms/feet-tophi/">Pictures of Tophi on Foot</a></td>
-            <td>If you get feet tophi, walking is difficult. With gouty tumors stopping you walk, is it not time to fix your gout? See how to deal with tophi and keep safe. Read <a href="/gout-symptoms/feet-tophi/">pictures of tophi on foot</a>.</td>
+            <td>If you get feet tophi, walking is difficult. With gouty tumors stopping you from walking, isn't it time to fix your gout? See how to deal with tophi and keep safe. Read <a href="/gout-symptoms/feet-tophi/">pictures of tophi on foot</a>.</td>
         </tr>
         <tr id="toe">
             <td><a href="/gout-symptoms/feet-tophi/left-foot-tophi-xray/">Gout Xray Toe</a></td>
@@ -85,7 +85,7 @@ I'm working on templates that help you identify, understand, and recover from yo
 
 All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
 
-Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please tell me below. Or if you prefer to use email, then subscribe to my free newsletter:
+Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please tell me below. Or, if you prefer to use email, then subscribe to my free newsletter:
 <hr><a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
 <p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p>
 <hr>
