@@ -82,6 +82,10 @@ tags:
         </tr>
     </tbody>
 </table>
+<h2 id="summary">{{ title }} Summary</h2>
+<p>For convenience, while learning about {{ topic }}, we might identify different types. But what matters most to you and your doctor is whether the cause is avoidable or not. Because that might affect your choice of uric acid treatment.</p>
+<p>Now, in standard gout management, even that doesn't matter. Because allopurinol controls uric acid in most gout sufferers, irrespective of the cause. But if you will not start allopurinol during Phase 5. Or if it proves to be ineffective during Phase 6. You and your medical team must consider if alternatives to allopurinol are more suitable to the causes of your gout.</p>
+<p>See if your doctor provides any resources to help you identify different gout causes. Then start a personal gout causes research project to see which apply to you.</p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>

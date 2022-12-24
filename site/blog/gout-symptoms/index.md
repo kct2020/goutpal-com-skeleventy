@@ -75,6 +75,9 @@ tags:
         </tr>
     </tbody>
 </table>
+<h2 id="summary">{{ title }} Summary</h2>
+<p>You have to be able to accurately describe your {{ topic }} to your doctor. Because initially, symptoms help to guide medical professionals towards the right diagnosis. Later, you need to describe changes to your symptoms. So that your medical team can adjust gout treatment to match your recovery progress.</p>
+<p>See if your doctor provides any resources to help you record a gout symptoms journal.</p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
