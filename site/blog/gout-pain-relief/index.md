@@ -5,7 +5,7 @@ meta_description: Gout recovery takes many months. So you must understand how to
 sub_heading: Gout recovery takes time. So make sure you know how to stop the pain.
 title: Gout Pain Relief
 topic: gout pain relief
-image_alt: Gout Pain Relief &ndash; Block, Soothe, Relieve
+image_alt: Gout Pain Relief – Block, Soothe, Relieve
 post_image: "/images/gout-pain-block-soothe-relieve.webp"
 tags:
 - blog
