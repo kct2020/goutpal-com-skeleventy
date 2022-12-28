@@ -148,7 +148,7 @@ If you still have concerns about {{ topic }}, you should discuss those concerns 
 
 As this is one of my research articles, I'm asking for your help. Because when I understand your situation, I can direct my research towards providing better resources for you. So I've extended my usual feedback notes below to explain this further. However, I do understand that most people do not want to discuss health concerns in public. In which case, you can find more information when you copy <em>anthocyanins</em> into the <a href="{{ site.searchurl }}">search box</a>. 
 <hr />
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to Gout Progression Phase 5: <a href="/blog/start-uric-acid-cure/">Start Uric Acid Cure</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
