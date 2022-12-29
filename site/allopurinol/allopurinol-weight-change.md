@@ -46,7 +46,7 @@ You've learned that some gout sufferers feel that allopurinol has caused weight 
 Do you need help preparing for the consultation with your doctor? Then please share your {{ topic }} story below.
 
 <hr>
-Leave Allopurinol and Weight Change to browse more <a href="/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a>.
+Leave Allopurinol and Weight Change to browse more <a href="/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a>. Or return to Gout Progression Phase 6 <a href="/blog/adjust-uric-acid-cure/">Adjust Uric Acid Cure</a>.
 <h2 id="comments">{{ title }} Comments</h2>
 <p>Please add your comments below.<br />
 Your feedback options are:</p>

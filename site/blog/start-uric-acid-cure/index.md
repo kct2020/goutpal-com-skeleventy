@@ -12,7 +12,7 @@ tags:
 ---
 <p>At last, it's time to start curing your excess uric acid. But first you and your medical team need to decide if the standard allopurinol cure applies to you. Or if you need to work together to choose alternatives.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
-<p>There are too many {{ topic }} [topics] for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific [topics] that concern you most. However, it might not include all {{ topic }} articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}" target="_blank">{{ site.searchname }}</a> to find more articles about your {{ topic }} concerns.</p>
+<p>There are too many {{ topic }} [topics] for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific [topics] that concern you most. However, it might not include all {{ topic }} articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about your {{ topic }} concerns.</p>
 <h2 id="progress">{{ title }} Progression</h2>
 <p><em>{{ title }}</em> is the fifth phase of gout progression. Importantly, it is the first phase where you start to cure uric acid. But it might be several months before you are completely cured. So you will need to continue the gout pain package that you agreed with your doctor in phase three. However, make time to discuss if you continue gout pain treatment as a preventative or an "as required" control.</p>
 <h2 id="facts">{{ title }} Articles</h2>
@@ -25,40 +25,40 @@ tags:
     </thead>
     <tbody style="vertical-align:top;">
         <tr id="start">
-            <td><a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/" target="_blank">Starting Allopurinol</a></td>
-            <td>Starting allopurinol is quite simple. But many doctors get it wrong. Wrong allopurinol dose makes your gout worse. Get safe allopurinol dosing guidelines now. Read <a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/" target="_blank">starting allopurinol</a>.</td>
+            <td><a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/">Starting Allopurinol</a></td>
+            <td>Starting allopurinol is quite simple. But many doctors get it wrong. Wrong allopurinol dose makes your gout worse. Get safe allopurinol dosing guidelines now. Read <a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/">starting allopurinol</a>.</td>
         </tr>
         <tr id="natural">
-            <td><a href="/gout-treatment/gout-remedy/" target="_blank">Natural Remedies for Gout</a></td>
-            <td>Many gout sufferers seek a natural gout remedy to avoid risks associated with drugs. Can you use common foods as gout treatment? Yes, but ensure you stay safe. Read <a href="/gout-treatment/gout-remedy/" target="_blank">natural remedies for gout</a>.</td>
+            <td><a href="/gout-treatment/gout-remedy/">Natural Remedies for Gout</a></td>
+            <td>Many gout sufferers seek a natural gout remedy to avoid risks associated with drugs. Can you use common foods as gout treatment? Yes, but ensure you stay safe. Read <a href="/gout-treatment/gout-remedy/">natural remedies for gout</a>.</td>
         </tr>
         <tr id="during">
-            <td><a href="/4853/start-allopurinol-quickly-but-carefully/" target="_blank">Starting Allopurinol During Gout Flare</a></td>
-            <td>When should you start allopurinol? Start immediately, risking extra gout pain, or wait for flares to subside? Get the truth about when to start allopurinol now. Read <a href="/4853/start-allopurinol-quickly-but-carefully/" target="_blank">starting allopurinol during gout flare</a>.</td>
+            <td><a href="/4853/start-allopurinol-quickly-but-carefully/">Starting Allopurinol During Gout Flare</a></td>
+            <td>When should you start allopurinol? Start immediately, risking extra gout pain, or wait for flares to subside? Get the truth about when to start allopurinol now. Read <a href="/4853/start-allopurinol-quickly-but-carefully/">starting allopurinol during gout flare</a>.</td>
         </tr>
         <tr id="nat-allo">
-            <td><a href="/2763/allopurinol-alternatives/" target="_blank">Natural Alternative to Allopurinol</a></td>
-            <td>Do you want alternatives to allopurinol? Is it fear of side effects? Is your dose wrong? Or do you want natural meds? Get effective allopurinol alternatives. Read <a href="/2763/allopurinol-alternatives/" target="_blank">natural alternative to allopurinol</a>.</td>
+            <td><a href="/2763/allopurinol-alternatives/">Natural Alternative to Allopurinol</a></td>
+            <td>Do you want alternatives to allopurinol? Is it fear of side effects? Is your dose wrong? Or do you want natural meds? Get effective allopurinol alternatives. Read <a href="/2763/allopurinol-alternatives/">natural alternative to allopurinol</a>.</td>
         </tr>
         <tr id="food">
-            <td><a href="/gout-diet/purine-rich-foods/" target="_blank">Uric Acid in Foods Chart</a></td>
-            <td>Purine rich foods tables are often used by gout sufferers. But pointless purines have no effect on gout, so why worry? See which high purine foods affect gout. Read <a href="/gout-diet/purine-rich-foods/" target="_blank">uric acid in foods chart</a>.</td>
+            <td><a href="/gout-diet/purine-rich-foods/">Uric Acid in Foods Chart</a></td>
+            <td>Purine rich foods tables are often used by gout sufferers. But pointless purines have no effect on gout, so why worry? See which high purine foods affect gout. Read <a href="/gout-diet/purine-rich-foods/">uric acid in foods chart</a>.</td>
         </tr>
         <tr id="alt">
-            <td><a href="/blog/anthocyanins-natural-allopurinol-alternatives/" target="_blank">Alternatives to Allopurinol</a></td>
-            <td>Can anthocyanin-rich foods lower uric acid? Here are the top 100 food sources for these colorful beneficial compounds. See how anthocyanins are more than natural allopurinol alternatives. Read <a href="/blog/anthocyanins-natural-allopurinol-alternatives/" target="_blank">alternatives to allopurinol</a>.</td>
+            <td><a href="/blog/anthocyanins-natural-allopurinol-alternatives/">Alternatives to Allopurinol</a></td>
+            <td>Can anthocyanin-rich foods lower uric acid? Here are the top 100 food sources for these colorful beneficial compounds. See how anthocyanins are more than natural allopurinol alternatives. Read <a href="/blog/anthocyanins-natural-allopurinol-alternatives/">alternatives to allopurinol</a>.</td>
         </tr>
         <tr id="colch">
-            <td><a href="/gout-treatment/gout-cure/colchicine/colchicine-for-gout/" target="_blank">How Long to take Colchicine when Starting Allopurinol</a></td>
-            <td>How does colchicine help gout? See how it can stop gout pain if you use it right. Learn about safe storage. Get the facts about colchicine for gout. Read <a href="/gout-treatment/gout-cure/colchicine/colchicine-for-gout/" target="_blank">how long to take colchicine when starting allopurinol</a>.</td>
+            <td><a href="/gout-treatment/gout-cure/colchicine/colchicine-for-gout/">How Long to take Colchicine when Starting Allopurinol</a></td>
+            <td>How does colchicine help gout? See how it can stop gout pain if you use it right. Learn about safe storage. Get the facts about colchicine for gout. Read <a href="/gout-treatment/gout-cure/colchicine/colchicine-for-gout/">how long to take colchicine when starting allopurinol</a>.</td>
         </tr>
         <tr id="uricosuric">
-            <td><a href="/2724/gout-cures-natural-uricosuric-agents/" target="_blank">Uricosuric Foods</a></td>
-            <td>Gout cures come in many forms. Here we focus on natural products that help cure gout and supplement a good gout diet. Get advice on natural uricosuric meds. Read <a href="/2724/gout-cures-natural-uricosuric-agents/" target="_blank">uricosuric foods</a>.</td>
+            <td><a href="/2724/gout-cures-natural-uricosuric-agents/">Uricosuric Foods</a></td>
+            <td>Gout cures come in many forms. Here we focus on natural products that help cure gout and supplement a good gout diet. Get advice on natural uricosuric meds. Read <a href="/2724/gout-cures-natural-uricosuric-agents/">uricosuric foods</a>.</td>
         </tr>
         <tr id="diet">
-            <td><a href="/gout-food/gout-food-list/" target="_blank">Uric Acid Patient Diet Chart</a></td>
-            <td>You need a good food list for gout. To help with tasty meals for uric acid. Not a bunch of things to avoid. Get the healthy gout food list for better diet. Read <a href="/gout-food/gout-food-list/" target="_blank">uric acid patient diet chart</a>.</td>
+            <td><a href="/gout-food/gout-food-list/">Uric Acid Patient Diet Chart</a></td>
+            <td>You need a good food list for gout. To help with tasty meals for uric acid. Not a bunch of things to avoid. Get the healthy gout food list for better diet. Read <a href="/gout-food/gout-food-list/">uric acid patient diet chart</a>.</td>
         </tr>
     </tbody>
 </table>
