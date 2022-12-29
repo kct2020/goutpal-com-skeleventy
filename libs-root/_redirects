@@ -1,6 +1,15 @@
 # search for links to old target, delete old target, new target add: h., comment, replace www, change adsense, move this comment to top
-/uric-acid/uric-acid-test/* https://goutpal.com/blog/uric-acid-test/ 301
+/933/ https://goutpal.com/933/uric-acid-back-pain-the-heavy-load-of-gout/ 301
+/blog/whats-your-biggest-gout-concern/discussions https://github.com/kct2020/goutpal-com-skeleventy/discussions 301
+/blog/gout-causes/discussions https://github.com/kct2020/goutpal-com-skeleventy/discussions 301
+/blog/gout-symptoms/discussions https://github.com/kct2020/goutpal-com-skeleventy/discussions 301
+/2514/gout-food-spices-and-herbs-make-it-great/* https://goutpal.com/4156/natural-medicine-for-gout/ 301
+/gout-media/gout-diet/ https://goutpal.com/gout-diet/ 301
+/topic/natural-gout-cures-2/* https://goutpal.com/1700/natural-remedy-for-gout/ 301
+/page/* https://goutpal.com/blog/ 301
+/gout-media/immune-response/ https://goutpal.com/uric-acid/joint-inflammation/ 301
 # Test redirects. Optionally, add annotations to new target pages?
+/uric-acid/uric-acid-test/* https://goutpal.com/blog/uric-acid-test/ 301
 /gouty/purpose/* https://goutpal.com/blog/purpose-of-goutpal-com/ 301
 /1451/low-purine-diet/* https://goutpal.com/blog/is-gravy-bad-for-gout/ 301
 /gout-pal-forum/please-help-my-gout/can-tophi-be-fixed/ https://goutpal.com/tophi/does-allopurinol-dissolve-tophi/ 301
