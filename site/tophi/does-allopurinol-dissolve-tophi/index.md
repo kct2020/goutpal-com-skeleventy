@@ -64,7 +64,7 @@ Finally, for feedback about this page, please use <a href="{{ site.social_links.
 
 ***
 
-Leave {{ title }} to browse the <a href="/tophi">Tophi</a> facts section.
+Leave {{ title }} to browse the <a href="/tophi">Tophi</a> facts section. Or return to Gout Progression Phase 6 <a href="/blog/adjust-uric-acid-cure/">Adjust Uric Acid Cure</a>.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
