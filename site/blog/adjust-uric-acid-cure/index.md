@@ -43,8 +43,8 @@ tags:
             <td>How long does it take allopurinol to work? When you start allopurinol, it can take up to two weeks to reach full potential. But you have to wait for old uric acid crystals to dissolve. Because full gout recovery can take years. How long before allopurinol works completely? See how to make allopurinol work faster. Read <a href="/two-weeks-and-two-days-since-starting-allopurinol/2012/09/">when to recheck uric acid level after starting allopurinol</a>.</td>
         </tr>
         <tr id="alcohol">
-            <td><a href="/914/allopurinol-and-alcohol-can-you-spirit-away-gout/">allopurinol side effects alcohol</a></td>
-            <td>Can you take allopurinol and alcohol together? You must understand how alcohol affects your uric acid treatment. Get the facts about alcohol with allopurinol. Read <a href="/914/allopurinol-and-alcohol-can-you-spirit-away-gout/">allopurinol side effects alcohol</a>.</td>
+            <td><a href="/914/allopurinol-and-alcohol-can-you-spirit-away-gout/">Allopurinol Side Effects & Alcohol</a></td>
+            <td>Can you take allopurinol and alcohol together? You must understand how alcohol affects your uric acid treatment. Get the facts about alcohol with allopurinol. Read <a href="/914/allopurinol-and-alcohol-can-you-spirit-away-gout/">allopurinol side effects & alcohol</a>.</td>
         </tr>
         <tr id="gouty">
             <td><a href="/tophi/does-allopurinol-dissolve-tophi/">Can Gouty Tophi be Dissolved?</a></td>
@@ -72,7 +72,7 @@ tags:
         </tr>
         <tr id="forum">
             <td><a href="/gout-pal-forum/please-help-my-gout/allopurinol-side-effect-should-i-stop-after-a-week/">Allopurinol Side Effects Forum</a></td>
-            <td>My question is, "could the allopurinol be giving these side effects?" Like I said, the doc was very sceptical. And, should I stop the allopurinol for a few days to see how I feel? Read <a href="/gout-pal-forum/please-help-my-gout/allopurinol-side-effect-should-i-stop-after-a-week/">allopurinol side effects forum</a>.</td>
+            <td>My question is, "could the allopurinol be giving these side effects?" Like I said, the doc was very skeptical. And, should I stop the allopurinol for a few days to see how I feel? Read <a href="/gout-pal-forum/please-help-my-gout/allopurinol-side-effect-should-i-stop-after-a-week/">allopurinol side effects forum</a>.</td>
         </tr>
         <tr id="effect">
             <td><a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-side-effects/">Side Effects of Allopurinol</a></td>
