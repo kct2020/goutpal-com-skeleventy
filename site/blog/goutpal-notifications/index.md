@@ -83,7 +83,7 @@ Furthermore, I never see your subscription details. So I don't even know you exi
 <h2 id="next">Your GoutPal Contributor Updates</h2>
 As you can see, the notification service is very flexible. So if you cannot see how to customize the service to suit your needs, just ask.
 
-You can ask by starting a <a href="{{ site.social_links.github }}issues/new/choose">new GoutPal Issue</a>. Or add comments to the <a href="{{ site.social_links.github }}issues/36">specific Issue for this Notifications page</a>.
+You can ask by starting a <a href="{{ site.social_links.GitHub }}issues/new/choose">new GoutPal Issue</a>. Or add comments to the <a href="{{ site.social_links.GitHub }}issues/36">specific Issue for this Notifications page</a>.
 
 ***
 

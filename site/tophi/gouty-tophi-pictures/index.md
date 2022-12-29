@@ -76,9 +76,9 @@ You can see that photographs help gout sufferers understand:
 - Potential tophi treatments.
 - Dangers of tophaceous gout.
 
-So it's good to share your tophi photographs. Ideally, you will do this by adding your photographs to your comments as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. 
+So it's good to share your tophi photographs. Ideally, you will do this by adding your photographs to your comments as a <a href="{{ site.social_links.GitHub }}issues">GoutPal Issue</a>. 
 
-I say ideally, because Issues is the first place I look before adding or changing information here. But maybe you are looking for a chat rather than helping to improve articles? In which case, you can also add images to <a href="{{ site.social_links.github }}discussions">discussions with other gout sufferers</a>.
+I say ideally, because Issues is the first place I look before adding or changing information here. But maybe you are looking for a chat rather than helping to improve articles? In which case, you can also add images to <a href="{{ site.social_links.GitHub }}discussions">discussions with other gout sufferers</a>.
 
 ***
 

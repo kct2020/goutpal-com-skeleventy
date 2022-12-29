@@ -68,7 +68,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues/new/chose">share your thoughts about this page</a>. But if you just want to chat with other gout sufferers, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please <a href="{{ site.social_links.GitHub }}issues/new/chose">share your thoughts about this page</a>. But if you just want to chat with other gout sufferers, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 If you are asking a question, it's best to:<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>

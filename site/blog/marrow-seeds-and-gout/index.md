@@ -45,7 +45,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return t
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please <a href="{{ site.social_links.GitHub }}issues">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 If you are asking a question, it's best to:<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>

@@ -75,9 +75,9 @@ It's important to continue with your gout management plan for the rest of your l
 
 You have learned how to start a uric acid treatment plan as a gout patient. But details are critical. So please return here as I add detailed explanations of your choices at each step in your plan.
 
-In the meantime, you can collaborate with me to help you start your plan. In particular, share your thoughts about <a href="{{ site.social_links.github }}issues/7">Gout Plan Templates</a>. Or <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+In the meantime, you can collaborate with me to help you start your plan. In particular, share your thoughts about <a href="{{ site.social_links.GitHub }}issues/7">Gout Plan Templates</a>. Or <a href="{{ site.social_links.GitHub }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
 
-Otherwise, join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a> for a chat with fellow gout sufferers.
+Otherwise, join <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a> for a chat with fellow gout sufferers.
 
 ***
 

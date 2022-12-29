@@ -23,7 +23,7 @@ As always, I will back my opinions and recommendations with published gout facts
 
 ## New Gout Forum Trials
 
-I'm in the very early days of reviewing a replacement for the current <a href="https://goutpal.net/forums/">gout forums</a>. As part of my changing technical platform, I expect this new format to be more efficient. But the real test is how it helps you as a gout sufferer. So please call into <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>. And let me know what you think.
+I'm in the very early days of reviewing a replacement for the current <a href="https://goutpal.net/forums/">gout forums</a>. As part of my changing technical platform, I expect this new format to be more efficient. But the real test is how it helps you as a gout sufferer. So please call into <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>. And let me know what you think.
 
 ## Your {{ site.name }}
 
@@ -33,11 +33,11 @@ GoutPal gets better for everyone when you share your thoughts about my articles.
 
 ### Your Gout Issues
 
-Please tell me if you want clarification on any page. Or if you want me to add any {{ site.subject }} articles that I haven't included. First, check to see if we are already discussing your concerns in <a href="{{ site.social_links.github }}issues">{{ site.name }} Issues</a>. If not, <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+Please tell me if you want clarification on any page. Or if you want me to add any {{ site.subject }} articles that I haven't included. First, check to see if we are already discussing your concerns in <a href="{{ site.social_links.GitHub }}issues">{{ site.name }} Issues</a>. If not, <a href="{{ site.social_links.GitHub }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
 
 ### Your Gout Discussions
 
-I've always encouraged GoutPal readers to discuss their situation with fellow gout sufferers. Because only people who've suffered the agony of a full gout flare can understand the pain and frustration that comes with gout. Now for serious issues, I strongly recommend that you discuss your situation with appropriately qualified health professionals. If you like, you can refer to facts that I present on this website. Then if you or your advisers need clarification, you should raise your concerns with me. as I explained in "Your Gout Issues" above. But for a chat about general gout issues, please use  <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+I've always encouraged GoutPal readers to discuss their situation with fellow gout sufferers. Because only people who've suffered the agony of a full gout flare can understand the pain and frustration that comes with gout. Now for serious issues, I strongly recommend that you discuss your situation with appropriately qualified health professionals. If you like, you can refer to facts that I present on this website. Then if you or your advisers need clarification, you should raise your concerns with me. as I explained in "Your Gout Issues" above. But for a chat about general gout issues, please use  <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 ***
 

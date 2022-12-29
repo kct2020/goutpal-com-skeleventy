@@ -822,7 +822,7 @@ If you think I've missed anyone, please see the <a href="#feedback">feedback sec
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
-Your feedback helps me prioritize adding more {{ topic }}. In particular, I'd love to know if you want me to add any more famous gout sufferers to this list. Also, tell me anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more {{ topic }}. In particular, I'd love to know if you want me to add any more famous gout sufferers to this list. Also, tell me anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.GitHub }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
 
 If you are asking a question, it's best to:
 1. Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.

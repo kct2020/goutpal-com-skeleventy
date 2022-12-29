@@ -79,7 +79,7 @@ If you still have concerns about allopurinol and your liver, you should discuss 
 Leave {{ title }} to browse more <a href="/allopurinol/allopurinol-side-effects/">Allopurinol Side Effects</a>. Or return to Gout Progression Phase 6 <a href="/blog/adjust-uric-acid-cure/">Adjust Uric Acid Cure</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
-Please <a href="{{ site.social_links.github }}issues/26">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about allopurinol and your liver, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please <a href="{{ site.social_links.GitHub }}issues/26">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about allopurinol and your liver, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
