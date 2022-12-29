@@ -152,7 +152,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return t
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues/81">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please <a href="{{ site.social_links.GitHub }}issues/81">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 If you are asking a question, it's best to:<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
@@ -172,7 +172,7 @@ Anyway, I'd appreciate your thoughts about any aspects of this article. For exam
 - Include other flavonoids? Because we know other flavonoids can benefit gout sufferers. Significantly [quercetin](/6208/quercetin-as-a-gout-home-remedy/). So should these be included? Or are separate lists better?
 - Add your ideas, wants, and needs.
 
-<a href="{{ site.social_links.github }}issues/81">I look forward to reading your anthocyanin ideas</a> as we work towards improving anthocyanin information for gout sufferers.
+<a href="{{ site.social_links.GitHub }}issues/81">I look forward to reading your anthocyanin ideas</a> as we work towards improving anthocyanin information for gout sufferers.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>

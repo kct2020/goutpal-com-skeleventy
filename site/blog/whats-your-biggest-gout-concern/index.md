@@ -58,9 +58,9 @@ It's a good idea to get into the habit of raising Issues with me if you need cla
 
 You have learned how I want to help you identify your gout concerns. Then you can discuss and resolve these concerns with your doctors. And/or collaborate with me to explain how gout facts apply to your situation. So your first task is to start a record of your concerns. Then you can update that list as you learn more. Or as you resolve your concerns with your health advisers.
 
-I recommend using MindMup to manage your concerns. And I will provide separate guidance on how to use the free MindMup service. In the meantime, you can collaborate with me to get started with a plan. First, check to see if we are already discussing your concerns in <a href="{{ site.social_links.github }}issues">{{ site.name }} Issues</a>. If not, <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+I recommend using MindMup to manage your concerns. And I will provide separate guidance on how to use the free MindMup service. In the meantime, you can collaborate with me to get started with a plan. First, check to see if we are already discussing your concerns in <a href="{{ site.social_links.GitHub }}issues">{{ site.name }} Issues</a>. If not, <a href="{{ site.social_links.GitHub }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
 
-However, you might just want a chat with fellow gout sufferers. In which case, join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+However, you might just want a chat with fellow gout sufferers. In which case, join <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 ***
 

@@ -38,6 +38,6 @@ More imporantly, I'm changing my gout forums to focus more on personalizing Gout
 
 I'm happy with my own gout control now. So I'm focused on making GoutPal the best place to help you. But to do that, I need your feedback.
 
-For general feedback, please join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>. Where you can share your thoughts with fellow gout sufferers.
+For general feedback, please join <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>. Where you can share your thoughts with fellow gout sufferers.
 
-For contributions to improve this website, please join <a href="{{ site.social_links.github }}issues">{{ site.name }} Issues</a>. Or <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a>. This is the best way to tell me if you see anything wrong with any page. That could be anything from a spelling mistake to topics that need better explanation. I'm especially interested in new gout research. So please use the Issues page to tell me if I've missed something important.
+For contributions to improve this website, please join <a href="{{ site.social_links.GitHub }}issues">{{ site.name }} Issues</a>. Or <a href="{{ site.social_links.GitHub }}issues/new/choose">raise a new issue</a>. This is the best way to tell me if you see anything wrong with any page. That could be anything from a spelling mistake to topics that need better explanation. I'm especially interested in new gout research. So please use the Issues page to tell me if I've missed something important.

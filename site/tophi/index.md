@@ -154,4 +154,4 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.github }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your tophi concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.GitHub }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your tophi concerns with other gout sufferers</a>

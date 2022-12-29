@@ -59,12 +59,12 @@ I am preparing new guidance notes for your personal gout research projects. Star
 
 I've always regarded the forum as a place for gout sufferers to improve GoutPal information for the benefit of others. So I've had lots of success over the years with forum regulars who have contributed ways they have worked with their doctors for improved gout treatment. But I've also seen lots of gouty opinions. Which might be interesting, but they don't really help improve advice for gout patients. Therefore, I've split the gout forum into Issues and discussions.
 
-<a href="{{ site.social_links.github }}issues">Gout Issues</a> are for:
+<a href="{{ site.social_links.GitHub }}issues">Gout Issues</a> are for:
 - Changes to a specific GoutPal page.
 - Missing information that should be on a GoutPal page.
 - Help with your personal gout project. Which should, wherever possible, refer to relevant GoutPal page(s).
 
-<a href="{{ site.social_links.github }}discussions">Gout Discussions</a> are for any other experiences and opinions about gout.
+<a href="{{ site.social_links.GitHub }}discussions">Gout Discussions</a> are for any other experiences and opinions about gout.
 
 <figure id="image" class="inner">
 <img src="/images/gout-forum-discussion.webp" alt="{{ image_alt }}"  width="610" height="377">
@@ -75,11 +75,11 @@ I've always regarded the forum as a place for gout sufferers to improve GoutPal 
 
 You have learned how GoutPal's Gout Forums are changing to issues and discussions. So here is how you can share your thoughts.
 
-Firstly, if you have any concerns about this page, share them at <a href="{{ site.social_links.github }}issues/9">Gout Forum Guidance</a>.
+Firstly, if you have any concerns about this page, share them at <a href="{{ site.social_links.GitHub }}issues/9">Gout Forum Guidance</a>.
 
-Or if you have any other concerns that you want me to help resolve, <a href="{{ site.social_links.github }}issues/new/choose">raise a new issue</a>. Note that it always helps me if you search for your gout concern first. Then you can tell me why the results are not helping you. Because that allows me to respond in the most relevant way.
+Or if you have any other concerns that you want me to help resolve, <a href="{{ site.social_links.GitHub }}issues/new/choose">raise a new issue</a>. Note that it always helps me if you search for your gout concern first. Then you can tell me why the results are not helping you. Because that allows me to respond in the most relevant way.
 
-Otherwise, join <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a> for a chat with fellow gout sufferers.
+Otherwise, join <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a> for a chat with fellow gout sufferers.
 
 ***
 

@@ -65,7 +65,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return t
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please share your thoughts about this page at <a href="{{ site.social_links.github }}issues/28">Ground Beef & Gout Issue</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about ground beef, use <a href="{{ site.social_links.github }}discussions">GoutPal's Gout Discussions</a>.
+Please share your thoughts about this page at <a href="{{ site.social_links.GitHub }}issues/28">Ground Beef & Gout Issue</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about ground beef, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>

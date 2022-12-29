@@ -97,7 +97,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or see the 
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Your feedback helps me prioritize adding more {{ topic }} articles. In particular, I'd love to know if you want extra articles in this {{ topic }} list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/47">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more {{ topic }} articles. In particular, I'd love to know if you want extra articles in this {{ topic }} list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.GitHub }}issues/47">improving this page</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
 
 If you are asking a question, it's best to:
 1. Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.
