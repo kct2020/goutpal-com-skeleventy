@@ -12,7 +12,7 @@ tags:
 ---
 <p>At last, you have completed your journey to gout recovery. So you are no longer under the threat of returning gout flares. Unless you fail to maintain your uric acid cure during the rest of your life.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
-<p>There are too many topics about {{ topic }} for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific topics that concern you most. However, it might not include all articles about {{ topic }} that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about your {{ topic }} concerns.</p>
+<p>There are too many topics about {{ topic }} for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific topics that concern you most. However, it might not include all articles about {{ topic }} that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>
 <h2 id="progress">{{ title }} Progression</h2>
 <p><em>{{ title }}</em> is the seventh and final phase of gout progression. Where you have had no gout symptoms for six months. While maintaining uric acid below your maximum level as agreed with your doctor.</p>
 <p>Strictly speaking, you should also have no visible tophi. And no radiographic signs of uric acid crystal deposits. However, some tophi are very resistant to shrinking by dissolving at low uric acid levels. Because they become calcified, requiring surgery. But you and your doctor can balance any benefits of deposit removal against the risks of surgery.</p>
@@ -72,20 +72,20 @@ tags:
             <td>Gout patients wonder if allopurinol is a lifetime drug. New evidence shows ways to get a break. Can you take time off allopurinol? Get allopurinol facts now. Read <a href="/1629/is-allopurinol-a-lifetime-drug/">is allopurinol for life</a>.</td>
         </tr>
         <tr id="tophi">
-            <td><a href="/3408/best-tophi-picture/">how long for tophi to dissolve</a></td>
+            <td><a href="/3408/best-tophi-picture/">How Long for Tophi to Dissolve?</a></td>
             <td>Best tophi picture shows disappearing lumps. Before and after photographs of tophus treatment. See pictures showing gouty tophi shrink with low uric acid. Read <a href="/3408/best-tophi-picture/">how long for tophi to dissolve</a>.</td>
         </tr>
     </tbody>
 </table>
 <h2 id="summary">{{ title }} Summary</h2>
-<p>Some people maintain that if you have to continue daily treatment for gout, then you're not really cured. However, the prominent medical view is that gout is cured once uric acid is safe and gout flares stop completely.</p>
+<p>Some people believe that if you have to continue daily treatment for gout, then you're not really cured. However, the prominent medical view is that gout is cured once uric acid is safe and gout flares stop completely.</p>
 <p>But you have to maintain vigilance. Particularly since your body changes as you get older. So continue with treatment and monitoring to ensure that your gout never returns.</p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">{{ image_alt }}</h2>
-I'm working on templates that help you identify , understand, and resolve any concerns about {{ topic }}. In the meantime, you can start by adding notes about what you've learned about {{ topic }} so far.
+I'm working on templates that help you identify, understand, and resolve any concerns about {{ topic }}. In the meantime, you can start by adding notes about what you've learned about {{ topic }} so far.
 
 All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
 
