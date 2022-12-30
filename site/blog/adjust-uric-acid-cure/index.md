@@ -38,6 +38,10 @@ tags:
             <td><a href="/972/allopurinol-medication-why-it-hurts-to-get-rid-of-gout/">Does Allopurinol Dissolve Tophi?</a></td>
             <td>Allopurinol medication controls gout, but why does it hurt? You are sick of pain. It gets worse and more frequent. Learn to use allopurinol the right way. Read <a href="/972/allopurinol-medication-why-it-hurts-to-get-rid-of-gout/">does allopurinol dissolve tophi</a>.</td>
         </tr>
+        <tr id="kidney">
+            <td><a href="/888/allopurinol-tablets-kidney-disease/">Allopurinol Effect on Kidneys</a></td>
+            <td>Allopurinol tablets are a must for gout. But what if you also have kidney problems? See if taking allopurinol pills can help if you also have kidney disease. Read <a href="/888/allopurinol-tablets-kidney-disease/">allopurinol effect on kidneys</a>.</td>
+        </tr>
         <tr id="when">
             <td><a href="/two-weeks-and-two-days-since-starting-allopurinol/2012/09/">When to Recheck Uric Acid Level after starting Allopurinol?</a></td>
             <td>How long does it take allopurinol to work? When you start allopurinol, it can take up to two weeks to reach full potential. But you have to wait for old uric acid crystals to dissolve. Because full gout recovery can take years. How long before allopurinol works completely? See how to make allopurinol work faster. Read <a href="/two-weeks-and-two-days-since-starting-allopurinol/2012/09/">when to recheck uric acid level after starting allopurinol</a>.</td>
