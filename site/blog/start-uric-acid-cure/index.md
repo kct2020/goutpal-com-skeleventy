@@ -12,7 +12,7 @@ tags:
 ---
 <p>At last, it's time to start curing your excess uric acid. But first you and your medical team need to decide if the standard allopurinol cure applies to you. Or if you need to work together to choose alternatives.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
-<p>There are too many {{ topic }} [topics] for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific [topics] that concern you most. However, it might not include all {{ topic }} articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about your {{ topic }} concerns.</p>
+<p>There are too many topics about {{ topic }} for a single article. So this is a hub page for articles about {{ topic }}. Which you can browse to find the specific topics that concern you most. However, it might not include all uric acid articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>
 <h2 id="progress">{{ title }} Progression</h2>
 <p><em>{{ title }}</em> is the fifth phase of gout progression. Importantly, it is the first phase where you start to cure uric acid. But it might be several months before you are completely cured. So you will need to continue the gout pain package that you agreed with your doctor in phase three. However, make time to discuss if you continue gout pain treatment as a preventative or an "as required" control.</p>
 <h2 id="facts">{{ title }} Articles</h2>
@@ -86,19 +86,7 @@ Do you need help with annotations? Or other unanswered questions or unresolved c
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
+<p>Please add your comments here. Or see more feedback options below.</p>
 <script src="https://giscus.app/client.js"
         data-repo="kct2020/goutpal-com-skeleventy"
         data-repo-id="R_kgDOGVSRQQ"
@@ -115,3 +103,15 @@ Your feedback options are:</p>
         crossorigin="anonymous"
         async>
 </script>
+<p>Your feedback options are:</p>
+<ol>
+<li><b>Easy Gout Comments.</b> Add comments above.</li>
+<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
+<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
+</ol>
+<p>If you are asking a question, it is best to:</p>
+<ol>
+<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
+<li>Choose the most relevant result.</li>
+<li>Refer to that result as you ask your question.</li>
+</ol>
