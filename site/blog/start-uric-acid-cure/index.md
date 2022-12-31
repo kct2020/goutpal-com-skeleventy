@@ -12,7 +12,7 @@ tags:
 ---
 <p>At last, it's time to start curing your excess uric acid. But first you and your medical team need to decide if the standard allopurinol cure applies to you. Or if you need to work together to choose alternatives.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
-<p>There are too many topics about {{ topic }} for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific topics that concern you most. However, it might not include all uric acid articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>
+<p>There are too many topics about {{ topic }} for a single article. So this is a hub page for articles about {{ topic }}. Which you can browse to find the specific topics that concern you most. However, it might not include all uric acid articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>
 <h2 id="progress">{{ title }} Progression</h2>
 <p><em>{{ title }}</em> is the fifth phase of gout progression. Importantly, it is the first phase where you start to cure uric acid. But it might be several months before you are completely cured. So you will need to continue the gout pain package that you agreed with your doctor in phase three. However, make time to discuss if you continue gout pain treatment as a preventative or an "as required" control.</p>
 <h2 id="facts">{{ title }} Articles</h2>
