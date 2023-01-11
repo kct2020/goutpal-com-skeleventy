@@ -17,20 +17,20 @@ tags:
 <p>What type of gout do you have? New, tophaceous, acute, chronic, intransigent, or something else? Also, why is your uric acid too high? Under-excretion, over-production, or <a href="/gout-symptoms/gout-causes-3-types-not-2/">another type of gout</a>?</p>
 <p>What phase of gout progression are you at?</p>
 <h2 id="ice-cream-gout">Ice Cream &amp; Gout Progression</h2>
-<p>As gout progresses, we must consider the significance of ice cream in different ways. So I'm preparing templates that you can use with your medical team. To help you meet your responsibilities in the shared decision-making process.</p>
-<p>At the moment, I'm completing my <a href="https://goutpal.info/blog/ice-cream-uric-acid/">Ice Cream &amp; Uric Acid Research</a>. Then, I'll apply the facts to templates for each of the affected gout progression phases:</p>
+<p>As gout progresses, we must consider the significance of ice cream in different ways. So, I'm preparing templates that you can use with your medical team. To help you meet your responsibilities in shared decision-making processes.</p>
+<p>Currently, I'm completing my <a href="https://goutpal.info/blog/ice-cream-uric-acid/">Ice Cream &amp; Uric Acid Research</a>. Then, I'll apply the facts to templates for each of the affected gout progression phases:</p>
 <h3 id="can-ice-cream-cause-gout">Can Ice Cream Cause Gout?</h3>
-<p>The ingredients of some types of ice cream can cause gout. So you need to be careful. Especially as ingredients of unpackaged ice cream are often hard to discern. Irrespective of any harmful affects of ice cream. We have to consider the role that ice cream plays in obesity and poor nutrition. So ice cream can cause gout in some cases. But you are not "some cases". So my template will help you decide, "does ice cream cause my gout?"</p>
+<p>The ingredients of some types of ice cream can cause gout. So, you need to be careful. Especially as ingredients of unpackaged ice cream are often hard to discern. Irrespective of any harmful effects of ice cream. We have to consider the role that ice cream plays in obesity and poor nutrition. Because ice cream can cause gout in some cases. But you are not "some cases" - you are an important individual. So, my template will help you decide, "does ice cream cause my gout?"</p>
 <h3 id="can-you-eat-ice-cream-if-you-have-gout">Can You Eat Ice Cream if You Have Gout Symptoms?</h3>
-<p>As a responsible gout patient, you know the importance of keeping a gout symptoms journal. So my template will help you determine if ice cream can trigger gout attacks. Or if it has a different effect on gout symptoms.</p>
+<p>As a responsible gout patient, you know the importance of keeping a gout symptoms journal. So, my template will help you determine if ice cream can trigger gout attacks. Or if it has a different effect on gout symptoms.</p>
 <h3 id="is-ice-cream-good-for-gout">Is Ice Cream Good for Gout Pain?</h3>
 <p>If you're suffering a gout attack, should you stop eating ice cream? Or can it help to relieve some gout symptoms?</p>
 <h3 id="is-ice-cream-high-in-purines">Is Ice Cream High in Purines?</h3>
-<p>Have you selected Uric Acid Eating Patterns as a way to cure gout? Or perhaps as part of your gout care package supporting other uric acid controls? If so, we need to consider if ice cream is allowed in your meal plans. And how much to eat as you start your uric acid cure.</p>
+<p>Have you selected Uric Acid Eating Patterns as a way to cure gout? Or perhaps as part of your gout care package, supporting other uric acid controls? If so, we need to consider if ice cream is allowed in your meal plans. And how much to eat as you start your uric acid cure.</p>
 <h3 id="is-ice-cream-bad-for-uric-acid">Is Ice Cream Bad for Uric Acid?</h3>
-<p>Uric acid test results during gout recovery help you and your advisers to adjust your Uric Acid Eating Pattern. But you should avoid overloading your plate with foods that you've found helpful. Because unbalanced dietary patterns can set you back during recovery. Just as they might have done at the start of your gout progression. So the Phase 6 template will help you adjust your ice cream consumption. To avoid ice cream being bad for uric acid.</p>
+<p>Uric acid test results during gout recovery help you and your advisers to adjust your Uric Acid Eating Pattern. But you should avoid overloading your plate with foods that you've found helpful. Because unbalanced dietary patterns can set you back during recovery. Just as they might have done at the start of your gout progression. So the Phase 6 template will help you adjust your ice cream consumption. To avoid ice cream being bad for your uric acid.</p>
 <h2 id="summary">Summary</h2>
-<p>We can see there are many factors to consider before we can decide, "is ice cream bad for gout?" Eventually I'll provide templates for different phases of gout progression. But I start with a project to cover all ice gream &amp; gout templates.</p>
+<p>We can see there are many factors to consider before we can decide, "is ice cream bad for gout?" Eventually, I'll provide templates for different phases of gout progression. But I start with a project to cover all ice cream &amp; gout templates.</p>
 <p>So by joining that project, you get all your gouty concerns about ice cream resolved. And I get a better understanding of what you need to make my templates valuable to you.</p>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
