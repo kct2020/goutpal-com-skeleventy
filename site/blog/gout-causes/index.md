@@ -32,6 +32,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="ice-cream">
+            <td><a href="/blog/is-ice-cream-bad-for-gout/">Is Ice Cream Bad for Gout?</a></td>
+            <td>Ice cream is different for everyone. The same goes for gout. So think about when your ice cream is bad for your gout. And when is it good for you? Read <a href="/blog/is-ice-cream-bad-for-gout/">is ice cream bad for gout</a>.</td>
+        </tr>
         <tr id="food">
             <td><a href="/gout-diet/what-foods-cause-gout/">Foods that Cause Gout</a></td>
             <td>What foods cause gout? High purine food over many years is bad. But there are 4 more bad food groups. Make gout food safe. See which foods cause gout. Read <a href="/gout-diet/what-foods-cause-gout/">foods that cause gout</a>.</td>
