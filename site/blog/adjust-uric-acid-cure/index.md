@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-12-29T11:37:00Z
+revised: 2023-01-11T17:31:00Z
 meta_description: Expect changes during your gout recovery journey. From planned dose adjustments for safe uric acid cure. Or different treatment options due to adverse effects.
 sub_heading: Move up the gears with higher uric acid cure doses. Or switch tracks to avoid adverse effects.
 title: Adjust Uric Acid Cure
@@ -30,6 +31,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+		<tr id="taper">
+			<td><a href="/gout-pal-forum/please-help-my-gout/coming-off-allopurinol-2/">Coming off Allopurinol</a></td>
+			<td>We know how important dose titration is when starting uric acid cures. But what if we are coming off allopurinol? You need to know <a href="/gout-pal-forum/please-help-my-gout/coming-off-allopurinol-2/#taper">how to taper off allopurinol</a>.  But first, you need uric acid tests to check <a href="/gout-pal-forum/please-help-my-gout/coming-off-allopurinol-2/#wean">do you need to wean off allopurinol?</a> Read the full story at <a href="/gout-pal-forum/please-help-my-gout/coming-off-allopurinol-2/">coming off allopurinol</a>.</td>
+		</tr>
         <tr id="how">
             <td><a href="/668/uric-acid-crystals/">How to Dissolve Gout Crystals</a></td>
             <td>Uric acid crystals cause gout, so you must get rid of them. But how long does it take? Learn to lose urate crystals fast. See how to control your gout fast. Read <a href="/668/uric-acid-crystals/">how to dissolve gout crystals</a>.</td>
