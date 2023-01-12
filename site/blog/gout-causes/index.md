@@ -32,6 +32,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+		<tr id="dates">
+			<td><a href="/6525/gout-foods-figs-and-gout/#dates-good">Are Dates Good for Gout?</a></td>
+			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/6525/gout-foods-figs-and-gout/#dates-good">are dates good for gout</a>? Read <a href="/6525/gout-foods-figs-and-gout/#dates">Dates and Gout</a>.</td>
+		</tr>
         <tr id="ice-cream">
             <td><a href="/blog/is-ice-cream-bad-for-gout/">Is Ice Cream Bad for Gout?</a></td>
             <td>Ice cream is different for everyone. The same goes for gout. So think about when your ice cream is bad for your gout. And when is it good for you? Read <a href="/blog/is-ice-cream-bad-for-gout/">is ice cream bad for gout</a>.</td>
