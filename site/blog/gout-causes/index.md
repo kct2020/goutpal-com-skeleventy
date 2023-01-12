@@ -33,8 +33,8 @@ tags:
     </thead>
     <tbody style="vertical-align:top;">
 		<tr id="dates">
-			<td><a href="/6525/gout-foods-figs-and-gout/#good">Are Dates Good for Gout?</a></td>
-			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/6525/gout-foods-figs-and-gout/#good">are dates good for gout</a>? Read <a href="/6525/gout-foods-figs-and-gout/#dates">Dates and Gout</a>.</td>
+			<td><a href="/6525/gout-foods-figs-and-gout/#dates-good">Are Dates Good for Gout?</a></td>
+			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/6525/gout-foods-figs-and-gout/#dates-good">are dates good for gout</a>? Read <a href="/6525/gout-foods-figs-and-gout/#dates">Dates and Gout</a>.</td>
 		</tr>
         <tr id="ice-cream">
             <td><a href="/blog/is-ice-cream-bad-for-gout/">Is Ice Cream Bad for Gout?</a></td>
