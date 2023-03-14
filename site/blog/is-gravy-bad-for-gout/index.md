@@ -34,7 +34,7 @@ tags:
 <p>Clearly, too much gravy is bad for gout. But it is important that you focus on your total daily and weekly eating patterns. Not just one small part of an occasional meal. So, my Gout Foundation Dietary Pattern or Uric Acid Dietary Pattern help you move from poor eating patterns to gout friendly ones.</p>
 <p>If you want to stay informed of availability of GoutPal Dietary Patterns, subscribe to my free newsletter.</p>
 <script src="https://gumroad.com/js/gumroad.js" type="text/javascript"></script>
-<hr><a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
+<hr><a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
 <p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr>
 <p>In the meantime, you may require expert help. From your doctor or other health professional. In which case, you might point your experts towards the studies here. Then you can work together to decide how much gravy per week will match your dietary goals.</p>
 <p>Stop listening when people tell you to avoid gravy! Instead, learn how to incorporate sufficient foods that you love into controlled eating patterns. Then you have a sustainable way to make food an enjoyable part of your gout recovery.</p>

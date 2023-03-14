@@ -89,7 +89,7 @@ I'm working on templates that help you identify, understand, and recover from yo
 All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
 
 Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please tell me below. Or, if you prefer to use email, then subscribe to my free newsletter:
-<hr><a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
+<hr><a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
 <p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p>
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.

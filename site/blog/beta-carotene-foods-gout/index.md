@@ -181,7 +181,7 @@ Note that all values are for a 1 cup serving (except where noted)
 		</tr>
 	</tbody>
 </table>
-Many other foods contain lower amounts of beta-carotene. So I plan to create lists organized into food groups. Because that makes choosing between foods easier. Assuming that you plan food intake by food group. In which case, you might <a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&amp;price=0">subscribe to GoutPal Links Newsletter</a> to be notified when I publish more detailed beta-carotene lists.
+Many other foods contain lower amounts of beta-carotene. So I plan to create lists organized into food groups. Because that makes choosing between foods easier. Assuming that you plan food intake by food group. In which case, you might <a href="https://links.goutpal.com/l/wqmwjs?wanted=true&amp;price=0">subscribe to GoutPal Links Newsletter</a> to be notified when I publish more detailed beta-carotene lists.
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}<br /><a href="#footnote"><sup>See photo details[*]</sup></a></figcaption>
