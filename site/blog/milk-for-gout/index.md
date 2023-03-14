@@ -73,7 +73,7 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 		<tr id="uric-good">
 			<td>Is milk good for uric acid?</td>
 			<td>Rheumatology authorities around the world more-or-less agree that milk has properties that can lower uric acid. So the main issue now is how to incorporate milk into a Uric Acid Dietary Pattern. Which can support a medicine-based gout recovery plan. Or stand as your main approach for gout prevention. Subscribers to my free GoutPal Links newsletter will get occasional updates on how I plan milk consumption. Along with other pre-launch news about GoutPal Uric Acid Dietary Patterns. 
-<hr><a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
+<hr><a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
 <p><i>Subscription is free, and your email address is safe - I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr></td>
 		</tr>
 	</tbody>

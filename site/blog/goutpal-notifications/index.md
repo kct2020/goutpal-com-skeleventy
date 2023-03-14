@@ -21,13 +21,13 @@ GoutPal Contributor Updates Service keeps you up-to-date with gout discussions. 
 The choice is yours. Because you can subscribe to as many GoutPal Contributor update services as you like – they are all free. So, if you want to know more, read on.
 
 Please note that this page relates to contributions to GoutPal on GitHub. Where <a href="/blog/gout-discussion-forums/">Issues and Discussions are replacing the GoutPal forums</a>. I am preparing new explanations of email and web push notification services. In the meantime, here are the subscription links:
- - <script src="https://gumroad.com/js/gumroad.js"></script><a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>
+ - <script src="https://gumroad.com/js/gumroad.js"></script><a href="https://links.goutpal.com/l/wqmwjs?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>
  - <div class='onesignal-customlink-container'>GoutPal Web Push Notification Service</div>
  
 <h2 id="news">GoutPal Links Subscriber Newsletter</h2>
 There are now two newsletters:
 
-<ul><li><a href="https://keithctaylor.gumroad.com/l/rqmqt?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>. Free to everyone, you get emails about new gout facts and FAQs. As well as, lifetime access to additional subscriber content. As at September 2022, I’m adding subscriber content. Along with documentation about the features and benefits of GoutPal Links. I describe this as the `Pre-launch` period. During which, subscribers will get features that I may subsequently move to Member services.
+<ul><li><a href="https://links.goutpal.com/l/wqmwjs?wanted=true&price=0" data-gumroad-single-product="true"">GoutPal Links Subscriber Newsletter</a>. Free to everyone, you get emails about new gout facts and FAQs. As well as, lifetime access to additional subscriber content. As at September 2022, I’m adding subscriber content. Along with documentation about the features and benefits of GoutPal Links. I describe this as the `Pre-launch` period. During which, subscribers will get features that I may subsequently move to Member services.
 This is a no-cost, no-risk opportunity to stay updated with news about all gout and uric acid topics.</li>
 <li>GoutPal Links Member’s Newsletter. This service requires monthly or yearly payment. Because members gain access to premium information and support. I will start to promote this service once the Subscriber tier is complete. GoutPal Links Members will get all the Subscriber benefits. Plus earlier access to new content, more research information, and tools that make all your gout projects easier to manage.</li></ul>
 
@@ -116,7 +116,7 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 <li><b>Easy Gout Comments.</b> Add comments above.</li>
 <li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
 <li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://keithctaylor.gumroad.com/l/rqmqt?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
+<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
 </ol>
 <p>If you are asking a question, it is best to:</p>
 <ol>
