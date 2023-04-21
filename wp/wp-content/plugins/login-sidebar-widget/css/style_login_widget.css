@@ -1,0 +1,115 @@
+.error_wid_login {
+  background-color: #ffffd2;
+  border: 1px solid #e6db55;
+  border-radius: 2px;
+  color: #000;
+  font-weight: 500;
+  padding: 6px 14px 6px 6px;
+  position: relative;
+  width: 100%;
+  border-radius: 5px;
+}
+.success_wid_login {
+  background-color: #ffffd2;
+  border: 1px dashed #e6db55;
+  color: #000;
+  border-radius: 2px;
+  font-weight: 500;
+  padding: 6px 14px 6px 6px;
+  width: 100%;
+  border-radius: 5px;
+}
+.close_button_ap {
+  text-decoration: none !important;
+  border: none !important;
+  color: #000;
+  position: absolute;
+  top: 2px;
+  right: 1px;
+  width: 16px;
+  height: 16px;
+  background-image: url("/wp-content/plugins/login-sidebar-widget/images/close.png");
+  cursor: pointer;
+}
+.captcha {
+  margin: 0px 0px 10px 0px;
+}
+.forgot-pass-form-group {
+  margin: 10px;
+}
+.forgot-pass-form-group label {
+  width: 100%;
+}
+.forgot-pass-form-group input[type="email"] {
+  width: 100%;
+}
+label.error {
+  margin: 0;
+  padding: 0;
+  color: #ff0000;
+  font-weight: 400;
+}
+input.error {
+  border: 1px solid #ff0000 !important;
+}
+
+/* form */
+
+.login-wrap {
+  max-width: 400px;
+  width: 100%;
+  border: 2px solid #f1f1f1;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+.login-wrap .log-form-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-bottom: 10px;
+}
+.log-form-group label {
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.login-wrap input[type="text"],
+.login-wrap input[type="password"] {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding-left: 15px;
+  transition: all 0.3s ease;
+}
+
+.login-wrap input[type="text"]:focus,
+.login-wrap input[type="password"]:focus {
+  border-color: #007bff;
+}
+
+.login-submit input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  height: 45px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin-right: 10px;
+}
+.login-submit input[type="submit"]:hover {
+  text-decoration: none;
+}
+.lw-error {
+  color: #ff0000;
+  margin: 0;
+}
