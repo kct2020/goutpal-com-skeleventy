@@ -21,6 +21,6 @@
     "laravel-mix-purgecss": "6.0.0",
     "postcss": "8.4.23",
     "resolve-url-loader": "5.0.0",
-    "sass-loader": "13.2.2"
+    "sass-loader": "13.3.0"
   }
 }
