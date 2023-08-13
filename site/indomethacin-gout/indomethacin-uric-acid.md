@@ -29,7 +29,7 @@ In 2013, scientists used computer-modeling backed by lab tests to measure the in
 <q cite="https://doi.org/10.1016/j.jfda.2013.07.013">according to our study five most used NSAIDs have been tested for their ability to inhibit xanthine oxidase. All the tested drugs showed important inhibitory effects, especially Indomethacin, which give double beneficial effects in treating gout inflammatory symptoms and inhibit the xanthine oxidase significantly. Depending on these results, we select Indomethacin as effective and proved NSAIDs against gout disease.<a href="#ref2"><sup>[2]</sup></a></q>
 
 <h3 id="best">Indomethacin as the Best Xanthine Oxidase Inhibitor</h3>
-Later, scientists compare indomethacin with products derived from it. Because indomethacin will degrade when exposed to light. So they recommend that indomethacin <q cite="https://doi.org/10.1016/j.mcp.2021.101733">should not be exposed to light during storage to avoid its photodegradation, because its photoproducts exhibit reduced efficacy.<a href="#ref3"><sup>[3]</sup></a></q>
+Later, scientists compared indomethacin with products derived from it. Because indomethacin will degrade when exposed to light. So they recommend that indomethacin <q cite="https://doi.org/10.1016/j.mcp.2021.101733">should not be exposed to light during storage to avoid its photodegradation, because its photoproducts exhibit reduced efficacy.<a href="#ref3"><sup>[3]</sup></a></q>
 
 <h2 id="uric">Indomethacin & Uric Acid Summary</h2>
 Whether we prefer indomethacin for gout seems to depend on the context. But the latest science suggests that it is a strong candidate for the first choice of gout pain treatment. However, we need to see lab results confirmed by clinical trials. Then we will know if indomethacin can help reduce uric acid in human gout sufferers.
@@ -48,7 +48,7 @@ You have learned that indomethacin is a strong candidate for your first choice o
 <li><a href="https://cse.google.com/cse?cof=FORID:0&amp;cx=partner-pub-4857169685716700:9780732506">Search GoutPal</a> for more information about indomethacin &amp; uric acid.</li>
 </ul>
 <hr />
-Leave {{ title }} to browse the <a href="/indomethacin-gout/">Indomethacin & Gout</a> index.
+Leave <em>Why is indomethacin preferred for gout</em> to browse the <a href="/indomethacin-gout/">Indomethacin & Gout</a> index.
 
 <h4 id="refs">Indomethacin & Uric Acid References</h4>
 <ol>
