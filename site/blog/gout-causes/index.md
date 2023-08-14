@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-12-21T08:32:00Z
+revised: 2023-08-14T12:32:00Z
 meta_description: New gout sufferers want to know what is causing their agony. But there are many causes of gout. So which apply to you? Read the list of gout causes.
 sub_heading: Gout has many causes. But what causes your gout?
 title: Gout Causes
@@ -32,9 +33,9 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
-		<tr id="dates">
-			<td><a href="/6525/gout-foods-figs-and-gout/#dates-good">Are Dates Good for Gout?</a></td>
-			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/6525/gout-foods-figs-and-gout/#dates-good">are dates good for gout</a>? Read <a href="/6525/gout-foods-figs-and-gout/#dates">Dates and Gout</a>.</td>
+		<tr id="tom-juice">
+			<td><a href="/low-salt-tomato-juice/2007/07/">Does Tomato Juice Cause Gout?</a></td>
+			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/low-salt-tomato-juice/2007/07/">does tomato juice cause gout</a>? Read <a href="/low-salt-tomato-juice/2007/07/">Is Tomato Juice Good for Gout?</a>.</td>
 		</tr>
         <tr id="ice-cream">
             <td><a href="/blog/is-ice-cream-bad-for-gout/">Is Ice Cream Bad for Gout?</a></td>
@@ -109,34 +110,3 @@ Do you need help with annotations? Or other unanswered questions or unresolved c
 <p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr>
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
