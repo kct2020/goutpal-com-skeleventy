@@ -1,4 +1,6 @@
 ---
+date: 2005-02-21
+revised: 2023-09-27
 layout: home
 eleventyComputed:
   title: "{{ site.name }} Home Page"
@@ -9,10 +11,6 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-<figure class="inner">
-<img src="/images/goutpal-com-welcome.webp" alt="{{ site.name}} Welcome Banner"  width="610" height="377">
-  <figcaption>{{ site.name}} Welcome Banner</figcaption>
-</figure>
 
 ## {{ site.name }} Introduction
 
@@ -22,60 +20,52 @@ Now, I've been free from the pain of gout for several years. But I made a few mi
 
 I believe that the most important first step is to build a good relationship with a suitably qualified health professional. Then you can work together to create treatment plans that work for your unique circumstances. Because gout control has some principles that apply to everyone. But many of the details change from one sufferer to the next.
 
-## GoutPal 2021
+<h2 id="goutprogression">Gout Progression</h2>
+<p>To help you find information that is most relevant to you, I organize GoutPal using 7 phases of gout progression. So you should start with my introduction to <a href="/blog/gout-progression/">Gout Progression Phases</a>. Or go straight to the phase that seems most relevant to you today:
+</p>
+<h3 id="causes">1. Gout Causes</h3>
+<p><img alt="1. Gout Causes" src="/images/1-gout-causes.webp">
+New gout sufferers want to know what is causing their agony. But there are many causes of gout. So which apply to you? Read the list of gout causes. Browse the <a href="/blog/gout-causes/">Gout Causes Phase</a>.</p>
+<h3 id="symptoms">2. Gout Symptoms</h3>
+<p><img alt="2. Gout Symptoms" src="/images/2-gout-symptoms.webp">
+Each gout sufferer shows different symptoms. Maybe affecting the diagnosis and your shared decisions about treatment. So, do you know your gout symptoms? Browse the <a href="/blog/gout-symptoms/">Gout Symptoms Phase</a>.</p>
+<h3 id="pain">3. Gout Pain Relief</h3>
+<p><img alt="3. Gout Pain Relief" src="/images/3-gout-pain-relief.webp">
+Gout recovery takes many months. So you must understand how to stop the agony. Learn about gout pain relief first. Browse the <a href="/blog/gout-pain-relief/">Gout Pain Relief Phase</a>.</p>
+<h3 id="test">4. Uric Acid Test</h3>
+<p><img alt="4. Uric Acid Test" src="/images/4-uric-acid-testing.webp">
+Do you know your gout test results?  Or which test you should take? Learn gout testing now. Because the right uric acid test can help you recover from gout. Browse the <a href="/blog/uric-acid-test/">Uric Acid Test Phase</a>.</p>
+<h3 id="start">5. Start Uric Acid Cure</h3>
+<p><img alt="5. Start Uric Acid Cure" src="/images/5-start-uric-acid-cure.webp">
+It can be a long journey to recover from gout. So the sooner you start, the quicker you're cured. Learn how to start your uric acid cure today. Browse the <a href="/blog/start-uric-acid-cure/">Start Uric Acid Cure Phase</a>.</p>
+<h3 id="adjust">6. Adjust Uric Acid Cure</h3>
+<p><img alt="6. Adjust Uric Acid Cure" src="/images/6-adjust-uric-acid-cure.webp">
+Expect changes during your gout recovery journey. From planned dose adjustments for safe uric acid cure. Or different treatment options due to adverse effects. Browse the <a href="/blog/adjust-uric-acid-cure/">Adjust Uric Acid Cure Phase</a>.</p>
+<h3 id="maintain">7. Maintain Uric Acid Cure</h3>
+<p><img alt="7. Maintain Uric Acid Cure" src="/images/7-maintain-uric-acid-cure.webp">
+Your gout recovery journey has ended. But you still need routine daily maintenance and annual tests. So stay on track to maintain your uric acid cure. Browse the <a href="/blog/maintain-uric-acid-cure/">Maintain Uric Acid Cure Phase</a>.</p>
 
+<h2 id="2021">GoutPal 2021</h2>
 Currently, I am changing the platform for GoutPal. So you will see a mix of old and new styles. But gradually, I will republish old pages in the new style. 
 
-More imporantly, I'm changing my gout forums to focus more on personalizing GoutPal for you. So I recommend you follow the [Your GoutPal links](#next) below.
+Earlier, GoutPal had the following sections:
+1. <a href="/gout-symptoms/">Gout Symptoms, Causes, & Diagnosis</a>
+2. <a href="/gout-treatment/">Gout Treatment, Cures, Remedies & Relief</a>
+3. <a href="/gout-diet/">Gout Diet Including Food, Drink & Lifestyle</a>
+4. <a href="/uric-acid/">Uric Acid Step By Step</a>
+
+But I am moving content from those sections to the Gout Progression Phases listed above. You can also find important gout and uric acid information on the following pages:
 
 <h4 id="blog">Latest Gout Blog</h4><p>For the latest gouty arthritis facts, see the <a href="/blog">{{ site.blog }}</a>.</p>
 <h4 id="old">2020 Gout Blog</h4><p>For earlier gout news see <a href="/gout-blog/">GoutPal 2020 Blog</a>.</p>
 <h4 id="home">2020 GoutPal Home Page</h4><p>For the previous version of this page see <a href="/goutpal-com-2020.html">2020 home page</a>.</p>
-<h4 id="archive">GoutPal Archives</h4><p>See how GoutPal has changed since 2005 in the <a href="https://web.archive.org/web/20050221104806/http://www.goutpal.com/">GoutPal Archives</a>.</p>
 <h4 id="search">GoutPal Search Engine</h4><p>This is the easiest way for you to answer any gout question. Just type your question or concern into the <a href="{{ site.searchurl }}">{{ site.searchname }}</a>.</p>
 
 <h2 id="next">Your GoutPal</h2>
 
-I'm happy with my own gout control now. So I'm focused on making GoutPal the best place to help you. But to do that, I need your feedback.
+Throughout GoutPal, you will see highlights like this that provide extra information. And act as examples of how you can add your own notes to help you manage your gout recovery plan
 
-This page is under review at <a href="https://keithctaylor.gumroad.com/l/mkpxbm?a=888958067">GoutPal User Documentation Project</a>. So you should join that project if you want access to:
-- Content improvements prior to publication
-- Research materials
-- Additional project notes, links, and files
-
-Also, you can contribute to the research team if you wish. However, you can still have your say in the feedback section below. Because it is your questions, experiences, and opinions that drive GoutPal to be a better resource for all gout sufferers.
+I'm happy with my own gout control now. So I'm focused on making GoutPal the best place to help you. But to do that, I need <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">your feedback</a>.
 
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments here. Or see more feedback options below.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
-<p>Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments above.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>

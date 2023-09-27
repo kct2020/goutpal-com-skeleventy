@@ -42,42 +42,11 @@ So we really need clinical trials with gout sufferers for more information. Beca
 <h2 id="next">Balsamic Vinegar and Your Gout</h2>
 You have learned that balsamic vinegar is probably good for gout. But we require more research to be certain. So discuss balsamic vinegar with your doctor to agree what is a reasonable amount to consume in your circumstances.  Also, consider additional gout-friendly ingredients in your <a href="/2519/dressed-up-food-good-for-gout/">salad dressing for gout</a>. Such as ground garlic and garlic vinegar.
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as `balsamic vinegar and gout` to learn more.
 <hr />
 Leave {{ title }} to browse more <a href="/blog/gout-and-vinegar/">Gout and Vinegar</a> articles. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it&#8217;s best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <h2 id="related">Balsamic Vinegar and Gout Related Topics</h2>
 <p>Please remember: to find more related pages that are relevant to you, it's usually faster to <a href="https://cse.google.com/cse?cof=FORID:0&amp;cx=partner-pub-4857169685716700:9780732506#gsc.tab=0" target="_blank">search for your biggest vinegar concern</a>.<br>

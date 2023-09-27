@@ -46,7 +46,7 @@ If you are driving those decision-making processes, I recommend you join my <a h
 
 Otherwise, you can add notes about what you've learned about {{ topic }} so far to start your own project.
 
-All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep {{ topic }} notes linked here where you can always find them. For help with annotations, see <a href="https://keithctaylor.gumroad.com/l/mkpxbm?a=888958067">GoutPal User Documentation Project</a>.
+All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep {{ topic }} notes linked here where you can always find them. For help with annotations, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 <hr>
 Leave Is Ice Cream Bad for Gout to return to your current phase index:
 * <a href="https://goutpal.com/blog/gout-causes/">Gout Progression Phase 1: Gout Causes</a>
@@ -54,34 +54,3 @@ Leave Is Ice Cream Bad for Gout to return to your current phase index:
 * <a href="https://goutpal.com/blog/gout-pain-relief/">Gout Progression Phase 3: Gout Pain Relief</a>
 * <a href="https://goutpal.com/blog/start-uric-acid-cure/">Gout Progression Phase 5: Start Uric Acid Cure</a>
 * <a href="https://goutpal.com/blog/adjust-uric-acid-cure/">Gout Progression Phase 6: Adjust Uric Acid Cure</a>
-<h2 id="comments">Is Ice Cream Bad for Gout Comments</h2>
-<p>Please add your comments here. Or see more feedback options below.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
-<p>Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments above.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>

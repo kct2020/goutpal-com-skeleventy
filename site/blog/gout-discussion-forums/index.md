@@ -45,7 +45,7 @@ Note that these are references to using (or how to use) different gout forums. R
 - Send Your Gout Pictures. Part of "Gout Issues" - may need guidance notes.
 - Gout Research. See <a href="#research">Gout Research Introduction</a> below.
 - Gout Forum Guidelines. Forum is now Discussions and Issues. So I need feedback from users on what guidance they need.
-- Forum Contact. To be replaced by a new version based on <a href="https://keith-taylor.pages.dev/contact-keith-taylor/">Contact Keith Taylor</a>. That version will be customized towards gout. But I need to improve my main contact page first. In the meantime, see <a href="#discussions">Gout Discussions and Issues</a> below. More importantly, if you have any problems contacting me, please explain in <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/11">GoutPal Contact Page Issues</a>.
+- Forum Contact. Now, simply <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 <h2 id="research">Gout Research Introduction</h2>
 
@@ -57,14 +57,7 @@ I am preparing new guidance notes for your personal gout research projects. Star
 
 <h2 id="discussions">Gout Discussions and Issues</h2>
 
-I've always regarded the forum as a place for gout sufferers to improve GoutPal information for the benefit of others. So I've had lots of success over the years with forum regulars who have contributed ways they have worked with their doctors for improved gout treatment. But I've also seen lots of gouty opinions. Which might be interesting, but they don't really help improve advice for gout patients. Therefore, I've split the gout forum into Issues and discussions.
-
-<a href="{{ site.social_links.GitHub }}issues">Gout Issues</a> are for:
-- Changes to a specific GoutPal page.
-- Missing information that should be on a GoutPal page.
-- Help with your personal gout project. Which should, wherever possible, refer to relevant GoutPal page(s).
-
-<a href="{{ site.social_links.GitHub }}discussions">Gout Discussions</a> are for any other experiences and opinions about gout.
+I've always regarded the forum as a place for gout sufferers to improve GoutPal information for the benefit of others. So I've had lots of success over the years with forum regulars who have contributed ways they have worked with their doctors for improved gout treatment. Now, I'm evolving new support services. But it all starts <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">in the Gout Forum</a>.
 
 <figure id="image" class="inner">
 <img src="/images/gout-forum-discussion.webp" alt="{{ image_alt }}"  width="610" height="377">
@@ -73,49 +66,10 @@ I've always regarded the forum as a place for gout sufferers to improve GoutPal 
 
 <h2 id="next">Your Gout Discussion Forums</h2>
 
-You have learned how GoutPal's Gout Forums are changing to issues and discussions. So here is how you can share your thoughts.
-
-This page is under review at <a href="https://keithctaylor.gumroad.com/l/mkpxbm?a=888958067">GoutPal User Documentation Project</a>. So you should join that project if you want access to:
-- Content improvements prior to publication
-- Research materials
-- Additional project notes, links, and files
-
-Also, you can contribute to the research team if you wish. However, you can still have your say in the feedback section below. Because it is your questions, experiences, and opinions that drive GoutPal to be a better resource for all gout sufferers.
+You have learned how GoutPal's Gout Forums are constantly evolving. So <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments here. Or see more feedback options below.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
-<p>Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments above.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>

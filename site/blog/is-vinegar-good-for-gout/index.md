@@ -33,41 +33,10 @@ tags:
 
 Vinegar is unlikely to affect your gout. Unless you're taking concentrated extracts. In which case, you should seek medical advice to check your compatibility and monitor any side effects.
 
-Please tell me your {{ topic }} story below.
+Please tell me your {{ topic }} story <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">in the Gout Forum</a>.
 
 <hr>
 Leave Is Vinegar Good for Gout to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">Is Vinegar Good for Gout Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li>Add comments below.</li>
-<li>Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li>Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <h2 id="related">Vinegar & Uric Acid Related Topics</h2>
 <p>Please remember: to find more related pages that are relevant to you, it's usually faster to <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506#gsc.tab=0">search for your biggest {{topic}} concern</a>.<br>

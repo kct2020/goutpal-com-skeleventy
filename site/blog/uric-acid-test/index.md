@@ -87,38 +87,7 @@ I'm working on templates that help you identify and understand {{ topic }} proce
 
 All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
 
-Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please tell me below. Or, if you prefer to use email, then subscribe to my free newsletter:
+Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>. Or, if you prefer to use email, then subscribe to my free newsletter:
 <hr><a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
 <p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr>
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+Leave {{ title }} to return to the <a href="/blog/gout-progression/">Gout Progression Phases Index</a>.

@@ -49,49 +49,10 @@ tags:
 
 Now you know why I provide this gout support website. But does it help with your reasons for visiting today?
 
-If not, please tell me your gout story below. Then I will see if I can adapt the purpose of GoutPal.com to better suit your needs.
-
-This page is under review at <a href="https://keithctaylor.gumroad.com/l/mkpxbm?a=888958067">GoutPal User Documentation Project</a>. So you should join that project if you want access to:
-- Content improvements prior to publication
-- Research materials
-- Additional project notes, links, and files
-
-Also, you can contribute to the research team if you wish. However, you can still have your say in the feedback section below. Because it is your questions, experiences, and opinions that drive GoutPal to be a better resource for all gout sufferers.
+If not, please tell me your gout story <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">in the Gout Forum</a>. Then I will see if I can adapt the purpose of GoutPal.com to better suit your needs.
 
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments here. Or see more feedback options below.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
-<p>Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments above.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-<li><b>Versatile Gout Annotations.</b> Annotations allow you to personalize GoutPal pages to help you learn. But they also work as a feedback option. Especially if you use the Public Group, the GoutPal Links Subscriber Group, or a GoutPal Project Group. For more information, I recommend that you <a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">subscribe to my free newsletter</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>

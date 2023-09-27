@@ -189,40 +189,9 @@ Many other foods contain lower amounts of beta-carotene. So I plan to create lis
 <h2 id="next">Beta-Carotene Foods for Your Gout</h2>
 You can use this list to identify beta-carotene rich foods that you like. Then click the food link. Or <a href="{{ site.searchurl }}">search for your favorite beta-carotene foods</a> to read more information.
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li>Add comments below.</li>
-<li>Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li>Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
