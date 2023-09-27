@@ -1,4 +1,6 @@
 ---
+date: 2005-02-21
+revised: 2023-09-27
 layout: home
 eleventyComputed:
   title: "{{ site.name }} Home Page"
