@@ -43,42 +43,13 @@ Like many foods, you can see there is little evidence to say if buttermilk shoul
 
 As a GoutPal Dieter, you should be aware of the pros and cons of self-experimenting for uric acid levels. Because on the positive side, you get results that are most relevant to you. But on the negative side, you must commit yourself to severe self-regulation. So if you're disciplined, see how to test buttermilk in my <a href="/blog/personal-gout-food-research/">Personal Gout Food Research</a> guide.
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#comments">comments section</a> below.
+If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.
 
 Be aware that you can customize GoutPal pages to add your own facts and concerns. Click any highlight, such as '{{ topic }}' to learn more.
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog/milk-for-gout/">Milk for Gout</a> section. Or return to your <a href="/9601/goutpal-plan-for-gout-dieters/">GoutPal Plan for Gout Dieters</a>.
-<h2 id="comments">{{ title }} Comments</h2>
-<p>Please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+
 <h4 id="refs">{{ title }} References</h4>
 <ol>
 	<li id="ref1">US Department of Health and Human Services, 2019. US Department of Agriculture. 2015–2020 dietary guidelines for Americans. December 2015.</li>

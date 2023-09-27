@@ -91,38 +91,6 @@ These are common concerns about allopurinol side effects that other gout suffere
 <h2 id="next">Your {{ title }}</h2>
 Look to see if your specific concern about allopurinol side effects is listed above. If not, <a href="{{ site.searchurl }}">search for it</a>.
 
-If you think I've missed anything about allopurinol side effects, please see the <a href="#feedback">feedback section</a> below.
+If you think I've missed anything about allopurinol side effects, please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">tell me in the Gout Forum</a>.
 <hr />
 Leave {{ title }} to browse the <a href="/allopurinol/">Allopurinol</a> Section.
-
-<h2 id="comments">{{ title }} Comments</h2>
-
-Your feedback helps me prioritize adding more allopurinol side effects articles. In particular, I'd love to know if you want extra articles in this allopurinol side effects list. But I also need to know about anything you would change to make this page more useful. So, please add your comments below.<br />
-Your feedback options are:</p>
-<ol>
-<li><b>Easy Gout Comments.</b> Add comments below.</li>
-<li><b>Focused Gout Concerns.</b> Create a <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/new/choose">new issue</a> about any gout concern that you want to resolve. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">join an existing issue</a>.</li>
-<li><b>General Gout Chat.</b> Start a <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions/new">new discussion</a> about any gout topic that interests you. Or <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">join an existing discussion</a>.</li>
-</ol>
-<p>If you are asking a question, it is best to:</p>
-<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cof=FORID:0&cx=partner-pub-4857169685716700:9780732506">the GoutPal Search Engine</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
-<script src="https://giscus.app/client.js"
-        data-repo="kct2020/goutpal-com-skeleventy"
-        data-repo-id="R_kgDOGVSRQQ"
-        data-category="GoutPal Links Comments🗣"
-        data-category-id="DIC_kwDOGVSRQc4CRbFp"
-        data-mapping="title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="light_tritanopia"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
