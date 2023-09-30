@@ -140,6 +140,10 @@ tags:
 <tr valign="top">
 </tr>
 </table>
+<figure id="image" class="inner" property="associatedMedia" typeof="ImageObject">
+<img src="{{ post_image }}" alt="{{ image_alt }}" width="610" height="377" property="contentURL">
+  <figcaption property="caption">{{ image_alt }}</figcaption>
+</figure>
 <h2 id="next">Next Gout Treatment Steps</h2>
 <p>Now you see that there is a wide range of gout treatments available, you need to plan what to do next.</p>
 <p>If you are new to gout, you and your doctor will focus mainly on pain relief. Make sure you are aware of your options. Then, work with your doctor to see which is best for you. Sometimes combination therapies are most effective.</p>
