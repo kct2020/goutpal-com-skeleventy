@@ -1,8 +1,8 @@
 ---
 
 layout: post
-date: 2009-12-01T00:00:00Z
-revised: 2023-09-30T00:00:00Z
+date: 2009-12-01
+revised: 2023-09-30
 meta_description: Gout treatment is easy! But only when you choose the right combination. See all gout treatments available. Then get the right gout treatment for you.
 title: Gout Treatment, Cures, Remedies, and Relief
 image_alt: Which Is Your Gout Treatment?
@@ -13,14 +13,14 @@ tags:
 - blog
 ---
 <div vocab="https://schema.org/">
-    <sup><ul>
-        <li typeof="breadcrumb"><a property="url" href="/">⌂<span property="title">Home</span></a></li>
-        <li typeof="breadcrumb"><a property="url" href="/gout-treatment">⚕<span property="title">Treatment</span></a></li>
+    <sup><ul typeof="BreadcrumbList">
+        <li typeof="ListItem"><a property="url" href="/">⌂<span property="title">Home</span></a></li>
+        <li typeof="ListItem"><a property="url" href="/gout-treatment">&nbsp;»⚕<span property="title">Treatment</span></a></li>
     </ul></sup>
     <article vocab="https://schema.org/" typeof="BlogPosting">
         <header>
-            <h1 property="headline">{{ title }}</h1>
-            <p>🕖Latest Change: <time property="dateModified" datetime="2023-09-30">September 30, 2023</time> 🐣Hatched: <time property="datePublished" datetime="2009-12-01">December 1, 2009</time></p>
+            <h2 property="headline">{{ title }}</h2>
+            <sup>🕖Latest Change: <time property="dateModified" datetime="2023-09-30">September 30, 2023</time> 🐣Hatched: <time property="datePublished" datetime="2009-12-01">December 1, 2009</time> by <span property="author" typeof="Person"><a href="{{ site.author.url }}" property="url"><span property="name">{{ site.author.name }}</span></a></span></sup>
         </header>
 <p>Gout treatment is easy!</p>
 <p>All you have to do is lower uric acid to safe levels. And, take gout pain relief until most of your old uric acid crystals have dissolved.</p>
@@ -74,7 +74,7 @@ tags:
 <p>The length of time to fix your gout will depend on how long you have had it. And, how effectively you manage the treatment. So, all gout sufferers should be completely free of gout symptoms in six to twelve months. Unless there are other health complications,</p>
 <p>Do not simply rely on your doctor&#8217;s advice. Or, the instructions for a natural gout remedy. Because you have to take control by learning how to assess your current situation. And, how to set targets for managing your plan towards becoming gout free. I cover details of how to do this in the Understanding Gout Section. This Gout Treatment Section is to describe all the different gout medications and other remedies for gout so that you can choose a package of treatments that suit you.</p>
 <h2 id="types">Types Of Gout Treatment</h2>
-<p><figure id="attachment_9887" aria-describedby="caption-attachment-9887" style="width: 852px" class="wp-caption aligncenter"><a href="/gout-treatment/which-is-your-gout-treatment-image/" rel="attachment wp-att-9887"><img loading="lazy" src="/wp-content/uploads/2013/01/which-is-your-gout-treatment-image.jpg" alt="Which Is Your Gout Treatment image" width="852" height="852" class="size-full wp-image-9887" srcset="/wp-content/uploads/2013/01/which-is-your-gout-treatment-image.jpg 852w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-150x150.jpg 150w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-300x300.jpg 300w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-768x768.jpg 768w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-700x700.jpg 700w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-600x600.jpg 600w, /wp-content/uploads/2013/01/which-is-your-gout-treatment-image-800x800.jpg 800w" sizes="(max-width: 852px) 100vw, 852px"></a><figcaption id="caption-attachment-9887" class="wp-caption-text">Which type of gout treatment for you?</figcaption></figure>Your gout management plan can include selected drug therapies, natural gout cures, and lifestyle changes, or a combination. I deal with lifestyle changes in the Gout Diet section. When considering non-medical remedies, there is some overlap between diet and certain foods that have been attributed with healing properties. In these cases I will cover nutritional properties in the Gout Diet section, and healing properties here.</p>
+<p>Your gout management plan can include selected drug therapies, natural gout cures, and lifestyle changes, or a combination. I deal with lifestyle changes in the Gout Diet section. When considering non-medical remedies, there is some overlap between diet and certain foods that have been attributed with healing properties. In these cases I will cover nutritional properties in the Gout Diet section, and healing properties here.</p>
 <p>In most cases, gout medications have a specific role. And, I have classified them accordingly. So, you can select a treatment to lower uric acid. Then, perhaps, add pain relief treatment. Because you still gout flare risks during the early stages of urate-lowering therapy.</p>
 <p>Natural and other alternative treatments are less specific. So, this makes them more difficult to manage. Because results are less predictable. Also, results vary widely among people. Nevertheless, you must still manage uric acid first. However, many natural treatments, have not been assessed for uric acid lowering properties. Despite, strong anecdotal evidence that they help gout sufferers. In this regard, you must look to your own test results.</p>
 <p>I explain gout medications and natural products or techniques that can be used to treat gout. I have divided them according to how they affect the Gout Pain Pathway.</p>
@@ -140,9 +140,9 @@ tags:
 <tr valign="top">
 </tr>
 </table>
-<figure id="image" class="inner" property="associatedMedia" typeof="ImageObject">
-<img src="{{ post_image }}" alt="{{ image_alt }}" width="610" height="377" property="contentURL">
-  <figcaption property="caption">{{ image_alt }}</figcaption>
+<figure id="image" class="inner">
+<img src="{{ post_image }}" alt="{{ image_alt }}" width="610" height="377" property="image">
+  <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">Next Gout Treatment Steps</h2>
 <p>Now you see that there is a wide range of gout treatments available, you need to plan what to do next.</p>
