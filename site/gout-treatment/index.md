@@ -14,8 +14,8 @@ tags:
 ---
 <div vocab="https://schema.org/">
     <sup><ul typeof="BreadcrumbList">
-        <li typeof="ListItem"><a property="url" href="/">⌂<span property="title">Home</span></a></li>
-        <li typeof="ListItem"><a property="url" href="/gout-treatment">&nbsp;»⚕<span property="title">Treatment</span></a></li>
+        <li style="display:inline" property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://goutpal.com/">⌂<span property="name">Home</span></a><meta property="position" content="1"></li>
+        <li style="display:inline" property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://goutpal.com/gout-treatment">&nbsp;»⚕<span property="name">Treatment</span></a><meta property="position" content="2"></li>
     </ul></sup>
     <article vocab="https://schema.org/" typeof="BlogPosting">
         <header>
