@@ -32,7 +32,7 @@ Before that, let's consider the overall context of bread in your gout diet.
 <ul>
 <li><a href="/blog/does-bread-cause-gout/">Does Bread Cause Gout?</a>. How your concerns about bread change as your gout progresses through different phases.</li>
 <li><a href="/blog/gout-bread/">Gout &amp; Bread Facts</a>. Scientific analysis of the links between uric acid, bread, and gout.</li>
-<li><a href="/what-bread-is-good-for-gout">What Bread Is Good For Gout?</a>. Common concerns, questions, and experiences of gout sufferers with respect to bread.</li>
+<li><a href="/blog/what-bread-is-good-for-gout">What Bread Is Good For Gout?</a>. Common concerns, questions, and experiences of gout sufferers with respect to bread.</li>
 </ul>
 <figure id="image" class="inner">
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
