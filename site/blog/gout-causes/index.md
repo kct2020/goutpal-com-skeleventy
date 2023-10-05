@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-21T08:32:00Z
-revised: 2023-08-14T12:32:00Z
+date: 2022-12-21
+revised: 2023-10-05
 meta_description: New gout sufferers want to know what is causing their agony. But there are many causes of gout. So which apply to you? Read the list of gout causes.
 sub_heading: Gout has many causes. But what causes your gout?
 title: Gout Causes
@@ -33,6 +33,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+		<tr id="rye">
+			<td><a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#rye">Rye Bread and Gout</a></td>
+			<td>Does rye bread cause gout? A newly diagnosed gout patient wonders if she will recover if she changes her rye bread consumption. Read about <a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#rye">rye bread and gout</a>.</td>
+		</tr>
 		<tr id="tom-juice">
 			<td><a href="/low-salt-tomato-juice/2007/07/">Does Tomato Juice Cause Gout?</a></td>
 			<td>With low purines and high fiber, dates should be good for gout. So, what are the downsides? And what is the best answer to <a href="/low-salt-tomato-juice/2007/07/">does tomato juice cause gout</a>? Read <a href="/low-salt-tomato-juice/2007/07/">Is Tomato Juice Good for Gout?</a>.</td>
