@@ -12,15 +12,15 @@ tags:
 - bread
 ---
 <h2 id="intro">Does Bread Cause Gout?</h2>
-<p>Gout diagnosis is often a shock to patients. And they start to question everything about their lives. So, let's deal with the common gout concern: does bread cause gout?</p>
-<p>In order to deal with this question, I need to put it into some kind of framework. Because you might have hundreds of concerns. Many, like this, are about food. While others are about completely different aspects of gout. So I organize gout concerns about bread into a logical progression. Then you can decide which phase of your own gout progression is causing you most concern.</p>
-<p>Once you identify your gout progression phase, you can resolve your immediate concerns. Then move onto your next phase. Which prevents you from getting overwhelmed, trying to deal with too many problems at the same time.</p>
+<p>A gout diagnosis is often a shock to patients. And they start to question everything about their lives. So, let's deal with the common gout concern: does bread cause gout?</p>
+<p>In order to deal with this question, I need to put it into some kind of framework. Because you might have hundreds of concerns. Many, like this, are about food. While others are about completely different aspects of gout. So I organize gout concerns about bread into a logical progression. Then you can decide which phase of your own gout progression is causing you the most concern.</p>
+<p>Once you identify your gout progression phase, you can resolve your immediate concerns. Then move onto your next phase. Which prevents you from getting overwhelmed by trying to deal with too many problems at the same time.</p>
 <h2 id="progression">Gout Progression For Bread</h2>
 <p>Bread concerns occur in four of the seven gout progression phases. So to identify your current gout progression phase, select the phase that concerns you most. </p>
 <h3 id="1causes">1. Gout Causes</h3>
 <p>You are in the gout causes phase if you believe or suspect that you have gout because you eat bread.</p>
 <h3 id="3pain">3. Gout Pain Relief</h3>
-<p>You are in the gout pain relief phase if you believe or suspect that eating bread cause a gout flare. Or if you believe or suspect that eating bread relieves gout pain.</p>
+<p>You are in the gout pain relief phase if you believe or suspect that eating bread causes a gout flare. Or if you believe or suspect that eating bread relieves gout pain.</p>
 <p>I have not researched bread and inflammation. So if you are concerned about gout as a trigger or treatment for gout flares, ask in the Gout Forum. Because I might be able to find information for you. But you should also consult your doctor.</p>
 <h3 id="5start">5. Start Uric Acid Cure</h3>
 <p>You are in the fifth phase if you believe or suspect that eating bread changes your uric acid level.</p>
@@ -45,4 +45,4 @@ tags:
 <p>In the first case, you should read <a href="/blog/gout-bread/">Gout &amp; Bread Facts</a>. Otherwise, start reading <a href="what-bread-is-good-for-gout">What Bread Is Good For Gout</a>. But if you're not sure what to read next, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067" target="_blank">ask in the Gout Forum</a>.</p>
 <p>Leave Does Bread Cause Gout to browse the <a href="/blog/bread-and-gout/">Bread and Gout Index</a>. Or browse <a href="/blog/gout-progression/">Gout Progression Phases</a>.</p>
 <h4 id="featuredimage">Does Bread Cause Gout Featured Image</h4>
-<p>I derived this work from a section from the 1799 cartoon The Gout, by James Gillray. (Photograph: Lordprice Collection/Alamy) superimposed on <a href="https://www.flickr.com/photos/utahwildflowers/4866881190" target="_blank">Crab Bread by utahwildflowers</a> wrapped in my GoutPal logo and image title/caption.</p>
+<p>I derived this work from a section of the 1799 cartoon The Gout, by James Gillray. (Photograph: Lordprice Collection/Alamy) superimposed on <a href="https://www.flickr.com/photos/utahwildflowers/4866881190" target="_blank">Crab Bread by utahwildflowers</a> wrapped in my GoutPal logo and image title/caption.</p>

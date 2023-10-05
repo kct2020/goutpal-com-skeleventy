@@ -11,8 +11,8 @@ tags:
 - blog
 - bread
 ---
-<p>In order to understand how bread affects gout, we need to look at scientific studies. Unfortunately, there are not many studies specifically about gout &amp; bread. But we can also look at common ingredients of bread.</p>
-<p>First, note that bread is not mentioned in the rheumatologist guidelines. So there are no recommendations for or against bread consumption by gout patients. Therefore, bread is one of the many aspects of gout that need to be managed by patient and physician working in partnership.</p>
+<p>In order to understand how bread affects gout, we need to look at scientific studies. Unfortunately, there are not many studies specifically about gout &amp; bread. But we can also look at common ingredients in bread.</p>
+<p>First, note that bread is not mentioned in the rheumatologist's guidelines. So there are no recommendations for or against bread consumption by gout patients. Therefore, bread is one of the many aspects of gout that need to be managed by patient and physician working in partnership.</p>
 <p>To help you play your part in that partnership, I have gathered many facts about gout &amp; bread. In my list below, I include the most appropriate gout progression phase. So that you can focus on the gout &amp; bread facts that are most relevant to you today.</p>
 <p>For other aspects of bread consumption for gout sufferers, follow the link to my bread and gout section at the end of this article.</p>
 <h2 id="bread">Gout &amp; Bread</h2>
@@ -33,7 +33,7 @@ tags:
         </tr>
         <tr id="wheat">
             <td><a href="/11125/vitamin-b-for-gout-herbalists/#wheat">Wheat Bread &amp; Uric Acid</a></td>
-            <td>Bread is a common source of vitamin B6 in gout diets. But what is the effect on uric acid? Is bread the best source of vitamin B6 for gout sufferers? Read about <a href="/11125/vitamin-b-for-gout-herbalists/#wheat">wheat bread &amp; uric acid</a></td>
+            <td>Bread is a common source of vitamin B6 in gout diets. But what is its effect on uric acid? Is bread the best source of vitamin B6 for gout sufferers? Read about <a href="/11125/vitamin-b-for-gout-herbalists/#wheat">wheat bread &amp; uric acid</a>.</td>
             <td>6. Adjust Uric Acid Cure</td>
         </tr>
         <tr id="research">
@@ -50,7 +50,7 @@ tags:
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">Gout &amp; Your Bread</h2>
-<p>Now, you can start to collect studies that help you and your doctor manage your bread consumption. So I recommend that you create a list of these studies using the annotation features on this page. Also, think about other food items that you regularly eat with bread. Then search GoutPal for facts about those foods and add relevant studies to your list.</p>
+<p>Now, you can start collecting studies that help you and your doctor manage your bread consumption. So I recommend that you create a list of these studies using the annotation features on this page. Also, think about other food items that you regularly eat with bread. Then search GoutPal for facts about those foods and add relevant studies to your list.</p>
 <p>If you can't find facts about your foods, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067" target="_blank">ask in the Gout Forum</a>.</p>
 <hr>
 Leave Gout & Bread to browse the <a href="/blog/bread-and-gout/">Bread and Gout</a> pages.
