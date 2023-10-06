@@ -1,5 +1,6 @@
 ---
-date: 2021-12-05T00:00:00Z
+date: 2021-12-05
+revised: 2023-10-06
 meta_description: Gout patients must understand their treatment choices. What if you don't understand your doctor's advice? Discuss with fellow sufferers.
 title: Gout Discussions Forum
 image_alt: Discussing a gout plan
@@ -29,8 +30,6 @@ I should point out that I recently started to remodel the old forum as my story 
 
 - <a href="/gout-pal-forum/">GoutPal's Original Gout Forum</a>. A traditional form of online forum posts. Presented in a date-sequenced list.
 - <a href="/gout-news/">Gout Discussions and Summaries</a>. A collection of articles by myself and other gout sufferers. Including many with extensive discussion about important gout concerns.
-
-For completeness, here is a link to the <a href="/keiths-gout-story-2020.html">original gout forum home page</a>.
 
 <h2 id="using">Using The Gout Forum</h2>
 
