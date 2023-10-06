@@ -1,7 +1,8 @@
 ---
 
 layout: post
-date: 2022-02-14T00:00:00Z
+date: 2022-02-14
+revised: 2023-10-06
 meta_description: Allopurinol is the first-line treatment to permanently control gout. So all gout sufferers must understand how to take it safely and effectively. You must also understand how these principles apply to all alternative uric acid therapies.
 title: Allopurinol Section
 image_alt: Allopurinol Facts and Concerns
@@ -83,6 +84,10 @@ These are common concerns about allopurinol that other gout sufferers have ident
 		</tr>
 	</thead>
 	<tbody style="vertical-align:top;">
+		<tr id="natural">
+			<td><a href="/forums/topic/alternative-to-allopurinol/">What is a Natural Alternative to Allopurinol?</a></td>
+			<td><p>Experiences and opinions about natural alternatives to allopurinol from other gout patients. See how other patients plan uric acid cures with their doctors at <a href="/forums/topic/alternative-to-allopurinol/">natural alternative to allopurinol</a>.</p></td>
+		</tr>
 		<tr id="kidney">
 			<td><a href="/888/allopurinol-tablets-kidney-disease/">Does Allopurinol Affect the Kidneys?</a></td>
 			<td>Allopurinol tablets are a must for gout. But what if you also have kidney problems? See if taking allopurinol pills can help if you also have kidney disease.</td>
