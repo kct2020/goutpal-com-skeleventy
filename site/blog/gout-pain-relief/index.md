@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-12-24T09:06:00Z
+date: 2022-12-24
+revised: 2023-10-07
 meta_description: Gout recovery takes many months. So you must understand how to stop the agony. Learn about gout pain relief first.
 sub_heading: Gout recovery takes time. So make sure you know how to stop the pain.
 title: Gout Pain Relief
@@ -27,6 +28,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="swelling">
+            <td><a href="/forums/topic/gout-gone-swelling-persists/">If Your Gout Swelling Won't Go Away</a></td>
+            <td>Once a gout flare stops, swelling usually subsides in a few hours. But what if it persists? See other gout sufferers experiences and learn how to approach your doctor. Read <a href="/forums/topic/gout-gone-swelling-persists/">gout swelling won't go away</a>.</td>
+        </tr>
         <tr id="prednisone">
             <td><a href="/gout-resources/patient/55-pharma/prednisone-and-gout/">Prednisone for Gout Attacks</a></td>
             <td>Gout is extremely painful and prednisone can be a fast way to stop joint pain. But will you get long-term side effects? Get facts about prednisone and gout. Read <a href="/gout-resources/patient/55-pharma/prednisone-and-gout/">prednisone for gout attacks</a>.</td>
