@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-12-28T08:51:00Z
+date: 2022-12-28
+revised: 2023-10-07
 meta_description: It can be a long journey to recover from gout. So the sooner you start, the quicker you're cured. Learn how to start your uric acid cure today.
 sub_heading: Begin your journey to gout freedom. Start your uric acid cure.
 title: Start Uric Acid Cure
@@ -24,6 +25,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="quorn">
+            <td><a href="https://goutpal.info/blog/quorn-and-gout-research/">Quorn and Gout</a></td>
+            <td>Are you considering switching from animal to meatless protein to support your uric acid cure? Get the latest facts to discuss with your doctors. Read the <a href="https://goutpal.info/blog/quorn-and-gout-research/">Quorn and gout research</a> now.</td>
+        </tr>
         <tr id="start">
             <td><a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/">Starting Allopurinol</a></td>
             <td>Starting allopurinol is quite simple. But many doctors get it wrong. Wrong allopurinol dose makes your gout worse. Get safe allopurinol dosing guidelines now. Read <a href="/gout-treatment/avoid-gout/allopurinol/allopurinol-dosing/">starting allopurinol</a>.</td>
