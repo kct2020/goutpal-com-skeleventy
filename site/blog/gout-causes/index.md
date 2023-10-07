@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-21
-revised: 2023-10-05
+revised: 2023-10-07
 meta_description: New gout sufferers want to know what is causing their agony. But there are many causes of gout. So which apply to you? Read the list of gout causes.
 sub_heading: Gout has many causes. But what causes your gout?
 title: Gout Causes
@@ -33,6 +33,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="quorn">
+            <td><a href="/gout-pal-forum/please-help-my-gout/quorn-gout-trigger/">Does Quorn Cause Gout?</a></td>
+            <td>Switching from meat protein usually helps to prevent gout. But what about meat substitutes? Read <a href="/gout-pal-forum/please-help-my-gout/quorn-gout-trigger/">is Quorn good for gout</a>.</td>
+        </tr>
 		<tr id="rye">
 			<td><a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#rye">Rye Bread and Gout</a></td>
 			<td>Does rye bread cause gout? A newly diagnosed gout patient wonders if she will recover if she changes her rye bread consumption. Read about <a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#rye">rye bread and gout</a>.</td>

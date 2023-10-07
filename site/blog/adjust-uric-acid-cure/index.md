@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-29
-revised: 2023-10-05
+revised: 2023-10-07
 meta_description: Expect changes during your gout recovery journey. From planned dose adjustments for safe uric acid cure. Or different treatment options due to adverse effects.
 sub_heading: Move up the gears with higher uric acid cure doses. Or switch tracks to avoid adverse effects.
 title: Adjust Uric Acid Cure
@@ -31,6 +31,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="quorn">
+            <td><a href="/forums/topic/quorn/">Is Quorn Bad for Gout?</a></td>
+            <td>Many gout patients change from meat to meatless protein. Usually to support allopurinol or other uric acid treatment. In this discussion, you can follow other people's experiences. Then follow links to the latest research. So read <a href="/forums/topic/quorn/">is Quorn bad for gout</a>.</td>
+        </tr>
         <tr id="rye">
             <td><a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#bad">How to Dissolve Gout Crystals</a></td>
             <td>Gout patients often change their diet during uric acid treatment, Because some foods will increase the effects of allopurinol. So does this also apply to rye bread? Read <a href="/gout-resources/dieter/80-intro/alkaline-gout-diets/#bad">is rye bread bad for gout</a>.</td>
