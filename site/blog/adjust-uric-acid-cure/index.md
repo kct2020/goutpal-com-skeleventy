@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-29
-revised: 2023-10-07
+revised: 2023-10-08
 meta_description: Expect changes during your gout recovery journey. From planned dose adjustments for safe uric acid cure. Or different treatment options due to adverse effects.
 sub_heading: Move up the gears with higher uric acid cure doses. Or switch tracks to avoid adverse effects.
 title: Adjust Uric Acid Cure
@@ -31,6 +31,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="elderberry">
+            <td><a href="/gout-pal-forum/please-help-my-gout/elderberry/">Is Elderberry Good for Gout?</a></td>
+            <td>Elderberries are commonly used in pies, jelly, syrups, and wine. But how are they as a uric acid cure? Read <a href="/gout-pal-forum/please-help-my-gout/elderberry/">is elderberry good for gout</a> now.</td>
+        </tr>
         <tr id="quorn">
             <td><a href="/forums/topic/quorn/">Is Quorn Bad for Gout?</a></td>
             <td>Many gout patients change from meat to meatless protein. Usually to support allopurinol or other uric acid treatment. In this discussion, you can follow other people's experiences. Then follow links to the latest research. So read <a href="/forums/topic/quorn/">is Quorn bad for gout</a>.</td>
