@@ -27,7 +27,7 @@ tags:
     <tbody style="vertical-align:top;">
         <tr id="elderberry">
             <td><a href="https://goutpal.info/blog/elderberries-uric-acid-research/">Elderberry and Gout</a></td>
-            <td>Will you support or replace allopurinol with elderberry products for your uric acid treatment package? Then read elderberry and uric acid research</a>.</td>
+            <td>Will you support or replace allopurinol with elderberry products for your uric acid treatment package? Then read <a href="https://goutpal.info/blog/elderberries-uric-acid-research/">elderberry and uric acid research</a>.</td>
         </tr>
         <tr id="quorn">
             <td><a href="https://goutpal.info/blog/quorn-and-gout-research/">Quorn and Gout</a></td>
