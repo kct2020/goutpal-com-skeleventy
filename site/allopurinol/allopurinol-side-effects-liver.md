@@ -91,5 +91,5 @@ Please <a href="{{ site.social_links.GitHub }}issues/26">share your thoughts abo
 
 <h4 id="footnote">{{ title }} Footnote</h4>
 <dl>
-<dt id="fn1"><sup>[*]</sup></dt><dd>There are more details about these studies in the GoutPal Progress Notes for this page. Along with other details. Including some full studies. So if you are unfamiliar with GoutPal Progress Notes, <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues/9">ask here</a>.</dd>
+<dt id="fn1"><sup>[*]</sup></dt><dd>There are more details about these studies in the GoutPal Progress Notes for this page. Along with other details. Including some full studies. So if you are unfamiliar with GoutPal Progress Notes, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>.</dd>
 </dl>
