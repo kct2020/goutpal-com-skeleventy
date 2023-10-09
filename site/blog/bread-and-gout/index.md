@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-10-05
+revised: 2023-10-09
 meta_description: Gout sufferers want to know about bread and gout. First, assess the right amount for general health.Then change quantity and type to suit your uric acid target.
 sub_heading: How much bread should gout sufferers eat? Adjust healthy consumption to your uric acid target.
 title: Bread and Gout
