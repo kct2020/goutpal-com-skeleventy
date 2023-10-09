@@ -42,7 +42,7 @@ tags:
 </figure>
 <h2 id="next">Does Bread Cause Your Gout?</h2>
 <p>By now, you should have identified your gout progression phase. So, your next step is to research facts about bread that affect your phase of gout. Or to express your bread concerns about your phase of gout. Then you should review and resolve all your bread concerns with your doctor.</p>
-<p>In the first case, you should read <a href="/blog/gout-bread/">Gout &amp; Bread Facts</a>. Otherwise, start reading <a href="what-bread-is-good-for-gout">What Bread Is Good For Gout</a>. But if you're not sure what to read next, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067" target="_blank">ask in the Gout Forum</a>.</p>
+<p>In the first case, you should read <a href="/blog/gout-bread/">Gout &amp; Bread Facts</a>. Otherwise, start reading <a href="/blog/what-bread-is-good-for-gout">What Bread Is Good For Gout</a>. But if you're not sure what to read next, <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067" target="_blank">ask in the Gout Forum</a>.</p>
 <p>Leave Does Bread Cause Gout to browse the <a href="/blog/bread-and-gout/">Bread and Gout Index</a>. Or browse <a href="/blog/gout-progression/">Gout Progression Phases</a>.</p>
 <h4 id="featuredimage">Does Bread Cause Gout Featured Image</h4>
 <p>I derived this work from a section of the 1799 cartoon The Gout, by James Gillray. (Photograph: Lordprice Collection/Alamy) superimposed on <a href="https://www.flickr.com/photos/utahwildflowers/4866881190" target="_blank">Crab Bread by utahwildflowers</a> wrapped in my GoutPal logo and image title/caption.</p>
