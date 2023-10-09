@@ -1,11 +1,7 @@
 # GoutPal.com Admin Area
 ![GoutPal Logo](https://goutpal.com//images/friendly-help-for-gout-620.webp "GoutPal's Friendly Help For Gout")
 
-Gout sufferers can ignore this and go straight to...
-- [GoutPal's Gout Discussions](https://github.com/kct2020/goutpal-com-skeleventy/discussions). Where you can chat with fellow gout sufferers.
-- [GoutPal's Gout Issues](https://github.com/kct2020/goutpal-com-skeleventy/issues). Where you can seek personal help about any GoutPal page.
-
-If in doubt, start at [GoutPal Forums Replacement](https://goutpal.com/blog/gout-discussion-forums/)
+Gout sufferers can ignore this and go straight to [GoutPal's Gout Forum](https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067). Where you can chat with fellow gout sufferers. Also, seek personal help about any GoutPal page.
 
 For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
 
