@@ -31,6 +31,14 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="water">
+            <td><a href="/gout-pal-forum/please-help-my-gout/distilled-water-and-gout/">Which Bottled Water is Best for Gout?</a></td>
+            <td>What is the best bottled water for gout? Does it matter as long as you stay hydrated? Read the <a href="/gout-pal-forum/please-help-my-gout/distilled-water-and-gout/">best bottled water for gout</a> discussion.</td>
+        </tr>
+        <tr id="soda">
+            <td><a href="/gout-treatment/gout-cures/home-remedies-for-gout/">Soda Water and Gout</a></td>
+            <td>There are many aspects to water consumption and gout. Including, ways to adjust your uric acid cure by changing the quantity or type of water you consume. Read the <a href="/gout-treatment/gout-cures/home-remedies-for-gout/">soda water and gout</a> facts.</td>
+        </tr>
         <tr id="elderberry">
             <td><a href="/gout-pal-forum/please-help-my-gout/elderberry/">Is Elderberry Good for Gout?</a></td>
             <td>Elderberries are commonly used in pies, jelly, syrups, and wine. But how are they as a uric acid cure? Read <a href="/gout-pal-forum/please-help-my-gout/elderberry/">is elderberry good for gout</a> now.</td>
