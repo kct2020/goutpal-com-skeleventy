@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-28
-revised: 2023-10-08
+revised: 2023-10-12
 meta_description: It can be a long journey to recover from gout. So the sooner you start, the quicker you're cured. Learn how to start your uric acid cure today.
 sub_heading: Begin your journey to gout freedom. Start your uric acid cure.
 title: Start Uric Acid Cure
@@ -25,6 +25,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="mahi">
+            <td><a href="/gout-pal-forum/users/natea/replies/page/3/">Mahi Mahi & Gout</a></td>
+            <td>Can gout sufferers eat mahi mahi? Or do you call it dorado or dolphinfish? Whatever the name, join the <a href="/gout-pal-forum/users/natea/replies/page/3/">mahi mahi & gout</a> discussion.</td>
+        </tr>
         <tr id="elderberry">
             <td><a href="https://goutpal.info/blog/elderberries-uric-acid-research/">Elderberry and Gout</a></td>
             <td>Will you support or replace allopurinol with elderberry products for your uric acid treatment package? Then read <a href="https://goutpal.info/blog/elderberries-uric-acid-research/">elderberry and uric acid research</a>.</td>
