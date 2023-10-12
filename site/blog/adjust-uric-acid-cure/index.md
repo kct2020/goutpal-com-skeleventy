@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-29
-revised: 2023-10-08
+revised: 2023-10-12
 meta_description: Expect changes during your gout recovery journey. From planned dose adjustments for safe uric acid cure. Or different treatment options due to adverse effects.
 sub_heading: Move up the gears with higher uric acid cure doses. Or switch tracks to avoid adverse effects.
 title: Adjust Uric Acid Cure
@@ -31,6 +31,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="mahi">
+            <td><a href="/gout-pal-forum/users/natea/replies/page/3/">Mahi Mahi & Gout</a></td>
+            <td>Can gout sufferers eat mahi mahi? Or do you call it dorado or dolphinfish? Whatever the name, join the <a href="/gout-pal-forum/users/natea/replies/page/3/">mahi mahi & gout</a> discussion.</td>
+        </tr>
         <tr id="water">
             <td><a href="/gout-pal-forum/please-help-my-gout/distilled-water-and-gout/">Which Bottled Water is Best for Gout?</a></td>
             <td>What is the best bottled water for gout? Does it matter as long as you stay hydrated? Read the <a href="/gout-pal-forum/please-help-my-gout/distilled-water-and-gout/">best bottled water for gout</a> discussion.</td>
