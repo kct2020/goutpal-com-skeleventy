@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-21
-revised: 2023-10-07
+revised: 2023-10-14
 meta_description: New gout sufferers want to know what is causing their agony. But there are many causes of gout. So which apply to you? Read the list of gout causes.
 sub_heading: Gout has many causes. But what causes your gout?
 title: Gout Causes
@@ -33,6 +33,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="furosemide">
+            <td><a href="/forums/topic/lasix-furosemide-as-a-cause-of-secondary-gout/">Does Furosemide Increase Uric Acid?</a></td>
+            <td>Gout secondary to Lasix is a common condition. Is there a way to find diuretics that don't cause gout? How <a href="/forums/topic/lasix-furosemide-as-a-cause-of-secondary-gout/">does furosemide increase uric acid</a>.</td>
+        </tr>
         <tr id="quorn">
             <td><a href="/gout-pal-forum/please-help-my-gout/quorn-gout-trigger/">Does Quorn Cause Gout?</a></td>
             <td>Switching from meat protein usually helps to prevent gout. But what about meat substitutes? Read <a href="/gout-pal-forum/please-help-my-gout/quorn-gout-trigger/">is Quorn good for gout</a>.</td>
@@ -55,7 +59,7 @@ tags:
         </tr>
         <tr id="diuretic">
             <td><a href="/gout-symptoms/diuretics-cause-gout/">Which Diuretics Cause Gout?</a></td>
-            <td>Diuretics cause gout, so what can you do if you need water pills for other health problems? There are alternatives. See how better choices avoid causing gout. Read <a href="/gout-symptoms/diuretics-cause-gout/">which diuretics cause gout</a>.</td>
+            <td>Diuretics cause gout, so what can you do if you need water pills for other health problems? There are alternatives to furosemide (Lasix). See how better choices avoid causing gout. Read <a href="/gout-symptoms/diuretics-cause-gout/">furosemide and gout</a> facts.</td>
         </tr>
         <tr id="hyper">
             <td><a href="/1512/beware-gout-cures-you-do-not-need/drugs-causing-hyperuricemia-media/">Drugs that Cause Hyperuricemia</a></td>
