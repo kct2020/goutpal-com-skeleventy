@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-22
-revised: 2023-12-15
+revised: 2023-10-18
 meta_description: Each gout sufferer shows different symptoms. Maybe affecting the diagnosis and your shared decisions about treatment. So, do you know your gout symptoms?
 sub_heading: Every gout sufferer has different symptoms. What, and where, are yours?
 title: Gout Symptoms
@@ -26,6 +26,10 @@ tags:
         </tr>
     </thead>
     <tbody style="vertical-align:top;">
+        <tr id="fmla">
+            <td><a href="/gout-pal-forum/please-help-my-gout/fmla/">Can You Get FMLA for Gout?</a></td>
+            <td>Gout sufferers want to know if their symptoms allow them to claim Family and Medical Leave Act benefits. Does your gout qualify for FMLA? Join the <a href="/gout-pal-forum/please-help-my-gout/fmla/">gout and FMLA</a> discussion.</td>
+        </tr>
         <tr id="mild">
             <td><a href="/forums/topic/mild-gout-attack/">Mild Gout Symptoms</a></td>
             <td>Can you have a mild gout attack? Is gout always very painful? Or can you sometimes get minor gout? Read the <a href="/forums/topic/mild-gout-attack/">mild gout symptoms</a> discussion.</td>
