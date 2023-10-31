@@ -19,7 +19,7 @@ tags:
 <h3 id="balsamic">Is Balsamic Vinegar Good or Bad for Gout?</h3>
 <p>In <a href="/blog/balsamic-vinegar-and-gout/">Balsamic Vinegar and Gou</a>t, I explain how there is a lack of evidence about balsamic vinegar. But you must focus on your own tastes and medical needs. Then, if you are still concerned, you can ask your doctor for blood tests that will confirm if your rate of <a href="/blog/balsamic-vinegar-and-gout/">balsamic vinegar consumption is OK for your gout</a>.</p>
 <h3 id="good"><a href="/blog/is-vinegar-good-for-gout/">Is Vinegar Good or Bad for Gout?</a></h3>
-<p>Is vinegar good or bad for gout? There's enough science to say it is not bad. But how good depends on how you and your doctor use vinegar in your recovery plan. Read <a href="/is-vinegar-good-for-gout/">facts about uric acid and vinegar</a>.</p>
+<p>Is vinegar good or bad for gout? There's enough science to say it is not bad. But how good depends on how you and your doctor use vinegar in your recovery plan. Read <a href="/blog/is-vinegar-good-for-gout/">facts about uric acid and vinegar</a>.</p>
 <h3 id="acv"><a href="/3170/what-is-gout-3-the-apple-cider-vinegar-myth/">Is Apple Cider Vinegar Good or Bad for Gout?</a></h3>
 <p>Is ACV good for gout? The myths say it is a cure for gout attacks. But the science exposes those myths. See all the <a href="/3170/what-is-gout-3-the-apple-cider-vinegar-myth/">apple cider vinegar and gout</a> facts now.</p>
 <figure id="image" class="inner">
