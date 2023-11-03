@@ -10,6 +10,8 @@ Because I don't want to lose this URL replace tip, I'm noting it here so I don't
 `git grep -l 'https://keith-taylor.pages.dev' | xargs sed -i 's|https://keith-taylor.pages.dev|https://shrewdies.net|g'`
 Props https://blog.jasonmeridth.com/posts/use-git-grep-to-replace-strings-in-files-in-your-git-repository/ and https://gist.github.com/msamendinger/c2da6f5fafc43e72ef576a0cc7ad0165?permalink_comment_id=3820228#gistcomment-3820228
 
+git grep -l '"https://shrewdies.net"' | xargs sed -i 's|"https://shrewdies.net"|"https://shrewdies.net"|g'
+
 ## 220524 Project Note
 I need to update the social media tags in Skeleventy. Because the Open Graph image is set to a Skeleventy logo. Which makes all social postings, and Google Search Engine results, use a Skeleventy banner instead of my featured image. At the same time, I noticed other issues, so here are the changes that I need to apply to all my Skeleventy templates:
 - site/includes/components/social-meta.njk
