@@ -97,7 +97,7 @@ Simply select and copy any question that interests you. Then paste it into the <
 
 You can see that it is time to stop looking for a 'best' solution to your gout concerns. Instead, you should start keeping records of your gout concerns. Together with your personal gout profile. That way, you have adequate information to start meaningful consultations with your health advisers.
 
-Of course, if you want help to prepare for those consultations, you can <a href="{{ site.social_links.GitHub }}discussions">discuss your thoughts with other gout sufferers</a>. But if you want me to clarify any aspect of this article, please add your comments to <a href="{{ site.social_links.GitHub }}issues/">GoutPal Issues</a>.
+Of course, if you want help to prepare for those consultations, you can <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>.
 
 ***
 

@@ -90,16 +90,7 @@ These are common concerns about {{ topic }} that other gout sufferers have ident
 <h2 id="next">Indomethacin & Your Gout</h2>
 Browse the articles above or <a href="{{ site.searchurl }}">search for your indomethacin concerns</a>.
  
-If you think I've missed anything about {{ topic }}, please see the <a href="#feedback">feedback section</a> below.
+If you think I've missed anything about {{ topic }}, please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>.
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or see the <a href="/gout-treatment/gout-cure/indomethacin/">old version of this page</a>.
-
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Your feedback helps me prioritize adding more {{ topic }} articles. In particular, I'd love to know if you want extra articles in this {{ topic }} list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.GitHub }}issues/47">improving this page</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>
-
-If you are asking a question, it's best to:
-1. Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.
-2. Choose the most relevant result.
-3. Refer to that result as you ask your question.

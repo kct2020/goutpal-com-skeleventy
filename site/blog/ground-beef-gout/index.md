@@ -57,15 +57,11 @@ You should now see there is no need to discuss ground beef with your dietitian o
 
 If your ground beef consumption exceeds national guidelines, you should reduce it. But if you are already limiting meat intake to national guidelines, then you should start discussing other food groups with your dietitian.
 
-Please note that I am considering summarizing national guidelines for healthy eating patterns. Because that will allow you to prepare better gout questions about your food intake. So please tell me what would help you most (see Feedback below).
+Please note that I am considering summarizing national guidelines for healthy eating patterns. Because that will allow you to prepare better gout questions about your food intake. So please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a> to tell me what would help you most.
 
 ***
 
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies Plan</a>.
-
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Please share your thoughts about this page at <a href="{{ site.social_links.GitHub }}issues/28">Ground Beef & Gout Issue</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about ground beef, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
+Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>

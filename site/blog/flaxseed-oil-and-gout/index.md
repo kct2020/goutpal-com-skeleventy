@@ -54,20 +54,10 @@ Your next steps for flaxseed oil and your gout are:<ol>
 <li>Adjust your eating pattern to include your preferred portion of flaxseed oil.</li>
 </ol>
 
-If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+If you still have concerns about {{ topic }}, you should discuss those concerns with your professional health advisers. However, if you want help to prepare for that discussion, please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>.
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or return to your <a href="/9569/goutpal-plan-for-gout-foodies/">GoutPal Foodies</a>.
-
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Please <a href="{{ site.social_links.GitHub }}issues/87">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
-
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
 
 <h4 id="refs">{{ title }} References</h4>
 <ol>
