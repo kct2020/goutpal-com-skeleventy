@@ -20,7 +20,7 @@ GoutPal's Clear Gout Pain Plan usually relies on drugs to {{ topic }} as fast as
 
 <h2 id="stop">{{ title }}</h2>
 
-{{ title }} is an overview of my series of articles explaining how to {{ topic }}. Please note that I'm still working on some steps. So I'll add links to those soon. In the meantime, you can <a href="{{ site.searchurl }}">search for your concerns</a>. Or ask questions using the feedback link near the end of this article.
+{{ title }} is an overview of my series of articles explaining how to {{ topic }}. Please note that I'm still working on some steps. So I'll add links to those soon. In the meantime, you can <a href="{{ site.searchurl }}">search for your concerns</a>.
 
 <h3 id="clarify">Clarify Gout Pain Goals</h3>
 <em>Isn't the goal obvious? Stop this gout flare as fast as possible!</em>
@@ -70,7 +70,7 @@ Remember that every gout management plan has to be personal. So there is no sing
 
 Note, some health professionals will help you create your plan. So, check if your physician has any treatment planning services. Or other forms of clinical support. If not, you should create your own plan. Then, you have a framework to get professional advice on choice of meds, dosage, etc.
 
-If you need help with your {{ topic }} plan, please see the <a href="#feedback">feedback section</a> below.
+If you need help with your {{ topic }} plan, please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>.
 
 <hr />
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or read other articles in this series:
@@ -90,13 +90,3 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or read oth
 - <span class="company">E</span>nd Uric Acid Crystal Reaction
 - <span class="company">A</span>nti Inflammatory Gout Pain Relief
 - <span class="company">R</span>esidual Gout Pain
-
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Please <a href="{{ site.social_links.GitHub }}issues/new/choose">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about how to {{ topic }}, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
-
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>

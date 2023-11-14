@@ -58,9 +58,7 @@ I will add those to common concerns within the Allopurinol Section and the Uric 
 
 Now, you should understand that allopurinol can indirectly dissolve your tophi. But only if you work with your doctor to maintain uric acid at a low enough level. So make sure your <a href="/blog/starting-gout-plans/">GoutPal Patient Plan</a> is on target for that.
 
-If you still have concerns about allopurinol and tophi, you must discuss them with your doctor. So to help you prepare for those discussions, you can add personal notes here. I recommend that you do this as part of my Contributor Notes scheme. But these are your notes. So feel free to use whichever tools you and your advisers are most comfortable with. If you prefer less formality, you might <a href="{{ site.social_links.GitHub }}discussions">discuss your allopurinol and tophi concerns with other gout sufferers</a>.
-
-Finally, for feedback about this page, please use <a href="{{ site.social_links.GitHub }}issues/23">Tophi and Allopurinol Issues</a>. 
+If you still have concerns about allopurinol and tophi, you must discuss them with your doctor. So to help you prepare for those discussions, you can add personal notes here. I recommend that you do this as part of my Contributor Notes scheme. But these are your notes. So feel free to use whichever tools you and your advisers are most comfortable with. If you prefer less formality, <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>>. 
 
 ***
 

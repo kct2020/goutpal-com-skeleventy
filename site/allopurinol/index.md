@@ -127,4 +127,4 @@ Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>. Or see the 
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Your feedback helps me prioritize adding more allopurinol articles. In particular, I'd love to know if you want extra articles in this allopurinol list. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.GitHub }}issues/41">improving this page</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your allopurinol concerns with other gout sufferers</a>
+Your feedback helps me prioritize adding more allopurinol articles. In particular, I'd love to know if you want extra articles in this allopurinol list. But I also need to know about anything you would change to make this page more useful. So please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a> to share your thoughts.

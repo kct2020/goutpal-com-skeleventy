@@ -47,18 +47,9 @@ Interestingly, Adams also refers to his mother suffering arthritis. So could it 
 <h2 id="next">Ansel Adams & Your Gout</h2>
 You have learned how gout affected Ansel Adams' life. So will you allow gout to spoil your work and pleasure?
 
-If you still haven't started a gout management plan, you should consult your doctor about starting one. However, if you want help to prepare for that consultation, please see the <a href="#feedback">feedback section</a> below.
+If you still haven't started a gout management plan, you should consult your doctor about starting one. However, if you want help to prepare for that consultation, please <a href="/blog/contact-keith-taylor-at-goutpal/">contact me</a>.
 <hr />
 Leave {{ title }} to read about other <a href="/famous-people-with-gout/">Famous People With Gout</a>. Or return to your <a href="/9667/goutpal-plan-for-gout-victims/">GoutPal Plan For Gout Victims</a>.
-
-<h4 id="feedback">Ansel Adams & Gout Feedback</h4>
-Please <a href="{{ site.social_links.GitHub }}issues/new/choose/">share your thoughts about this page</a>. To discuss other gout concerns, use the feedback link for the most relevant page. But if you just want to chat with other gout sufferers about {{ topic }}, use <a href="{{ site.social_links.GitHub }}discussions">GoutPal's Gout Discussions</a>.
-
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
-<li>Choose the most relevant result.</li>
-<li>Refer to that result as you ask your question.</li>
-</ol>
 
 <h4 id="refs">Ansel Adams & Gout References</h4>
 <ol>

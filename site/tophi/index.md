@@ -130,7 +130,7 @@ This is especially important where resolving those concerns requires you to iden
 		</tr>
 		<tr id="natural">
 			<td>Dissolving Tophi Naturally</td>
-			<td>I'm currently investigating what gout sufferers are mainly concerned about when they ask about dissolving tophi naturally. That is, are you concerned if it can be done? Or are you convinced that tophi can be dissolved naturally - but not sure how? Let me know at the feedback links below.</td>
+			<td>I'm currently investigating what gout sufferers are mainly concerned about when they ask about dissolving tophi naturally. That is, are you concerned if it can be done? Or are you convinced that tophi can be dissolved naturally - but not sure how? Let me know at <a href="/blog/contact-keith-taylor-at-goutpal/">my contact details</a>.</td>
 		</tr>
 	</tbody>
 </table>
@@ -151,7 +151,3 @@ Later, I will add articles that support other steps in the GoutPal Patient Plan.
 ***
 
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-
-<h4 id="feedback">{{ title }} Feedback</h4>
-
-Your feedback helps me prioritize adding more tophi articles. So ask about adding your concerns here as a <a href="{{ site.social_links.GitHub }}issues">GoutPal Issue</a>. Or <a href="{{ site.social_links.GitHub }}discussions">discuss your tophi concerns with other gout sufferers</a>
