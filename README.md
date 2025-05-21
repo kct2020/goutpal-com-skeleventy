@@ -1,11 +1,23 @@
 # GoutPal.com Admin Area
+
 ![GoutPal Logo](https://goutpal.com//images/friendly-help-for-gout-620.webp "GoutPal's Friendly Help For Gout")
 
 Gout sufferers can ignore this and go straight to [GoutPal's Gout Forum](https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067). Where you can chat with fellow gout sufferers. Also, seek personal help about any GoutPal page.
 
 For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
 
+## 250521 replace GP adsense
+
+``` javascript
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-4857169685716700"
+     data-ad-slot="5155011969"></ins>
+```
+
 ## 220329 Tech Note
+
 Because I don't want to lose this URL replace tip, I'm noting it here so I don't lose it:
 `git grep -l 'https://keith-taylor.pages.dev' | xargs sed -i 's|https://keith-taylor.pages.dev|https://shrewdies.net|g'`
 Props https://blog.jasonmeridth.com/posts/use-git-grep-to-replace-strings-in-files-in-your-git-repository/ and https://gist.github.com/msamendinger/c2da6f5fafc43e72ef576a0cc7ad0165?permalink_comment_id=3820228#gistcomment-3820228
@@ -13,20 +25,22 @@ Props https://blog.jasonmeridth.com/posts/use-git-grep-to-replace-strings-in-fil
 git grep -l '"https://shrewdies.net"' | xargs sed -i 's|"https://shrewdies.net"|"https://shrewdies.net"|g'
 
 ## 220524 Project Note
-I need to update the social media tags in Skeleventy. Because the Open Graph image is set to a Skeleventy logo. Which makes all social postings, and Google Search Engine results, use a Skeleventy banner instead of my featured image. At the same time, I noticed other issues, so here are the changes that I need to apply to all my Skeleventy templates:
-- site/includes/components/social-meta.njk
- - twitter length from 140 to 280
- - og length from 140 to 300
- - og:image from {{ site.images.og }} to {{ page.post_image }}
- - twitter:image:src from {{ site.images.twitter }} to {{ page.post_image }}
-- site/includes/layouts/post.njk
- - added             "url": "{{ site.author.url }}"
- - publisher.logo.url from /images/meta/article-schema.png to /images/meta/apple-touch-icon.png
-- site/globals/site.json
- - added         "url": "https://shrewdies.net",
 
+I need to update the social media tags in Skeleventy. Because the Open Graph image is set to a Skeleventy logo. Which makes all social postings, and Google Search Engine results, use a Skeleventy banner instead of my featured image. At the same time, I noticed other issues, so here are the changes that I need to apply to all my Skeleventy templates:
+
+- site/includes/components/social-meta.njk
+  - twitter length from 140 to 280
+  - og length from 140 to 300
+  - og:image from {{ site.images.og }} to {{ page.post_image }}
+  - twitter:image:src from {{ site.images.twitter }} to {{ page.post_image }}
+- site/includes/layouts/post.njk
+  - added             "url": "{{ site.author.url }}"
+  - publisher.logo.url from /images/meta/article-schema.png to /images/meta/apple-touch-icon.png
+- site/globals/site.json
+  - added         "url": "https://shrewdies.net",
 
 ## 220207 Project Note
+
 This README needs rewriting to describe how to contribute to GoutPal. Most importantly, all regular contributors need to focus on is Issues and Discussions. Eventually, I can include a link for people who wish to make technical contributions to this template.
 
 Also, I will add notes here about technical issues. Though they should become part of the template documentation. In short, I need a workflow for maintaining template changes.
@@ -41,6 +55,7 @@ Today I have deleted gitpod.yml:
 But later I need to refine how and when running npm in gitpod is better than running it on deployment to Cloudflare Pages.
 
 ## Original README
+
 This template can be used to create a new website. Also, that new website can optionally include WordPress Transmigration.
 
 Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done:
@@ -51,10 +66,12 @@ Intention is to deploy this using Cloudflare Pages. But it should also work fine
 4. Create pre-launch content.
 
 ## 1. 1st Config Files
+
 - This readme project note
 - site/globals/site.json
 
 ## 2. Optional Import WP
+
 - Upload wp-static.zip to wp folder
 In Terminal:
 - cd wp
@@ -67,6 +84,7 @@ If you're not importing WordPress, you can optionally remove the config instruct
 - eleventy.config.js config.addPassthroughCopy({ "wp/": "/" })
 
 ## 3. Look and Feel
+
 These are current working notes. Eventually, this is about setting colors, background-image (if any), header images.
 
 - resources/scss/04-layout/_site.scss: change background to image to a different color. Not sure if this needs changing in main.css and/or main.min.css *
