@@ -8,6 +8,8 @@ For anyone who wants to contribute as a programmer/technician/author, you can st
 
 ## 250521 replace GP adsense
 
+Replace adverts coded to `7512621270035949` with...
+
 ``` javascript
 <ins class="adsbygoogle"
      style="display:block"
