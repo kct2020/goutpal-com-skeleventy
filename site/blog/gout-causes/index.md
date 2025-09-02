@@ -11,6 +11,18 @@ post_image: "/images/5-types-gout-causes.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1">
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2">
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">1️⃣ <span itemprop="name">Gout Causes</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="intro">2. {{ title }}</h2>
 <p>Are you asking, "Why me? What have I done to cause gout?"</p>
 <p>Or are you the type of gout sufferer who thinks, "I don't care what caused my gout! I just want to stop it now."</p>
 <p>As with all aspects of gout recovery, there is no right or wrong approach. But it is vital that you and your professional advisers agree how you will consider gout causes during your shared decision-making processes.</p>

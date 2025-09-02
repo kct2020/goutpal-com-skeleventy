@@ -10,7 +10,14 @@ post_image: "/images/gout-progression-phases.webp"
 tags:
 - blog
 ---
-
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1">
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2">
+</li>
+</ul>
 <h2 id="intro">Gout Progression Introduction</h2>
 <p>I have identified 7 phases of gout progression. Because I want to help you plan discussions with your doctor that are efficient and effective. For example, there is little value in discussing your concerns about allopurinol dosage or side effects if you haven't yet been properly diagnosed with gout.</p>
 <p>Most importantly, always remember that these notes are based on my personal experiences. So the views, explanations, and directions from your doctor must always take precedence. Therefore, it's best that you see this progression as one way of organizing your own personal gout notes. But always check with your healthcare team to see if they have their own resources to help you manage your gout.</p>
