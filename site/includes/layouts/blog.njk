@@ -66,7 +66,7 @@ pagination:
                         <h2><a class="card-title-link color-primary weight-regular hover-color-secondary" href="{{ post.url }}">{{ post.data.title }}</a></h2>
                         <p>{{ post.data.sub_heading }}</p>
 
-                        <time class="datetime color-grey text-400" datetime="{{ post.date | timestamp }}">
+                        <time class="datetime color-grey text-400" datetime="{{ post.date.timestamp }}">
                             {{ post.date | dateDisplay }}
                         </time>
 
