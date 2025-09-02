@@ -12,7 +12,7 @@ module.exports = config => {
     config.addFilter('dateDisplay', dates.friendly)
 
     // Timestamp for datetime element
-    config.addFilter('dateUTC', dates.timestamp)
+    config.addFilter('dateOnly', dates.timestamp)
 
     config.addFilter('log', value => {
       console.log(value)

@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 {%- if not page.data.hide_from_sitemap %}
     <url>
         <loc>{{ site.url }}{{ page.url | url }}</loc>
-        <lastmod>{{ page.date | dateUTC }}</lastmod>
+        <lastmod>{{ page.date }}</lastmod>
     </url>
 {%- endif %}
 {%- endfor %}
