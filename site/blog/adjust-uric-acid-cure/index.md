@@ -11,6 +11,18 @@ post_image: "/images/adjusting-your-uric-acid-cure.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">6️⃣ <span itemprop="name">Adjust UA</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="start">6️⃣ {{ title }}</h2>
 <p>It takes time to reverse the build-up of crystals from years of excess uric acid. So we started safely with our chosen low dose uric acid cure in the previous phase. Now we continue to adjust that dose to reach safe uric acid levels. While continuing to monitor gout symptoms. And manage any adverse treatment effects.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
 <p>There are too many topics about {{ topic }} for a single article. So this is a hub page for {{ topic }} articles. Which you can browse to find the specific topics that concern you most. However, it might not include all uric acid cure adjustment articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>

@@ -11,6 +11,18 @@ post_image: "/images/pain-redness-swelling-more-gout-symptoms.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">2️⃣ <span itemprop="name">Gout Symptoms</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="start">2️⃣ {{ title }}</h2>
 <p>Gout symptoms can be surprising. Because they spread beyond toes. To all joints. Then into soft tissues affecting all your organs. Also, with redness, itching, tingling, numbness, and fever. You'll be amazed to see the variety of gout symptoms.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
 <p>There are too many symptoms of gout for a single article. So this is a hub page for gout symptoms articles. Which you can browse to find the specific symptoms that concern you most. However, it might not include all {{ topic }} articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to check for more articles relevant to your particular symptoms.</p>

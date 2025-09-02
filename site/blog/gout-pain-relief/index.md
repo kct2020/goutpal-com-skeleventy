@@ -11,6 +11,18 @@ post_image: "/images/gout-pain-block-soothe-relieve.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">3️⃣ <span itemprop="name">Gout Pain Relief</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="start">3️⃣ {{ title }}</h2>
 <p>Gout pain causes misery. Even worse, it can distract you from uric acid control. Which you need to stop gout permanently. Worse still, very few medical professionals understand that one type of gout pain relief is rarely enough.</p>
 <p>So now is the time to learn how to block inflammation. Then soothe it and deal with any residual pain. Then you can share in the decision-making processes about your gout pain relief package.</p>
 <h2 id="intro">{{ title }} Introduction</h2>

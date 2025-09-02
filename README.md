@@ -6,6 +6,49 @@ Gout sufferers can ignore this and go straight to [GoutPal's Gout Forum](https:/
 
 For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
 
+## 250902 breadcrumb
+
+1. Create structure
+
+```html
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">1️⃣ <span itemprop="name">Gout Causes</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">2️⃣ <span itemprop="name">Gout Symptoms</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">3️⃣ <span itemprop="name">Gout Pain Relief</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">4️⃣ <span itemprop="name">UA Test</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">5️⃣ <span itemprop="name">Start UA</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">6️⃣ <span itemprop="name">Adjust UA</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">7️⃣ <span itemprop="name">Maintain UA</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="" itemprop="item"><span itemprop="name">title</span></a><meta itemprop="position" content="4">
+</li>
+</ul>
+```
+
+2. Apply to [Gout Progression](https://goutpal.com/blog/gout-progression/) pages.
+
+3. Start with `can you have gout with normal uric acid levels` and `gout with normal uric acid`. Possibly as separate branch?
+
 ## 250521 replace GP adsense
 
 Replace adverts coded to `7512621270035949` with...
