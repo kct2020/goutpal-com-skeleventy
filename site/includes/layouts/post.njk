@@ -18,7 +18,7 @@ layout: base
 
             <div class="post-meta box-flex mt-800 text-400">
 
-                <time class="datetime" datetime="{{ page.date | timestamp }}">{{ date | dateDisplay }}</time>
+                <time class="datetime" datetime="{{ page.date | dateUTC }}">{{ date | dateDisplay }}</time>
 
                 {% if tags %}
 
@@ -101,8 +101,8 @@ layout: base
             "url": "{{ site.url }}/images/meta/apple-touch-icon.png"
             }
         },
-        "datePublished": "{{ page.date | timestamp }}",
-        "dateModified": "{{ revised if revised else page.date | timestamp }}"
+        "datePublished": "{{ page.date | dateUTC }}",
+        "dateModified": "{{ revised if revised else page.date | dateUTC }}"
     }
     </script>
 

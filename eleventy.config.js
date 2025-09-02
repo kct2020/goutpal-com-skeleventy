@@ -12,7 +12,7 @@ module.exports = config => {
     config.addFilter('dateDisplay', dates.friendly)
 
     // Timestamp for datetime element
-    config.addFilter('timestamp', dates.timestamp)
+    config.addFilter('dateUTC', dates.timestamp)
 
     // Remove whitespace from a string
     config.addNunjucksFilter('spaceless', helpers.spaceless)
