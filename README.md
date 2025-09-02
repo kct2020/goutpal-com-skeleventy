@@ -13,13 +13,31 @@ For anyone who wants to contribute as a programmer/technician/author, you can st
 ```html
 <ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
-<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
 </li>
 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
-<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
 </li>
 		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
-<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">1️⃣ <span itemprop="name">Gout Causes</span></a><meta itemprop="position" content="3">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">1️⃣ <span itemprop="name">Gout Causes</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">2️⃣ <span itemprop="name">Gout Symptoms</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">3️⃣ <span itemprop="name">Gout Pain Relief</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">4️⃣ <span itemprop="name">UA Test</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">5️⃣ <span itemprop="name">Start UA</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">6️⃣ <span itemprop="name">Adjust UA</span></a><meta itemprop="position" content="3"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">7️⃣ <span itemprop="name">Maintain UA</span></a><meta itemprop="position" content="3"> »&nbsp;
 </li>
 		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
 <a href="" itemprop="item"><span itemprop="name">title</span></a><meta itemprop="position" content="4">

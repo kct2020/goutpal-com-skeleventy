@@ -12,7 +12,7 @@ tags:
 ---
 <ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
-<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
 </li>
 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
 <a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2">

@@ -10,6 +10,18 @@ post_image: "/images/which-uric-acid-test-for-gout.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">4️⃣ <span itemprop="name">UA Test</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="start">4️⃣ {{ title }}</h2>
 <p>Historically, uric acid testing has been fraught with problems for gout sufferers. Mainly because upper limits have been too vague to establish consistent treatment practices. But now it is clear that uric acid must be lowered below 6 mg/dL in most cases. So this phase of gout progression should be straightforward.</p>
 <p>However, what about the cases that slip through the net? Does your doctor adhere to the latest standards? Would you prefer to see results that are better than standard uric acid testing and control?</p>
 <p>It is time to ensure that you play your part in the shared decision-making processes for uric acid testing and results analysis.</p>

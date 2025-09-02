@@ -11,6 +11,18 @@ post_image: "/images/starting-your-uric-acid-cure.webp"
 tags:
 - blog
 ---
+<ul id="breadcrumb0" class="text-300" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com" itemprop="item">⌂ <span itemprop="name">Home</span></a><meta itemprop="position" content="1"> »&nbsp;
+</li>
+<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-progression/" itemprop="item">⤴ <span itemprop="name">Progress</span></a><meta itemprop="position" content="2"> »&nbsp;
+</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="box-inline-block">
+<a href="https://goutpal.com/blog/gout-causes/" itemprop="item">5️⃣ <span itemprop="name">Start UA</span></a><meta itemprop="position" content="3">
+</li>
+</ul>
+<h2 id="start">5️⃣ {{ title }}</h2>
 <p>At last, it's time to start curing your excess uric acid. But first you and your medical team need to decide if the standard allopurinol cure applies to you. Or if you need to work together to choose alternatives.</p>
 <h2 id="intro">{{ title }} Introduction</h2>
 <p>There are too many topics about {{ topic }} for a single article. So this is a hub page for articles about {{ topic }}. Which you can browse to find the specific topics that concern you most. However, it might not include all uric acid articles that are relevant to you. So you should also use the <a href="{{ site.searchurl }}">{{ site.searchname }}</a> to find more articles about {{ topic }}.</p>
