@@ -14,6 +14,10 @@ module.exports = config => {
     // Timestamp for datetime element
     config.addFilter('dateUTC', dates.timestamp)
 
+    config.addFilter('log', value => {
+      console.log(value)
+    });
+    
     // Remove whitespace from a string
     config.addNunjucksFilter('spaceless', helpers.spaceless)
 
