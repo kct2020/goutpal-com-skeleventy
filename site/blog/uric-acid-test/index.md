@@ -78,6 +78,14 @@ tags:
             <td><a href="/goutpal-topic/test/">Gout Testing</a></td>
             <td>Which tests for gout do you need? Your needs change depending on diagnosis. Also, a test can change as treatment progresses. Get gout testing facts now. Read <a href="/goutpal-topic/test/">gout testing</a>.</td>
         </tr>
+        <tr id="">
+            <td><a href=""></a></td>
+            <td></td>
+        </tr>
+        <tr id="">
+            <td><a href=""></a></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <h2 id="summary">{{ title }} Summary</h2>
@@ -94,7 +102,7 @@ tags:
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
-<h2 id="next">What is Your {{ title }} Process?</h2>
+<h2 id="next">Your {{ title }}</h2>
 I'm working on templates that help you identify and understand {{ topic }} processes and interpreting your results. In the meantime, you can start by adding notes about what you've learned about your {{ topic }} results so far.
 
 All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
