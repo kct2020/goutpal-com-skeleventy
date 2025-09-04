@@ -83,7 +83,7 @@ tags:
             <td>Can you have gout with normal uric acid levels? Yes. Understand this vital diagnostic detail to get proper treatment and stop the painful cycle of gout flares.</td>
         </tr>
         <tr id="normal-ua-gout">
-            <td><a href="/gout-pal-forum/please-help-my-gout/question-regarding-uric-acid-level-and-what-is-considered-normal/"></a>Gout With Normal Uric Acid</td>
+            <td><a href="/gout-pal-forum/please-help-my-gout/question-regarding-uric-acid-level-and-what-is-considered-normal/">Gout With Normal Uric Acid</a></td>
             <td>Experiencing gout with normal uric acid? Understand why it still hurts and learn to manage the cause. Join our community for answers!</td>
         </tr>
     </tbody>
@@ -103,6 +103,6 @@ tags:
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 <h2 id="next">Your {{ title }}</h2>
-By browsing articles listed above, you should learn your uric acid test requirements. In order to discuss them with your doctor. And create a lifetime plan for monitoring your uric acid levels. But if you still have unanswered concerns, just search <a href="{{ site.searchurl }}">search for more uric acid test information</a>.
+By browsing articles listed above, you should learn your uric acid test requirements. In order to discuss them with your doctor. And create a lifetime plan for monitoring your uric acid levels. But if you still have unanswered concerns, just <a href="{{ site.searchurl }}">search for more uric acid test information</a>.
 <hr>
 Leave {{ title }} to return to the <a href="/blog/gout-progression/">Gout Progression Phases Index</a>.
