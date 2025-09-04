@@ -1,11 +1,16 @@
 # GoutPal.com Admin Area
 
-![GoutPal Logo](https://goutpal.com//images/friendly-help-for-gout-620.webp "GoutPal's Friendly Help For Gout")
+## Sep 2025 Changes
 
-Gout sufferers can ignore this and go straight to [GoutPal's Gout Forum](https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067). Where you can chat with fellow gout sufferers. Also, seek personal help about any GoutPal page.
+### Old .net
 
-For anyone who wants to contribute as a programmer/technician/author, you can start by helping me improve this page. Or get involved with resolving Issues.
-
+- Gout Forum Relocated section:
+  - Gout Forum Closed `After reading {title}, do you still have concerns? Then ask your doctor. And while you are waiting, read more [gout progress index]`
+- The forum ‘Help My Gout! The Gout Forum’ is closed:
+  - `Leave {title}`
+- Thank you for visiting... footer:
+  - Delete all except disclaimer
+  
 ## 250902 breadcrumb
 
 1. Create structure

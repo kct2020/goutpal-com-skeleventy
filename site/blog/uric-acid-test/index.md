@@ -78,6 +78,14 @@ tags:
             <td><a href="/goutpal-topic/test/">Gout Testing</a></td>
             <td>Which tests for gout do you need? Your needs change depending on diagnosis. Also, a test can change as treatment progresses. Get gout testing facts now. Read <a href="/goutpal-topic/test/">gout testing</a>.</td>
         </tr>
+        <tr id="gout-normal-ua">
+            <td><a href="/forums/topic/normal-uric-acid-levels-but-have-gout-treating-with-allopurinol-and-veg-diet/">Can you have gout with normal uric acid levels?</a></td>
+            <td>Can you have gout with normal uric acid levels? Yes. Understand this vital diagnostic detail to get proper treatment and stop the painful cycle of gout flares.</td>
+        </tr>
+        <tr id="normal-ua-gout">
+            <td><a href="/gout-pal-forum/please-help-my-gout/question-regarding-uric-acid-level-and-what-is-considered-normal/">Gout With Normal Uric Acid</a></td>
+            <td>Experiencing gout with normal uric acid? Understand why it still hurts and learn to manage the cause. Join our community for answers!</td>
+        </tr>
     </tbody>
 </table>
 <h2 id="summary">{{ title }} Summary</h2>
@@ -94,12 +102,7 @@ tags:
 <img src="{{ post_image }}" alt="{{ image_alt }}"  width="610" height="377">
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
-<h2 id="next">What is Your {{ title }} Process?</h2>
-I'm working on templates that help you identify and understand {{ topic }} processes and interpreting your results. In the meantime, you can start by adding notes about what you've learned about your {{ topic }} results so far.
-
-All you do is highlight any text that interests you. Then click "Annotations" to personalize any GoutPal page. Which means you can keep your {{ topic }} notes linked here, where you can always find them.
-
-Do you need help with annotations? Or other unanswered questions or unresolved concerns? Then please <a href="https://links.goutpal.com/p/goutpal-links-gout-discussions?a=888958067">ask in the Gout Forum</a>. Or, if you prefer to use email, then subscribe to my free newsletter:
-<hr><a class="gumroad-button" href="https://links.goutpal.com/l/wqmwjs?a=888958067&wanted=true&price=0" data-gumroad-single-product="true" target="_blank">Subscribe to Free GoutPal Links <span class="gumroad-button-logo"></span></a>
-<p><i>Subscription is free, and your email address is safe. Because I will never share it with anyone else. I use Gumroad to provide this service, as described at <a href="https://goutpal.com/blog/goutpal-notifications/">GoutPal Links Newsletter Service</a>.</i></p><hr>
+<h2 id="next">Your {{ title }}</h2>
+By browsing articles listed above, you should learn your uric acid test requirements. In order to discuss them with your doctor. And create a lifetime plan for monitoring your uric acid levels. But if you still have unanswered concerns, just <a href="{{ site.searchurl }}">search for more uric acid test information</a>.
+<hr>
 Leave {{ title }} to return to the <a href="/blog/gout-progression/">Gout Progression Phases Index</a>.
